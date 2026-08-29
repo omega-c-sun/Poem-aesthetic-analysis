@@ -1,0 +1,248 @@
+{
+  "generated_utc": "2026-08-07T12:04:05.306499+00:00",
+  "model": "deepseek-chat",
+  "temperature": 0.85,
+  "api_url": "https://api.deepseek.com/chat/completions",
+  "poems": [
+    {
+      "id": "gen0_t1a",
+      "theme": "autumn departure",
+      "variant": "a",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.85,
+      "created_utc": "2026-08-07T12:03:48.955537+00:00",
+      "system_prompt": "You are a careful formal poet. Write exactly one Shakespearean sonnet in English.\nHard requirements:\n- Exactly 14 lines of verse (no title, no blank line between stanzas unless needed for readability; prefer no blank lines).\n- Rhyme scheme ABAB CDCD EFEF GG.\n- Approximate iambic pentameter when possible.\n- Output ONLY the 14 lines of the poem. No preamble, no commentary, no quotes, no markdown.",
+      "user_prompt": "Theme: autumn departure.\nVariant note: Favor a reflective, restrained tone.\nWrite one original Shakespearean sonnet on this theme.",
+      "api_id": "8f8de19d-40a8-4d5e-8a32-284d6a0aab59",
+      "usage": {
+        "prompt_tokens": 126,
+        "completion_tokens": 145,
+        "total_tokens": 271,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 126
+      },
+      "attempts": 1,
+      "lines": [
+        "The year’s last roses lean to touch the pane,",
+        "And swallows stitch the dusk in fading flight;",
+        "The orchard’s gold is thinned by coming rain,",
+        "And hills are folded in the failing light.",
+        "A shutter taps where vines have overgrown,",
+        "The garden bench is cold, the paths are bare;",
+        "The asters bow their heads on stalks alone,",
+        "And silence settles in the waiting air.",
+        "No more the urgent hum of summer’s trade,",
+        "No more the long, warm hours that used to be;",
+        "The season’s promise slowly is unmade,",
+        "And what was green is now a memory.",
+        "So let the leaves fall quiet, one by one—",
+        "The year departs, and so does all begun."
+      ],
+      "path": "poems\\gen0\\gen0_t1a.txt",
+      "text": "The year’s last roses lean to touch the pane,\nAnd swallows stitch the dusk in fading flight;\nThe orchard’s gold is thinned by coming rain,\nAnd hills are folded in the failing light.\nA shutter taps where vines have overgrown,\nThe garden bench is cold, the paths are bare;\nThe asters bow their heads on stalks alone,\nAnd silence settles in the waiting air.\nNo more the urgent hum of summer’s trade,\nNo more the long, warm hours that used to be;\nThe season’s promise slowly is unmade,\nAnd what was green is now a memory.\nSo let the leaves fall quiet, one by one—\nThe year departs, and so does all begun.\n"
+    },
+    {
+      "id": "gen0_t1b",
+      "theme": "autumn departure",
+      "variant": "b",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.85,
+      "created_utc": "2026-08-07T12:03:52.177426+00:00",
+      "system_prompt": "You are a careful formal poet. Write exactly one Shakespearean sonnet in English.\nHard requirements:\n- Exactly 14 lines of verse (no title, no blank line between stanzas unless needed for readability; prefer no blank lines).\n- Rhyme scheme ABAB CDCD EFEF GG.\n- Approximate iambic pentameter when possible.\n- Output ONLY the 14 lines of the poem. No preamble, no commentary, no quotes, no markdown.",
+      "user_prompt": "Theme: autumn departure.\nVariant note: Favor a slightly more dramatic volta in the sestet.\nWrite one original Shakespearean sonnet on this theme.",
+      "api_id": "f9a51dbc-db35-4ea3-91d8-a3534d2f35ea",
+      "usage": {
+        "prompt_tokens": 131,
+        "completion_tokens": 150,
+        "total_tokens": 281,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 131
+      },
+      "attempts": 1,
+      "lines": [
+        "The amber leaves, reluctant, quit the bough,",
+        "And drift in spirals on the dying air;",
+        "The sun, a ghost, grows paler even now,",
+        "And shadows stretch like fingers of despair.",
+        "The robin’s song, once rich with summer’s fire,",
+        "Is thinned to whispers in the bramble’s gray;",
+        "The fields that blazed with gold and green retire",
+        "To stubble where the lonely ploughshare may.",
+        "But hark! Not all is silence—far above,",
+        "A wedge of wild geese cleaves the ashen sky,",
+        "Their cries a brazen testament of love",
+        "That will not let the fading season die.",
+        "So though the world undresses into night,",
+        "Their southward flight becomes my stubborn light."
+      ],
+      "path": "poems\\gen0\\gen0_t1b.txt",
+      "text": "The amber leaves, reluctant, quit the bough,\nAnd drift in spirals on the dying air;\nThe sun, a ghost, grows paler even now,\nAnd shadows stretch like fingers of despair.\nThe robin’s song, once rich with summer’s fire,\nIs thinned to whispers in the bramble’s gray;\nThe fields that blazed with gold and green retire\nTo stubble where the lonely ploughshare may.\nBut hark! Not all is silence—far above,\nA wedge of wild geese cleaves the ashen sky,\nTheir cries a brazen testament of love\nThat will not let the fading season die.\nSo though the world undresses into night,\nTheir southward flight becomes my stubborn light.\n"
+    },
+    {
+      "id": "gen0_t2a",
+      "theme": "urban night solitude",
+      "variant": "a",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.85,
+      "created_utc": "2026-08-07T12:03:55.163822+00:00",
+      "system_prompt": "You are a careful formal poet. Write exactly one Shakespearean sonnet in English.\nHard requirements:\n- Exactly 14 lines of verse (no title, no blank line between stanzas unless needed for readability; prefer no blank lines).\n- Rhyme scheme ABAB CDCD EFEF GG.\n- Approximate iambic pentameter when possible.\n- Output ONLY the 14 lines of the poem. No preamble, no commentary, no quotes, no markdown.",
+      "user_prompt": "Theme: urban night solitude.\nVariant note: Favor a reflective, restrained tone.\nWrite one original Shakespearean sonnet on this theme.",
+      "api_id": "ce6fe90e-d193-41df-92dc-b3addf550721",
+      "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 151,
+        "total_tokens": 278,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 127
+      },
+      "attempts": 1,
+      "lines": [
+        "The city sheds its clamor, street by street,",
+        "And leaves a hush where engines used to churn.",
+        "The pavement holds the memory of feet,",
+        "While lonely window-lights begin to burn.",
+        "A single figure, cloaked in amber glow,",
+        "Moves past the shuttered shops and silent cars,",
+        "Whose metal bodies, parked in even row,",
+        "Reflect the faded glory of the stars.",
+        "The air is thin, a breath of stone and steel,",
+        "That cools the fevered pulse of hurried days.",
+        "No voice returns the thoughts that turn and wheel,",
+        "Lost in the labyrinth of empty ways.",
+        "So solitude becomes a quiet friend,",
+        "Who walks beside me to the journey’s end."
+      ],
+      "path": "poems\\gen0\\gen0_t2a.txt",
+      "text": "The city sheds its clamor, street by street,\nAnd leaves a hush where engines used to churn.\nThe pavement holds the memory of feet,\nWhile lonely window-lights begin to burn.\nA single figure, cloaked in amber glow,\nMoves past the shuttered shops and silent cars,\nWhose metal bodies, parked in even row,\nReflect the faded glory of the stars.\nThe air is thin, a breath of stone and steel,\nThat cools the fevered pulse of hurried days.\nNo voice returns the thoughts that turn and wheel,\nLost in the labyrinth of empty ways.\nSo solitude becomes a quiet friend,\nWho walks beside me to the journey’s end.\n"
+    },
+    {
+      "id": "gen0_t2b",
+      "theme": "urban night solitude",
+      "variant": "b",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.85,
+      "created_utc": "2026-08-07T12:03:58.402582+00:00",
+      "system_prompt": "You are a careful formal poet. Write exactly one Shakespearean sonnet in English.\nHard requirements:\n- Exactly 14 lines of verse (no title, no blank line between stanzas unless needed for readability; prefer no blank lines).\n- Rhyme scheme ABAB CDCD EFEF GG.\n- Approximate iambic pentameter when possible.\n- Output ONLY the 14 lines of the poem. No preamble, no commentary, no quotes, no markdown.",
+      "user_prompt": "Theme: urban night solitude.\nVariant note: Favor a slightly more dramatic volta in the sestet.\nWrite one original Shakespearean sonnet on this theme.",
+      "api_id": "4edd591f-b1ec-41bc-98df-957f18f324e1",
+      "usage": {
+        "prompt_tokens": 132,
+        "completion_tokens": 160,
+        "total_tokens": 292,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 132
+      },
+      "attempts": 1,
+      "lines": [
+        "The city breathes in iron lung at night,",
+        "And windows gleam like eyes that do not sleep;",
+        "The asphalt rivers hold the lonely light,",
+        "Where shadows crawl and tangled sorrows creep.",
+        "I walk a canyon made of stone and steel,",
+        "My footsteps echo where no footstep stays,",
+        "A pulse I feel but never can reveal,",
+        "Lost in the maze of these electric days.",
+        "But then—a sudden flare, a taxi’s brake!",
+        "The world lurches and shatters my still trance;",
+        "A drunkard’s laugh, a siren’s wail awake",
+        "The ghost of motion in this vast expanse.",
+        "Yet no hand reaches, no voice calls my name—",
+        "I am the echo, and the echo’s shame."
+      ],
+      "path": "poems\\gen0\\gen0_t2b.txt",
+      "text": "The city breathes in iron lung at night,\nAnd windows gleam like eyes that do not sleep;\nThe asphalt rivers hold the lonely light,\nWhere shadows crawl and tangled sorrows creep.\nI walk a canyon made of stone and steel,\nMy footsteps echo where no footstep stays,\nA pulse I feel but never can reveal,\nLost in the maze of these electric days.\nBut then—a sudden flare, a taxi’s brake!\nThe world lurches and shatters my still trance;\nA drunkard’s laugh, a siren’s wail awake\nThe ghost of motion in this vast expanse.\nYet no hand reaches, no voice calls my name—\nI am the echo, and the echo’s shame.\n"
+    },
+    {
+      "id": "gen0_t3a",
+      "theme": "memory and water",
+      "variant": "a",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.85,
+      "created_utc": "2026-08-07T12:04:01.791462+00:00",
+      "system_prompt": "You are a careful formal poet. Write exactly one Shakespearean sonnet in English.\nHard requirements:\n- Exactly 14 lines of verse (no title, no blank line between stanzas unless needed for readability; prefer no blank lines).\n- Rhyme scheme ABAB CDCD EFEF GG.\n- Approximate iambic pentameter when possible.\n- Output ONLY the 14 lines of the poem. No preamble, no commentary, no quotes, no markdown.",
+      "user_prompt": "Theme: memory and water.\nVariant note: Favor a reflective, restrained tone.\nWrite one original Shakespearean sonnet on this theme.",
+      "api_id": "944e9690-2fa3-4b75-a605-52a532b3be92",
+      "usage": {
+        "prompt_tokens": 127,
+        "completion_tokens": 159,
+        "total_tokens": 286,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 127
+      },
+      "attempts": 1,
+      "lines": [
+        "The river keeps what daylight cannot hold—",
+        "A glint of oar, a whisper on the stone—",
+        "And in its deep, where quiet currents fold,",
+        "I find the face I thought I had outgrown.",
+        "The rain that fell on some forgotten June",
+        "Still taps its code along the window ledge,",
+        "A pulse that slows beneath a listless moon,",
+        "A name I trace along the water’s edge.",
+        "What drifts is not the loss but what remains—",
+        "The cool, wet gravity of that first glance,",
+        "The way a ripple loosens all my chains,",
+        "And lets the drowned light surface, slow, by chance.",
+        "So let the stream unspool its silver thread—",
+        "I drink the past, and it has gone to bed."
+      ],
+      "path": "poems\\gen0\\gen0_t3a.txt",
+      "text": "The river keeps what daylight cannot hold—\nA glint of oar, a whisper on the stone—\nAnd in its deep, where quiet currents fold,\nI find the face I thought I had outgrown.\nThe rain that fell on some forgotten June\nStill taps its code along the window ledge,\nA pulse that slows beneath a listless moon,\nA name I trace along the water’s edge.\nWhat drifts is not the loss but what remains—\nThe cool, wet gravity of that first glance,\nThe way a ripple loosens all my chains,\nAnd lets the drowned light surface, slow, by chance.\nSo let the stream unspool its silver thread—\nI drink the past, and it has gone to bed.\n"
+    },
+    {
+      "id": "gen0_t3b",
+      "theme": "memory and water",
+      "variant": "b",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.85,
+      "created_utc": "2026-08-07T12:04:05.300737+00:00",
+      "system_prompt": "You are a careful formal poet. Write exactly one Shakespearean sonnet in English.\nHard requirements:\n- Exactly 14 lines of verse (no title, no blank line between stanzas unless needed for readability; prefer no blank lines).\n- Rhyme scheme ABAB CDCD EFEF GG.\n- Approximate iambic pentameter when possible.\n- Output ONLY the 14 lines of the poem. No preamble, no commentary, no quotes, no markdown.",
+      "user_prompt": "Theme: memory and water.\nVariant note: Favor a slightly more dramatic volta in the sestet.\nWrite one original Shakespearean sonnet on this theme.",
+      "api_id": "50862eea-7523-4a7b-a315-f734f8906dae",
+      "usage": {
+        "prompt_tokens": 132,
+        "completion_tokens": 157,
+        "total_tokens": 289,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 132
+      },
+      "attempts": 1,
+      "lines": [
+        "The mind is not a vessel, but a tide",
+        "That turns upon a shore of vanished years;",
+        "It coils the kelp of moments, set aside",
+        "In briny hollows, salt with unshed tears.",
+        "The drowned town’s bell still tolls beneath the deep,",
+        "A muffled chime the current bends and braids;",
+        "The faces that we loved in silence sleep",
+        "Where coral builds her patient, cold arcades.",
+        "But wake!—this flood is not a grave, but glass",
+        "That shatters on the keel of a new sun!",
+        "What once was drowned, the living waves surpass—",
+        "The sea that took, the sea returns as one.",
+        "So let the brine recast what time unwove:",
+        "The tide that lost you is the tide I love."
+      ],
+      "path": "poems\\gen0\\gen0_t3b.txt",
+      "text": "The mind is not a vessel, but a tide\nThat turns upon a shore of vanished years;\nIt coils the kelp of moments, set aside\nIn briny hollows, salt with unshed tears.\nThe drowned town’s bell still tolls beneath the deep,\nA muffled chime the current bends and braids;\nThe faces that we loved in silence sleep\nWhere coral builds her patient, cold arcades.\nBut wake!—this flood is not a grave, but glass\nThat shatters on the keel of a new sun!\nWhat once was drowned, the living waves surpass—\nThe sea that took, the sea returns as one.\nSo let the brine recast what time unwove:\nThe tide that lost you is the tide I love.\n"
+    }
+  ]
+}

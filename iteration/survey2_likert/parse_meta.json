@@ -1,0 +1,32 @@
+{
+  "parsed_utc": "2026-08-26T11:19:04.028411+00:00",
+  "source_xlsx": "c:\\Users\\孙行知\\Downloads\\381340228_按序号_英文十四行诗审美评分 Reading English Sonnets — Aesthetic Rating_12_12.xlsx",
+  "n_responses": 12,
+  "instrument_type": "likert_rating",
+  "coding": {
+    "item_7": "gen0 of selected lineage (first matrix)",
+    "item_8": "gen1 of selected lineage (second matrix)",
+    "branch_lineage": {
+      "1": "t1a",
+      "2": "t1b",
+      "3": "t2a",
+      "4": "t2b",
+      "5": "t3a",
+      "6": "t3b"
+    },
+    "note": "WJX titles do not name generation round. Mapping uses item order under the paired gen0-then-gen1 rating design."
+  },
+  "branch_counts": {
+    "1": 2,
+    "2": 2,
+    "3": 2,
+    "4": 2,
+    "5": 2,
+    "6": 2
+  },
+  "expertise_counts": {
+    "intermediate": 7,
+    "amateur": 1,
+    "expert": 4
+  }
+}

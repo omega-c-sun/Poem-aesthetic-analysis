@@ -1,0 +1,65 @@
+{
+  "created_utc": "2026-08-16T01:26:52.347089+00:00",
+  "round": "gen1",
+  "model_name": "Qwen/Qwen3-0.6B",
+  "device": "cpu",
+  "d": 8,
+  "n_layers": 28,
+  "n_heads": 16,
+  "aggregation": {
+    "primary": "mean over all layers and heads",
+    "late": "mean over last 4 layers and all heads",
+    "queries": "line-final tokens (14)",
+    "rhyme_keys": "Shakespearean partner line-end token spans"
+  },
+  "poems_dir": "stage1\\poems\\gen1",
+  "poems": [
+    {
+      "poem_id": "gen1_t1a",
+      "path": "stage1\\poems\\gen1\\gen1_t1a.txt",
+      "n_tokens": 146,
+      "theme": "autumn departure",
+      "variant": "a"
+    },
+    {
+      "poem_id": "gen1_t1b",
+      "path": "stage1\\poems\\gen1\\gen1_t1b.txt",
+      "n_tokens": 147,
+      "theme": "autumn departure",
+      "variant": "b"
+    },
+    {
+      "poem_id": "gen1_t2a",
+      "path": "stage1\\poems\\gen1\\gen1_t2a.txt",
+      "n_tokens": 152,
+      "theme": "urban night solitude",
+      "variant": "a"
+    },
+    {
+      "poem_id": "gen1_t2b",
+      "path": "stage1\\poems\\gen1\\gen1_t2b.txt",
+      "n_tokens": 147,
+      "theme": "urban night solitude",
+      "variant": "b"
+    },
+    {
+      "poem_id": "gen1_t3a",
+      "path": "stage1\\poems\\gen1\\gen1_t3a.txt",
+      "n_tokens": 145,
+      "theme": "memory and water",
+      "variant": "a"
+    },
+    {
+      "poem_id": "gen1_t3b",
+      "path": "stage1\\poems\\gen1\\gen1_t3b.txt",
+      "n_tokens": 151,
+      "theme": "memory and water",
+      "variant": "b"
+    }
+  ],
+  "outputs": {
+    "metrics_csv": "stage1\\analysis\\outputs\\gen1\\gen1_metrics.csv",
+    "figures_dir": "stage1\\analysis\\outputs\\gen1\\figures",
+    "per_poem_dir": "stage1\\analysis\\outputs\\gen1\\per_poem"
+  }
+}

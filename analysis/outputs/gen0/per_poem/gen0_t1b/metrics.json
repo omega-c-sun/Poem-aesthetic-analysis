@@ -1,0 +1,214 @@
+{
+  "d": 8,
+  "n_layers": 28,
+  "late_layer_indices": [
+    24,
+    25,
+    26,
+    27
+  ],
+  "all_layers": {
+    "entropy_mean": 1.506062120920308,
+    "entropy_median": 1.6448209653794272,
+    "rhyme_share_mean": 0.003601300388331944,
+    "rhyme_share_median": 0.0013150272775944425,
+    "n_queries_used": 14,
+    "per_query": [
+      {
+        "line_index": 0,
+        "query_token": 9,
+        "entropy": 0.10846301109978804,
+        "rhyme_share": 0.0,
+        "partner_spans": [
+          [
+            31,
+            32
+          ]
+        ],
+        "skipped": false
+      },
+      {
+        "line_index": 1,
+        "query_token": 19,
+        "entropy": 0.8389590329280859,
+        "rhyme_share": 0.0,
+        "partner_spans": [
+          [
+            39,
+            40
+          ]
+        ],
+        "skipped": false
+      },
+      {
+        "line_index": 2,
+        "query_token": 31,
+        "entropy": 1.2040067040489641,
+        "rhyme_share": 0.004191211785933722,
+        "partner_spans": [
+          [
+            8,
+            10
+          ]
+        ],
+        "skipped": false
+      },
+      {
+        "line_index": 3,
+        "query_token": 39,
+        "entropy": 1.28452210331624,
+        "rhyme_share": 0.011481591011622942,
+        "partner_spans": [
+          [
+            19,
+            20
+          ]
+        ],
+        "skipped": false
+      },
+      {
+        "line_index": 4,
+        "query_token": 51,
+        "entropy": 1.3163908125809773,
+        "rhyme_share": 0.0,
+        "partner_spans": [
+          [
+            74,
+            75
+          ]
+        ],
+        "skipped": false
+      },
+      {
+        "line_index": 5,
+        "query_token": 63,
+        "entropy": 1.5854035125776038,
+        "rhyme_share": 0.0,
+        "partner_spans": [
+          [
+            85,
+            86
+          ]
+        ],
+        "skipped": false
+      },
+      {
+        "line_index": 6,
+        "query_token": 74,
+        "entropy": 1.852916591813132,
+        "rhyme_share": 0.004407338383511885,
+        "partner_spans": [
+          [
+            51,
+            52
+          ]
+        ],
+        "skipped": false
+      },
+      {
+        "line_index": 7,
+        "query_token": 85,
+        "entropy": 1.569871425774183,
+        "rhyme_share": 0.002630054555188885,
+        "partner_spans": [
+          [
+            63,
+            64
+          ]
+        ],
+        "skipped": false
+      },
+      {
+        "line_index": 8,
+        "query_token": 97,
+        "entropy": 1.7042384181812509,
+        "rhyme_share": 0.0,
+        "partner_spans": [
+          [
+            119,
+            120
+          ]
+        ],
+        "skipped": false
+      },
+      {
+        "line_index": 9,
+        "query_token": 110,
+        "entropy": 1.9287314438979595,
+        "rhyme_share": 0.0,
+        "partner_spans": [
+          [
+            128,
+            129
+          ]
+        ],
+        "skipped": false
+      },
+      {
+        "line_index": 10,
+        "query_token": 119,
+        "entropy": 1.9591661470788382,
+        "rhyme_share": 0.005044962361743166,
+        "partner_spans": [
+          [
+            97,
+            98
+          ]
+        ],
+        "skipped": false
+      },
+      {
+        "line_index": 11,
+        "query_token": 128,
+        "entropy": 1.7862122898394166,
+        "rhyme_share": 0.005955642854346497,
+        "partner_spans": [
+          [
+            110,
+            111
+          ]
+        ],
+        "skipped": false
+      },
+      {
+        "line_index": 12,
+        "query_token": 137,
+        "entropy": 1.805390373964389,
+        "rhyme_share": 0.0,
+        "partner_spans": [
+          [
+            146,
+            147
+          ]
+        ],
+        "skipped": false
+      },
+      {
+        "line_index": 13,
+        "query_token": 146,
+        "entropy": 2.140597825783482,
+        "rhyme_share": 0.016707404484300113,
+        "partner_spans": [
+          [
+            137,
+            138
+          ]
+        ],
+        "skipped": false
+      }
+    ]
+  },
+  "late_layers": {
+    "entropy_mean": 0.5874800176070399,
+    "entropy_median": 0.6031947693537935,
+    "rhyme_share_mean": 0.0014667117773492224,
+    "rhyme_share_median": 0.00036019717655762375,
+    "n_queries_used": 14
+  },
+  "entropy_mean": 1.506062120920308,
+  "entropy_median": 1.6448209653794272,
+  "rhyme_share_mean": 0.003601300388331944,
+  "rhyme_share_median": 0.0013150272775944425,
+  "late_entropy_mean": 0.5874800176070399,
+  "late_rhyme_share_mean": 0.0014667117773492224
+}

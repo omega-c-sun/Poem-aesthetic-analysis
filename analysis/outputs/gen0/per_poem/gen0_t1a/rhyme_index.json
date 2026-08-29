@@ -1,0 +1,219 @@
+{
+  "n_lines": 14,
+  "rhyme_coverage": 1.0,
+  "phoneme_agree_pairs": 6,
+  "phoneme_pair_total": 7,
+  "query_token_indices": [
+    9,
+    19,
+    31,
+    40,
+    49,
+    60,
+    71,
+    79,
+    89,
+    101,
+    110,
+    119,
+    130,
+    142
+  ],
+  "partner_of": {
+    "0": 2,
+    "2": 0,
+    "1": 3,
+    "3": 1,
+    "4": 6,
+    "6": 4,
+    "5": 7,
+    "7": 5,
+    "8": 10,
+    "10": 8,
+    "9": 11,
+    "11": 9,
+    "12": 13,
+    "13": 12
+  },
+  "line_ends": [
+    {
+      "line_index": 0,
+      "end_word": "pane",
+      "token_start": 9,
+      "token_end": 10,
+      "oov": false,
+      "phones": [
+        "P",
+        "EY1",
+        "N"
+      ]
+    },
+    {
+      "line_index": 1,
+      "end_word": "flight",
+      "token_start": 19,
+      "token_end": 20,
+      "oov": false,
+      "phones": [
+        "F",
+        "L",
+        "AY1",
+        "T"
+      ]
+    },
+    {
+      "line_index": 2,
+      "end_word": "rain",
+      "token_start": 31,
+      "token_end": 32,
+      "oov": false,
+      "phones": [
+        "R",
+        "EY1",
+        "N"
+      ]
+    },
+    {
+      "line_index": 3,
+      "end_word": "light",
+      "token_start": 40,
+      "token_end": 41,
+      "oov": false,
+      "phones": [
+        "L",
+        "AY1",
+        "T"
+      ]
+    },
+    {
+      "line_index": 4,
+      "end_word": "overgrown",
+      "token_start": 48,
+      "token_end": 50,
+      "oov": false,
+      "phones": [
+        "OW2",
+        "V",
+        "ER0",
+        "G",
+        "R",
+        "OW1",
+        "N"
+      ]
+    },
+    {
+      "line_index": 5,
+      "end_word": "bare",
+      "token_start": 60,
+      "token_end": 61,
+      "oov": false,
+      "phones": [
+        "B",
+        "EH1",
+        "R"
+      ]
+    },
+    {
+      "line_index": 6,
+      "end_word": "alone",
+      "token_start": 71,
+      "token_end": 72,
+      "oov": false,
+      "phones": [
+        "AH0",
+        "L",
+        "OW1",
+        "N"
+      ]
+    },
+    {
+      "line_index": 7,
+      "end_word": "air",
+      "token_start": 79,
+      "token_end": 80,
+      "oov": false,
+      "phones": [
+        "EH1",
+        "R"
+      ]
+    },
+    {
+      "line_index": 8,
+      "end_word": "trade",
+      "token_start": 89,
+      "token_end": 90,
+      "oov": false,
+      "phones": [
+        "T",
+        "R",
+        "EY1",
+        "D"
+      ]
+    },
+    {
+      "line_index": 9,
+      "end_word": "be",
+      "token_start": 101,
+      "token_end": 102,
+      "oov": false,
+      "phones": [
+        "B",
+        "IY1"
+      ]
+    },
+    {
+      "line_index": 10,
+      "end_word": "unmade",
+      "token_start": 109,
+      "token_end": 111,
+      "oov": false,
+      "phones": [
+        "AH0",
+        "N",
+        "M",
+        "EY1",
+        "D"
+      ]
+    },
+    {
+      "line_index": 11,
+      "end_word": "memory",
+      "token_start": 119,
+      "token_end": 120,
+      "oov": false,
+      "phones": [
+        "M",
+        "EH1",
+        "M",
+        "ER0",
+        "IY0"
+      ]
+    },
+    {
+      "line_index": 12,
+      "end_word": "one",
+      "token_start": 130,
+      "token_end": 131,
+      "oov": false,
+      "phones": [
+        "W",
+        "AH1",
+        "N"
+      ]
+    },
+    {
+      "line_index": 13,
+      "end_word": "begun",
+      "token_start": 142,
+      "token_end": 143,
+      "oov": false,
+      "phones": [
+        "B",
+        "IH0",
+        "G",
+        "AH1",
+        "N"
+      ]
+    }
+  ]
+}

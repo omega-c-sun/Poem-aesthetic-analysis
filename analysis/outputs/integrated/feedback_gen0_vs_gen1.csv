@@ -1,0 +1,7 @@
+poem_id_x,lineage,generation_x,fb_count_gen0,substantive_gen0,chars_gen0,poem_id_y,generation_y,fb_count_gen1,substantive_gen1,chars_gen1,delta_substantive
+gen0_t1a,t1a,gen0,12,12,116.26666666666667,gen1_t1a,gen1,3,3,86.33333333333333,-9
+gen0_t1b,t1b,gen0,6,6,94.66666666666667,gen1_t1b,gen1,3,3,77.0,-3
+gen0_t2a,t2a,gen0,9,7,107.66666666666667,gen1_t2a,gen1,6,6,455.6666666666667,-1
+gen0_t2b,t2b,gen0,9,8,99.33333333333333,gen1_t2b,gen1,6,6,255.0,-2
+gen0_t3a,t3a,gen0,12,10,149.93333333333334,gen1_t3a,gen1,6,6,389.3333333333333,-4
+gen0_t3b,t3b,gen0,6,4,85.66666666666667,gen1_t3b,gen1,6,6,453.5,2

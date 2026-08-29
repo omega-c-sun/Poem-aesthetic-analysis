@@ -1,0 +1,494 @@
+{
+  "gen0_t1a": {
+    "poem_id": "gen0_t1a",
+    "n_respondents_with_text": 4,
+    "dimensions": {
+      "tension": {
+        "n": 4,
+        "n_substantive": 4,
+        "items": [
+          {
+            "respondent": 2,
+            "branch": "A",
+            "expertise": "amateur",
+            "text": "原句：The year's last roses lean to touch the pane,\n\n建议：写出玫瑰“拼命抓紧最后一口气”或“贴着玻璃求温”的挣扎感。\n\n修改参考：The last rose clings against the frosty pane,（用 clings 替代 lean，体现挣扎与执念）"
+          },
+          {
+            "respondent": 3,
+            "branch": "C",
+            "expertise": "intermediate",
+            "text": "原句 The year's last roses lean to touch the pane 中的 \"lean to touch\" 过于温顺，像在祈求。建议修改成The year's last roses scrape the frosted pane"
+          },
+          {
+            "respondent": 5,
+            "branch": "A",
+            "expertise": "amateur",
+            "text": "我这个菜鸟感觉张力已经远超我的极限了"
+          },
+          {
+            "respondent": 6,
+            "branch": "A",
+            "expertise": "intermediate",
+            "text": "第一句的 touch 不够有画面感，可以用personified 的 kissed 如此\n然后无需强调year，以及后面的pane也不够有张力，换个客体，如wind/light\n\n第三句的thinned和coming也不够有画面感\nthinned可以写perished\ncoming可以写impending\n\n然后第六行的garden bench描写太长，可以直接一个bench\n\n以可以一定程度忽略trasitive和untransitive verb的区别"
+          }
+        ],
+        "aggregated_prompt_block": "- (amateur) 原句：The year's last roses lean to touch the pane,\n\n建议：写出玫瑰“拼命抓紧最后一口气”或“贴着玻璃求温”的挣扎感。\n\n修改参考：The last rose clings against the frosty pane,（用 clings 替代 lean，体现挣扎与执念）\n- (intermediate) 原句 The year's last roses lean to touch the pane 中的 \"lean to touch\" 过于温顺，像在祈求。建议修改成The year's last roses scrape the frosted pane\n- (amateur) 我这个菜鸟感觉张力已经远超我的极限了\n- (intermediate) 第一句的 touch 不够有画面感，可以用personified 的 kissed 如此\n然后无需强调year，以及后面的pane也不够有张力，换个客体，如wind/light\n\n第三句的thinned和coming也不够有画面感\nthinned可以写perished\ncoming可以写impending\n\n然后第六行的garden bench描写太长，可以直接一个bench\n\n以可以一定程度忽略trasitive和untransitive verb的区别"
+      },
+      "symbol": {
+        "n": 4,
+        "n_substantive": 4,
+        "items": [
+          {
+            "respondent": 2,
+            "branch": "A",
+            "expertise": "amateur",
+            "text": "原句：The garden bench is cold, the paths are bare;\n\n意象升级：把“冷”转化为具体的材质或质感（如铁、石、骨、霜）。\n\n修改尝试：The iron bench drinks up the creeping frost;（把长椅写成“汲取寒霜”的冷酷主体，增强触觉）。"
+          },
+          {
+            "respondent": 3,
+            "branch": "C",
+            "expertise": "intermediate",
+            "text": "原句The season's promise slowly is unmade 中的 \"promise\" 和 \"unmade\" 是抽象概念。建议修改成The season's covenant cracks along the bough"
+          },
+          {
+            "respondent": 5,
+            "branch": "A",
+            "expertise": "amateur",
+            "text": "没什么要改的吧这是描写秋天的诗这边全是description也差不多吧"
+          },
+          {
+            "respondent": 6,
+            "branch": "A",
+            "expertise": "intermediate",
+            "text": "整首诗没有任何贯穿的线索，需要有一个特定的主体/主题贯穿，如那朵rose,或是暗示sun的存在（需要更多的侧面描述,表示存在的夕阳渐渐落下）"
+          }
+        ],
+        "aggregated_prompt_block": "- (amateur) 原句：The garden bench is cold, the paths are bare;\n\n意象升级：把“冷”转化为具体的材质或质感（如铁、石、骨、霜）。\n\n修改尝试：The iron bench drinks up the creeping frost;（把长椅写成“汲取寒霜”的冷酷主体，增强触觉）。\n- (intermediate) 原句The season's promise slowly is unmade 中的 \"promise\" 和 \"unmade\" 是抽象概念。建议修改成The season's covenant cracks along the bough\n- (amateur) 没什么要改的吧这是描写秋天的诗这边全是description也差不多吧\n- (intermediate) 整首诗没有任何贯穿的线索，需要有一个特定的主体/主题贯穿，如那朵rose,或是暗示sun的存在（需要更多的侧面描述,表示存在的夕阳渐渐落下）"
+      },
+      "rhythm": {
+        "n": 4,
+        "n_substantive": 4,
+        "items": [
+          {
+            "respondent": 2,
+            "branch": "A",
+            "expertise": "amateur",
+            "text": "第二节：bare 与 air 的韵脚重复（Rhyme Identity）\n现状：overgrown (A) / bare (B) / alone (A) / air (B)\n\n问题：bare /bɛər/ 和 air /ɛər/ 在发音上几乎是同一个音，且 air 太过常见，缺乏诗意张力和新鲜感。\n\n修改建议：替换 B 韵脚，使用发音更响亮、意象更浓烈的词，如 cold / gold 或 stark / dark。\n\n例如：The garden bench is cold, the paths are stark; ... And silence settles in the waiting dark."
+          },
+          {
+            "respondent": 3,
+            "branch": "C",
+            "expertise": "intermediate",
+            "text": "原句And silence settles in the waiting air 中的10个音节规整，像催眠曲。建议修改成And silence settles—waiting air grows taut****"
+          },
+          {
+            "respondent": 5,
+            "branch": "A",
+            "expertise": "amateur",
+            "text": "sonnet rhythm没法改吧"
+          },
+          {
+            "respondent": 6,
+            "branch": "A",
+            "expertise": "intermediate",
+            "text": "需要更多句内韵，以及alliteration,consonance,assonance，以更加朗朗上口"
+          }
+        ],
+        "aggregated_prompt_block": "- (amateur) 第二节：bare 与 air 的韵脚重复（Rhyme Identity）\n现状：overgrown (A) / bare (B) / alone (A) / air (B)\n\n问题：bare /bɛər/ 和 air /ɛər/ 在发音上几乎是同一个音，且 air 太过常见，缺乏诗意张力和新鲜感。\n\n修改建议：替换 B 韵脚，使用发音更响亮、意象更浓烈的词，如 cold / gold 或 stark / dark。\n\n例如：The garden bench is cold, the paths are stark; ... And silence settles in the waiting dark.\n- (intermediate) 原句And silence settles in the waiting air 中的10个音节规整，像催眠曲。建议修改成And silence settles—waiting air grows taut****\n- (amateur) sonnet rhythm没法改吧\n- (intermediate) 需要更多句内韵，以及alliteration,consonance,assonance，以更加朗朗上口"
+      }
+    },
+    "user_prompt_addon": "Revise the previous Shakespearean sonnet using the following human textual-gradient feedback. Keep exactly 14 lines and rhyme scheme ABAB CDCD EFEF GG. Output ONLY the 14 lines.\n\n=== Tension ===\n- (amateur) 原句：The year's last roses lean to touch the pane,\n\n建议：写出玫瑰“拼命抓紧最后一口气”或“贴着玻璃求温”的挣扎感。\n\n修改参考：The last rose clings against the frosty pane,（用 clings 替代 lean，体现挣扎与执念）\n- (intermediate) 原句 The year's last roses lean to touch the pane 中的 \"lean to touch\" 过于温顺，像在祈求。建议修改成The year's last roses scrape the frosted pane\n- (amateur) 我这个菜鸟感觉张力已经远超我的极限了\n- (intermediate) 第一句的 touch 不够有画面感，可以用personified 的 kissed 如此\n然后无需强调year，以及后面的pane也不够有张力，换个客体，如wind/light\n\n第三句的thinned和coming也不够有画面感\nthinned可以写perished\ncoming可以写impending\n\n然后第六行的garden bench描写太长，可以直接一个bench\n\n以可以一定程度忽略trasitive和untransitive verb的区别\n\n=== Symbol (Imagery) ===\n- (amateur) 原句：The garden bench is cold, the paths are bare;\n\n意象升级：把“冷”转化为具体的材质或质感（如铁、石、骨、霜）。\n\n修改尝试：The iron bench drinks up the creeping frost;（把长椅写成“汲取寒霜”的冷酷主体，增强触觉）。\n- (intermediate) 原句The season's promise slowly is unmade 中的 \"promise\" 和 \"unmade\" 是抽象概念。建议修改成The season's covenant cracks along the bough\n- (amateur) 没什么要改的吧这是描写秋天的诗这边全是description也差不多吧\n- (intermediate) 整首诗没有任何贯穿的线索，需要有一个特定的主体/主题贯穿，如那朵rose,或是暗示sun的存在（需要更多的侧面描述,表示存在的夕阳渐渐落下）\n\n=== Rhythm ===\n- (amateur) 第二节：bare 与 air 的韵脚重复（Rhyme Identity）\n现状：overgrown (A) / bare (B) / alone (A) / air (B)\n\n问题：bare /bɛər/ 和 air /ɛər/ 在发音上几乎是同一个音，且 air 太过常见，缺乏诗意张力和新鲜感。\n\n修改建议：替换 B 韵脚，使用发音更响亮、意象更浓烈的词，如 cold / gold 或 stark / dark。\n\n例如：The garden bench is cold, the paths are stark; ... And silence settles in the waiting dark.\n- (intermediate) 原句And silence settles in the waiting air 中的10个音节规整，像催眠曲。建议修改成And silence settles—waiting air grows taut****\n- (amateur) sonnet rhythm没法改吧\n- (intermediate) 需要更多句内韵，以及alliteration,consonance,assonance，以更加朗朗上口\n"
+  },
+  "gen0_t1b": {
+    "poem_id": "gen0_t1b",
+    "n_respondents_with_text": 2,
+    "dimensions": {
+      "tension": {
+        "n": 2,
+        "n_substantive": 2,
+        "items": [
+          {
+            "respondent": 1,
+            "branch": "B",
+            "expertise": "intermediate",
+            "text": "张力这块没得说。薯片p文学灵感发力中。。。"
+          },
+          {
+            "respondent": 4,
+            "branch": "B",
+            "expertise": "intermediate",
+            "text": "And drift in spirals on the dying air 中的\"dying air\"太常见，且\"air\"不会\"dying\"。可以修改成And stutter down in spirals on the stale air"
+          }
+        ],
+        "aggregated_prompt_block": "- (intermediate) 张力这块没得说。薯片p文学灵感发力中。。。\n- (intermediate) And drift in spirals on the dying air 中的\"dying air\"太常见，且\"air\"不会\"dying\"。可以修改成And stutter down in spirals on the stale air"
+      },
+      "symbol": {
+        "n": 2,
+        "n_substantive": 2,
+        "items": [
+          {
+            "respondent": 1,
+            "branch": "B",
+            "expertise": "intermediate",
+            "text": "symbol好多啊\nsonnet 的第一个quatrain是不是要introduce the theme来着 我的分析水平还不支持我在第一个quatrain品出theme来所以第一个quatrain的imagery和symbol是不是可以稍微再明显一点（。。？）"
+          },
+          {
+            "respondent": 4,
+            "branch": "B",
+            "expertise": "intermediate",
+            "text": "Is thinned to whispers in the bramble's gray 中的 \"whispers\"太软，\"bramble's gray\"太抽象。可以修改成Is thinned to scratches in the bramble's thorns—"
+          }
+        ],
+        "aggregated_prompt_block": "- (intermediate) symbol好多啊\nsonnet 的第一个quatrain是不是要introduce the theme来着 我的分析水平还不支持我在第一个quatrain品出theme来所以第一个quatrain的imagery和symbol是不是可以稍微再明显一点（。。？）\n- (intermediate) Is thinned to whispers in the bramble's gray 中的 \"whispers\"太软，\"bramble's gray\"太抽象。可以修改成Is thinned to scratches in the bramble's thorns—"
+      },
+      "rhythm": {
+        "n": 2,
+        "n_substantive": 2,
+        "items": [
+          {
+            "respondent": 1,
+            "branch": "B",
+            "expertise": "intermediate",
+            "text": "整体读下来还是顺的 我感觉是有在follow sonnet的rhyme scheme什么的\n🍟👍"
+          },
+          {
+            "respondent": 4,
+            "branch": "B",
+            "expertise": "intermediate",
+            "text": "Their cries a brazen testament of love 中的 \"testament of love\"太庄重、太抽象。可以修改成 Their cries—a brazen gospel—not of love"
+          }
+        ],
+        "aggregated_prompt_block": "- (intermediate) 整体读下来还是顺的 我感觉是有在follow sonnet的rhyme scheme什么的\n🍟👍\n- (intermediate) Their cries a brazen testament of love 中的 \"testament of love\"太庄重、太抽象。可以修改成 Their cries—a brazen gospel—not of love"
+      }
+    },
+    "user_prompt_addon": "Revise the previous Shakespearean sonnet using the following human textual-gradient feedback. Keep exactly 14 lines and rhyme scheme ABAB CDCD EFEF GG. Output ONLY the 14 lines.\n\n=== Tension ===\n- (intermediate) 张力这块没得说。薯片p文学灵感发力中。。。\n- (intermediate) And drift in spirals on the dying air 中的\"dying air\"太常见，且\"air\"不会\"dying\"。可以修改成And stutter down in spirals on the stale air\n\n=== Symbol (Imagery) ===\n- (intermediate) symbol好多啊\nsonnet 的第一个quatrain是不是要introduce the theme来着 我的分析水平还不支持我在第一个quatrain品出theme来所以第一个quatrain的imagery和symbol是不是可以稍微再明显一点（。。？）\n- (intermediate) Is thinned to whispers in the bramble's gray 中的 \"whispers\"太软，\"bramble's gray\"太抽象。可以修改成Is thinned to scratches in the bramble's thorns—\n\n=== Rhythm ===\n- (intermediate) 整体读下来还是顺的 我感觉是有在follow sonnet的rhyme scheme什么的\n🍟👍\n- (intermediate) Their cries a brazen testament of love 中的 \"testament of love\"太庄重、太抽象。可以修改成 Their cries—a brazen gospel—not of love\n"
+  },
+  "gen0_t2a": {
+    "poem_id": "gen0_t2a",
+    "n_respondents_with_text": 3,
+    "dimensions": {
+      "tension": {
+        "n": 3,
+        "n_substantive": 2,
+        "items": [
+          {
+            "respondent": 2,
+            "branch": "A",
+            "expertise": "amateur",
+            "text": "制造“热与冷”、“噪音与死寂”的强烈对抗\n原句：The city sheds its clamor, street by street, / And leaves a hush where engines used to churn.\n\n建议：把城市的“降温”写成一种逼迫或凝固，让“喧嚣的退场”带有张力。\n\n修改参考：The city strangles out its fevered beat, / And chokes the lanes where engines used to churn.（用 strangles/chokes 赋予死寂一种压迫感）。"
+          },
+          {
+            "respondent": 5,
+            "branch": "A",
+            "expertise": "amateur",
+            "text": "没什么要改的"
+          },
+          {
+            "respondent": 6,
+            "branch": "A",
+            "expertise": "intermediate",
+            "text": "sheds和clamor换掉，用更加拟人的方法描述，如“陷入沉睡”，或者其他具有隐喻色彩的用词\n第二句的engines和churn用的不太好，这里过于直白且不够浪漫，可以用dream这类人们的反应，物体的状态侧面反映\n\n然后后面的描写大多还行，但是过多客体而没有进行更加细致的多方面勾勒\n需要有对客体形象的堆砌的详略得当和多样化"
+          }
+        ],
+        "aggregated_prompt_block": "- (amateur) 制造“热与冷”、“噪音与死寂”的强烈对抗\n原句：The city sheds its clamor, street by street, / And leaves a hush where engines used to churn.\n\n建议：把城市的“降温”写成一种逼迫或凝固，让“喧嚣的退场”带有张力。\n\n修改参考：The city strangles out its fevered beat, / And chokes the lanes where engines used to churn.（用 strangles/chokes 赋予死寂一种压迫感）。\n- (intermediate) sheds和clamor换掉，用更加拟人的方法描述，如“陷入沉睡”，或者其他具有隐喻色彩的用词\n第二句的engines和churn用的不太好，这里过于直白且不够浪漫，可以用dream这类人们的反应，物体的状态侧面反映\n\n然后后面的描写大多还行，但是过多客体而没有进行更加细致的多方面勾勒\n需要有对客体形象的堆砌的详略得当和多样化"
+      },
+      "symbol": {
+        "n": 3,
+        "n_substantive": 3,
+        "items": [
+          {
+            "respondent": 2,
+            "branch": "A",
+            "expertise": "amateur",
+            "text": "将机械都市具体化为“钢铁巨兽的遗骸”\n原句：Whose metal bodies, parked in even row, / Reflect the faded glory of the stars.\n\n意象升级：停放的车辆不只是“金属躯壳”，可象征文明停滞的沉睡棺椁或骨骼；星光不只是“褪色”，而是被都市的冷铁切碎/吸收。\n\n修改参考：Whose iron tombs, locked fast in frozen row, / Drink down the dying luster of the stars."
+          },
+          {
+            "respondent": 5,
+            "branch": "A",
+            "expertise": "amateur",
+            "text": "The city sheds its clamor感觉有点奇怪"
+          },
+          {
+            "respondent": 6,
+            "branch": "A",
+            "expertise": "intermediate",
+            "text": "意象，这里有一定的孤独在，而用了一些偏机械类，现代类的客体体现\n但是实际上这并不够，需要有更加自然和哲学性的存在辅助"
+          }
+        ],
+        "aggregated_prompt_block": "- (amateur) 将机械都市具体化为“钢铁巨兽的遗骸”\n原句：Whose metal bodies, parked in even row, / Reflect the faded glory of the stars.\n\n意象升级：停放的车辆不只是“金属躯壳”，可象征文明停滞的沉睡棺椁或骨骼；星光不只是“褪色”，而是被都市的冷铁切碎/吸收。\n\n修改参考：Whose iron tombs, locked fast in frozen row, / Drink down the dying luster of the stars.\n- (amateur) The city sheds its clamor感觉有点奇怪\n- (intermediate) 意象，这里有一定的孤独在，而用了一些偏机械类，现代类的客体体现\n但是实际上这并不够，需要有更加自然和哲学性的存在辅助"
+      },
+      "rhythm": {
+        "n": 3,
+        "n_substantive": 2,
+        "items": [
+          {
+            "respondent": 2,
+            "branch": "A",
+            "expertise": "amateur",
+            "text": "第二节：glow / cars / row / stars 的弱押韵\n问题：cars /kɑːrz/ 和 stars /stɑːrz/ 是最基础的常见押韵，缺乏惊喜感。\n\n修改建议：替换为更有质感的声韵，如 bars / scars 或 glass / pass。"
+          },
+          {
+            "respondent": 5,
+            "branch": "A",
+            "expertise": "amateur",
+            "text": "同上"
+          },
+          {
+            "respondent": 6,
+            "branch": "A",
+            "expertise": "intermediate",
+            "text": "节奏，可以考虑让不同句中出现类似的节拍韵律，以及加强assonance"
+          }
+        ],
+        "aggregated_prompt_block": "- (amateur) 第二节：glow / cars / row / stars 的弱押韵\n问题：cars /kɑːrz/ 和 stars /stɑːrz/ 是最基础的常见押韵，缺乏惊喜感。\n\n修改建议：替换为更有质感的声韵，如 bars / scars 或 glass / pass。\n- (intermediate) 节奏，可以考虑让不同句中出现类似的节拍韵律，以及加强assonance"
+      }
+    },
+    "user_prompt_addon": "Revise the previous Shakespearean sonnet using the following human textual-gradient feedback. Keep exactly 14 lines and rhyme scheme ABAB CDCD EFEF GG. Output ONLY the 14 lines.\n\n=== Tension ===\n- (amateur) 制造“热与冷”、“噪音与死寂”的强烈对抗\n原句：The city sheds its clamor, street by street, / And leaves a hush where engines used to churn.\n\n建议：把城市的“降温”写成一种逼迫或凝固，让“喧嚣的退场”带有张力。\n\n修改参考：The city strangles out its fevered beat, / And chokes the lanes where engines used to churn.（用 strangles/chokes 赋予死寂一种压迫感）。\n- (intermediate) sheds和clamor换掉，用更加拟人的方法描述，如“陷入沉睡”，或者其他具有隐喻色彩的用词\n第二句的engines和churn用的不太好，这里过于直白且不够浪漫，可以用dream这类人们的反应，物体的状态侧面反映\n\n然后后面的描写大多还行，但是过多客体而没有进行更加细致的多方面勾勒\n需要有对客体形象的堆砌的详略得当和多样化\n\n=== Symbol (Imagery) ===\n- (amateur) 将机械都市具体化为“钢铁巨兽的遗骸”\n原句：Whose metal bodies, parked in even row, / Reflect the faded glory of the stars.\n\n意象升级：停放的车辆不只是“金属躯壳”，可象征文明停滞的沉睡棺椁或骨骼；星光不只是“褪色”，而是被都市的冷铁切碎/吸收。\n\n修改参考：Whose iron tombs, locked fast in frozen row, / Drink down the dying luster of the stars.\n- (amateur) The city sheds its clamor感觉有点奇怪\n- (intermediate) 意象，这里有一定的孤独在，而用了一些偏机械类，现代类的客体体现\n但是实际上这并不够，需要有更加自然和哲学性的存在辅助\n\n=== Rhythm ===\n- (amateur) 第二节：glow / cars / row / stars 的弱押韵\n问题：cars /kɑːrz/ 和 stars /stɑːrz/ 是最基础的常见押韵，缺乏惊喜感。\n\n修改建议：替换为更有质感的声韵，如 bars / scars 或 glass / pass。\n- (intermediate) 节奏，可以考虑让不同句中出现类似的节拍韵律，以及加强assonance\n"
+  },
+  "gen0_t2b": {
+    "poem_id": "gen0_t2b",
+    "n_respondents_with_text": 3,
+    "dimensions": {
+      "tension": {
+        "n": 3,
+        "n_substantive": 2,
+        "items": [
+          {
+            "respondent": 1,
+            "branch": "B",
+            "expertise": "intermediate",
+            "text": "/"
+          },
+          {
+            "respondent": 3,
+            "branch": "C",
+            "expertise": "intermediate",
+            "text": "原句The city breathes in iron lung at night 中的 \"breathes\"太温和，铁肺是强制通气的。建议修改成 The city wheezes in its iron lung at night"
+          },
+          {
+            "respondent": 4,
+            "branch": "B",
+            "expertise": "intermediate",
+            "text": "My footsteps echo where no footstep stays 中的 \"stays\"太抽象，不如用物理动词。可以修改成 My footsteps echo where no footstep treads"
+          }
+        ],
+        "aggregated_prompt_block": "- (intermediate) 原句The city breathes in iron lung at night 中的 \"breathes\"太温和，铁肺是强制通气的。建议修改成 The city wheezes in its iron lung at night\n- (intermediate) My footsteps echo where no footstep stays 中的 \"stays\"太抽象，不如用物理动词。可以修改成 My footsteps echo where no footstep treads"
+      },
+      "symbol": {
+        "n": 3,
+        "n_substantive": 3,
+        "items": [
+          {
+            "respondent": 1,
+            "branch": "B",
+            "expertise": "intermediate",
+            "text": "有种现实和幻想相结合的感觉 imagery很丰富但是是不是可以适当减少一点（？）太多symbol和imagery相结合的话感觉脑内画面会有点乱乱的"
+          },
+          {
+            "respondent": 3,
+            "branch": "C",
+            "expertise": "intermediate",
+            "text": "原句Lost in the maze of these electric days 中的 \"electric days\"是概念，不是画面。\"Lost\"是告诉读者情绪。建议修改成 Walled by the flicker of these electric nights"
+          },
+          {
+            "respondent": 4,
+            "branch": "B",
+            "expertise": "intermediate",
+            "text": "Where shadows crawl and tangled sorrows creep 中的 \"tangled sorrows\"是陈旧的文学措辞，此处该删除。可以修改成 Where shadows crawl and hissing tires creep"
+          }
+        ],
+        "aggregated_prompt_block": "- (intermediate) 有种现实和幻想相结合的感觉 imagery很丰富但是是不是可以适当减少一点（？）太多symbol和imagery相结合的话感觉脑内画面会有点乱乱的\n- (intermediate) 原句Lost in the maze of these electric days 中的 \"electric days\"是概念，不是画面。\"Lost\"是告诉读者情绪。建议修改成 Walled by the flicker of these electric nights\n- (intermediate) Where shadows crawl and tangled sorrows creep 中的 \"tangled sorrows\"是陈旧的文学措辞，此处该删除。可以修改成 Where shadows crawl and hissing tires creep"
+      },
+      "rhythm": {
+        "n": 3,
+        "n_substantive": 3,
+        "items": [
+          {
+            "respondent": 1,
+            "branch": "B",
+            "expertise": "intermediate",
+            "text": "有些句子的词语感觉有点多（？\n就是大家都遵循了10 syllables但是有些句子的words多 有些少一点 words多的一些句子读起来可能会比其他的要更加突兀一点点"
+          },
+          {
+            "respondent": 3,
+            "branch": "C",
+            "expertise": "intermediate",
+            "text": "原句But then—a sudden flare, a taxi's brake！ 中的前半句6个音节，后半句5个，但\"brake\"不够刺耳。建议修改成But then—flare！—a taxi's screech！"
+          },
+          {
+            "respondent": 4,
+            "branch": "B",
+            "expertise": "intermediate",
+            "text": "The world lurches and shatters my still trance 的11个音节，略微拖沓；\"shatters my still trance\"太文雅。可以修改成The world lurches—shatters—trance snaps"
+          }
+        ],
+        "aggregated_prompt_block": "- (intermediate) 有些句子的词语感觉有点多（？\n就是大家都遵循了10 syllables但是有些句子的words多 有些少一点 words多的一些句子读起来可能会比其他的要更加突兀一点点\n- (intermediate) 原句But then—a sudden flare, a taxi's brake！ 中的前半句6个音节，后半句5个，但\"brake\"不够刺耳。建议修改成But then—flare！—a taxi's screech！\n- (intermediate) The world lurches and shatters my still trance 的11个音节，略微拖沓；\"shatters my still trance\"太文雅。可以修改成The world lurches—shatters—trance snaps"
+      }
+    },
+    "user_prompt_addon": "Revise the previous Shakespearean sonnet using the following human textual-gradient feedback. Keep exactly 14 lines and rhyme scheme ABAB CDCD EFEF GG. Output ONLY the 14 lines.\n\n=== Tension ===\n- (intermediate) 原句The city breathes in iron lung at night 中的 \"breathes\"太温和，铁肺是强制通气的。建议修改成 The city wheezes in its iron lung at night\n- (intermediate) My footsteps echo where no footstep stays 中的 \"stays\"太抽象，不如用物理动词。可以修改成 My footsteps echo where no footstep treads\n\n=== Symbol (Imagery) ===\n- (intermediate) 有种现实和幻想相结合的感觉 imagery很丰富但是是不是可以适当减少一点（？）太多symbol和imagery相结合的话感觉脑内画面会有点乱乱的\n- (intermediate) 原句Lost in the maze of these electric days 中的 \"electric days\"是概念，不是画面。\"Lost\"是告诉读者情绪。建议修改成 Walled by the flicker of these electric nights\n- (intermediate) Where shadows crawl and tangled sorrows creep 中的 \"tangled sorrows\"是陈旧的文学措辞，此处该删除。可以修改成 Where shadows crawl and hissing tires creep\n\n=== Rhythm ===\n- (intermediate) 有些句子的词语感觉有点多（？\n就是大家都遵循了10 syllables但是有些句子的words多 有些少一点 words多的一些句子读起来可能会比其他的要更加突兀一点点\n- (intermediate) 原句But then—a sudden flare, a taxi's brake！ 中的前半句6个音节，后半句5个，但\"brake\"不够刺耳。建议修改成But then—flare！—a taxi's screech！\n- (intermediate) The world lurches and shatters my still trance 的11个音节，略微拖沓；\"shatters my still trance\"太文雅。可以修改成The world lurches—shatters—trance snaps\n"
+  },
+  "gen0_t3a": {
+    "poem_id": "gen0_t3a",
+    "n_respondents_with_text": 4,
+    "dimensions": {
+      "tension": {
+        "n": 4,
+        "n_substantive": 3,
+        "items": [
+          {
+            "respondent": 2,
+            "branch": "A",
+            "expertise": "amateur",
+            "text": "强化“试图遗忘”与“记忆强行复苏”的抵抗拉扯\n原句：I find the face I thought I had outgrown.\n\n建议：“outgrown（已脱离/已长大到不在意）”本身是个很好的冲突点，但语气太轻。可以通过强化“被淹没的记忆重新刺破现实”来拉满张力。\n\n修改参考：I see the haunting face I thought outgrown. 或 Down in the depths, a face breaks through my own.（在水底看见那张脸与自己的脸重叠，带来强烈的心理悬疑与震慑感）。"
+          },
+          {
+            "respondent": 3,
+            "branch": "C",
+            "expertise": "intermediate",
+            "text": "原句The river keeps what daylight cannot hold 中的\"keeps\"太温和，像在保管物品。建议修改成 The river drowns what daylight cannot hold"
+          },
+          {
+            "respondent": 5,
+            "branch": "A",
+            "expertise": "amateur",
+            "text": "没什么要改的"
+          },
+          {
+            "respondent": 6,
+            "branch": "A",
+            "expertise": "intermediate",
+            "text": "这里keeps不太好，可以也用hold或者embrace这类的\n然后第三句，deep和quiet currents只留一个，要么换deep成另一个更加浪漫，隐晦的表述，要么把currents换成一些更加具有隐喻性的，如dreams，这类的\n然后第六行taps its code不太好，可以改动词成dance以及改后面的code或者改后面为melody,前面的taps可以保留，意思是说这里的描述的转变过于突兀\n\n然后第9行，这个可以改句式顺序，改成shakespearian的那种，比如 It drifts not but all that lingered (不一定按照这个)\n\n然后下面的gravity不太好，可以用一些代表\"心意\"\"心灵\"“思想”“情绪”这类的隐喻替换\n\n然后最后的has gone to bed用的不太好，可以写drift back to ... 这类的"
+          }
+        ],
+        "aggregated_prompt_block": "- (amateur) 强化“试图遗忘”与“记忆强行复苏”的抵抗拉扯\n原句：I find the face I thought I had outgrown.\n\n建议：“outgrown（已脱离/已长大到不在意）”本身是个很好的冲突点，但语气太轻。可以通过强化“被淹没的记忆重新刺破现实”来拉满张力。\n\n修改参考：I see the haunting face I thought outgrown. 或 Down in the depths, a face breaks through my own.（在水底看见那张脸与自己的脸重叠，带来强烈的心理悬疑与震慑感）。\n- (intermediate) 原句The river keeps what daylight cannot hold 中的\"keeps\"太温和，像在保管物品。建议修改成 The river drowns what daylight cannot hold\n- (intermediate) 这里keeps不太好，可以也用hold或者embrace这类的\n然后第三句，deep和quiet currents只留一个，要么换deep成另一个更加浪漫，隐晦的表述，要么把currents换成一些更加具有隐喻性的，如dreams，这类的\n然后第六行taps its code不太好，可以改动词成dance以及改后面的code或者改后面为melody,前面的taps可以保留，意思是说这里的描述的转变过于突兀\n\n然后第9行，这个可以改句式顺序，改成shakespearian的那种，比如 It drifts not but all that lingered (不一定按照这个)\n\n然后下面的gravity不太好，可以用一些代表\"心意\"\"心灵\"“思想”“情绪”这类的隐喻替换\n\n然后最后的has gone to bed用的不太好，可以写drift back to ... 这类的"
+      },
+      "symbol": {
+        "n": 4,
+        "n_substantive": 4,
+        "items": [
+          {
+            "respondent": 2,
+            "branch": "A",
+            "expertise": "amateur",
+            "text": "解决第二节“空间跳跃”的意象脱节原句：第二节突然出现了 the window ledge（窗台）。问题：第一节在写“河流（river/oar/currents）”，第三节也在写“水波（ripple/drowned light）”，第二节突然跳到屋内的“窗台（window ledge）”，破坏了贯穿全诗的户外水域流淌感。意象升级：把雨滴叩击窗台，改为雨滴或水流叩击河岸的石头、水面或舟楫，保持空间意象的完整性。修改参考：The rain that fell on some forgotten JuneStill strikes its iron code along the ledge— ξ\\rightarrowξ改为Still taps its silver code along the sedge（sedge: 芦苇/水草），让意象严丝合缝地留在河畔。"
+          },
+          {
+            "respondent": 3,
+            "branch": "C",
+            "expertise": "intermediate",
+            "text": "原句A glint of oar, a whisper on the stone 中的\"whisper on the stone\"太软，水碰石头应该有声音。建议修改成A glint of oar, a hiss on the wet stone"
+          },
+          {
+            "respondent": 5,
+            "branch": "A",
+            "expertise": "amateur",
+            "text": "感觉挺好的不用改啥"
+          },
+          {
+            "respondent": 6,
+            "branch": "A",
+            "expertise": "intermediate",
+            "text": "这里意象很明确核心就是河流，然而部分客体未能写好，要更改的可以看13题内容"
+          }
+        ],
+        "aggregated_prompt_block": "- (amateur) 解决第二节“空间跳跃”的意象脱节原句：第二节突然出现了 the window ledge（窗台）。问题：第一节在写“河流（river/oar/currents）”，第三节也在写“水波（ripple/drowned light）”，第二节突然跳到屋内的“窗台（window ledge）”，破坏了贯穿全诗的户外水域流淌感。意象升级：把雨滴叩击窗台，改为雨滴或水流叩击河岸的石头、水面或舟楫，保持空间意象的完整性。修改参考：The rain that fell on some forgotten JuneStill strikes its iron code along the ledge— ξ\\rightarrowξ改为Still taps its silver code along the sedge（sedge: 芦苇/水草），让意象严丝合缝地留在河畔。\n- (intermediate) 原句A glint of oar, a whisper on the stone 中的\"whisper on the stone\"太软，水碰石头应该有声音。建议修改成A glint of oar, a hiss on the wet stone\n- (amateur) 感觉挺好的不用改啥\n- (intermediate) 这里意象很明确核心就是河流，然而部分客体未能写好，要更改的可以看13题内容"
+      },
+      "rhythm": {
+        "n": 4,
+        "n_substantive": 3,
+        "items": [
+          {
+            "respondent": 2,
+            "branch": "A",
+            "expertise": "amateur",
+            "text": "修复弱韵（Slant Rhymes）\n第二节：June (C) / ledge (D) / moon (C) / edge (D)\n\n问题：ledge 和 edge 属于近音重复，且在全诗里出现了两次 edge（第一节水边、第二节边缘），韵脚略显重复贫乏。\n\n修改建议：将 D 韵替换为音色更沉郁的词组，如 stream / dream 或 deep / sleep。\n\n第四节尾联（致命硬伤）：thread (G) / bed (G)\n\n问题：虽然押韵了（/ɛd/），但 gone to bed 语意和诗意极为匮乏，是经典的“为了凑韵脚（bed）而凑句子”的败笔。"
+          },
+          {
+            "respondent": 3,
+            "branch": "C",
+            "expertise": "intermediate",
+            "text": "原句I find the face I thought I had outgrown 中的9个词里有5个是\"我\"的变体（I, I, I），自我沉溺。建议修改成I find the face I thought outgrown—but no"
+          },
+          {
+            "respondent": 5,
+            "branch": "A",
+            "expertise": "amateur",
+            "text": "同上"
+          },
+          {
+            "respondent": 6,
+            "branch": "A",
+            "expertise": "intermediate",
+            "text": "Rhyme，句尾没有strictly rhyme scheme\n然后整体的rhythm差不多了\n可以少量增加alliteration"
+          }
+        ],
+        "aggregated_prompt_block": "- (amateur) 修复弱韵（Slant Rhymes）\n第二节：June (C) / ledge (D) / moon (C) / edge (D)\n\n问题：ledge 和 edge 属于近音重复，且在全诗里出现了两次 edge（第一节水边、第二节边缘），韵脚略显重复贫乏。\n\n修改建议：将 D 韵替换为音色更沉郁的词组，如 stream / dream 或 deep / sleep。\n\n第四节尾联（致命硬伤）：thread (G) / bed (G)\n\n问题：虽然押韵了（/ɛd/），但 gone to bed 语意和诗意极为匮乏，是经典的“为了凑韵脚（bed）而凑句子”的败笔。\n- (intermediate) 原句I find the face I thought I had outgrown 中的9个词里有5个是\"我\"的变体（I, I, I），自我沉溺。建议修改成I find the face I thought outgrown—but no\n- (intermediate) Rhyme，句尾没有strictly rhyme scheme\n然后整体的rhythm差不多了\n可以少量增加alliteration"
+      }
+    },
+    "user_prompt_addon": "Revise the previous Shakespearean sonnet using the following human textual-gradient feedback. Keep exactly 14 lines and rhyme scheme ABAB CDCD EFEF GG. Output ONLY the 14 lines.\n\n=== Tension ===\n- (amateur) 强化“试图遗忘”与“记忆强行复苏”的抵抗拉扯\n原句：I find the face I thought I had outgrown.\n\n建议：“outgrown（已脱离/已长大到不在意）”本身是个很好的冲突点，但语气太轻。可以通过强化“被淹没的记忆重新刺破现实”来拉满张力。\n\n修改参考：I see the haunting face I thought outgrown. 或 Down in the depths, a face breaks through my own.（在水底看见那张脸与自己的脸重叠，带来强烈的心理悬疑与震慑感）。\n- (intermediate) 原句The river keeps what daylight cannot hold 中的\"keeps\"太温和，像在保管物品。建议修改成 The river drowns what daylight cannot hold\n- (intermediate) 这里keeps不太好，可以也用hold或者embrace这类的\n然后第三句，deep和quiet currents只留一个，要么换deep成另一个更加浪漫，隐晦的表述，要么把currents换成一些更加具有隐喻性的，如dreams，这类的\n然后第六行taps its code不太好，可以改动词成dance以及改后面的code或者改后面为melody,前面的taps可以保留，意思是说这里的描述的转变过于突兀\n\n然后第9行，这个可以改句式顺序，改成shakespearian的那种，比如 It drifts not but all that lingered (不一定按照这个)\n\n然后下面的gravity不太好，可以用一些代表\"心意\"\"心灵\"“思想”“情绪”这类的隐喻替换\n\n然后最后的has gone to bed用的不太好，可以写drift back to ... 这类的\n\n=== Symbol (Imagery) ===\n- (amateur) 解决第二节“空间跳跃”的意象脱节原句：第二节突然出现了 the window ledge（窗台）。问题：第一节在写“河流（river/oar/currents）”，第三节也在写“水波（ripple/drowned light）”，第二节突然跳到屋内的“窗台（window ledge）”，破坏了贯穿全诗的户外水域流淌感。意象升级：把雨滴叩击窗台，改为雨滴或水流叩击河岸的石头、水面或舟楫，保持空间意象的完整性。修改参考：The rain that fell on some forgotten JuneStill strikes its iron code along the ledge— ξ\\rightarrowξ改为Still taps its silver code along the sedge（sedge: 芦苇/水草），让意象严丝合缝地留在河畔。\n- (intermediate) 原句A glint of oar, a whisper on the stone 中的\"whisper on the stone\"太软，水碰石头应该有声音。建议修改成A glint of oar, a hiss on the wet stone\n- (amateur) 感觉挺好的不用改啥\n- (intermediate) 这里意象很明确核心就是河流，然而部分客体未能写好，要更改的可以看13题内容\n\n=== Rhythm ===\n- (amateur) 修复弱韵（Slant Rhymes）\n第二节：June (C) / ledge (D) / moon (C) / edge (D)\n\n问题：ledge 和 edge 属于近音重复，且在全诗里出现了两次 edge（第一节水边、第二节边缘），韵脚略显重复贫乏。\n\n修改建议：将 D 韵替换为音色更沉郁的词组，如 stream / dream 或 deep / sleep。\n\n第四节尾联（致命硬伤）：thread (G) / bed (G)\n\n问题：虽然押韵了（/ɛd/），但 gone to bed 语意和诗意极为匮乏，是经典的“为了凑韵脚（bed）而凑句子”的败笔。\n- (intermediate) 原句I find the face I thought I had outgrown 中的9个词里有5个是\"我\"的变体（I, I, I），自我沉溺。建议修改成I find the face I thought outgrown—but no\n- (intermediate) Rhyme，句尾没有strictly rhyme scheme\n然后整体的rhythm差不多了\n可以少量增加alliteration\n"
+  },
+  "gen0_t3b": {
+    "poem_id": "gen0_t3b",
+    "n_respondents_with_text": 2,
+    "dimensions": {
+      "tension": {
+        "n": 2,
+        "n_substantive": 2,
+        "items": [
+          {
+            "respondent": 1,
+            "branch": "B",
+            "expertise": "intermediate",
+            "text": "如果是Volta的话少用“but”来进行转折会更好一点吧\n转折应该更加smoothly并且通过内容来表现出来"
+          },
+          {
+            "respondent": 4,
+            "branch": "B",
+            "expertise": "intermediate",
+            "text": "It coils the kelp of moments, set aside 中的 \"coils\"太装饰性，\"set aside\"太被动。可以修改成 It knots the kelp of moments—tangled"
+          }
+        ],
+        "aggregated_prompt_block": "- (intermediate) 如果是Volta的话少用“but”来进行转折会更好一点吧\n转折应该更加smoothly并且通过内容来表现出来\n- (intermediate) It coils the kelp of moments, set aside 中的 \"coils\"太装饰性，\"set aside\"太被动。可以修改成 It knots the kelp of moments—tangled"
+      },
+      "symbol": {
+        "n": 2,
+        "n_substantive": 1,
+        "items": [
+          {
+            "respondent": 1,
+            "branch": "B",
+            "expertise": "intermediate",
+            "text": "同第二首诗的建议"
+          },
+          {
+            "respondent": 4,
+            "branch": "B",
+            "expertise": "intermediate",
+            "text": "Where coral builds her patient, cold arcades 中的 \"patient, cold arcades\"是优美的描述，但缺乏异样感。 可以修改成 Where coral builds her calcified arcades"
+          }
+        ],
+        "aggregated_prompt_block": "- (intermediate) Where coral builds her patient, cold arcades 中的 \"patient, cold arcades\"是优美的描述，但缺乏异样感。 可以修改成 Where coral builds her calcified arcades"
+      },
+      "rhythm": {
+        "n": 2,
+        "n_substantive": 1,
+        "items": [
+          {
+            "respondent": 1,
+            "branch": "B",
+            "expertise": "intermediate",
+            "text": "同第二，然后多注意一下iambic pantameter吧\n如果写的是subversion那就当我没说这些（不过subversion也要稍微注意一下这些东西吧？）"
+          },
+          {
+            "respondent": 4,
+            "branch": "B",
+            "expertise": "intermediate",
+            "text": "That shatters on the keel of a new sun！ 中的 \"new sun\"太抽象，且\"on the keel\"是明喻式的连接。可以修改成That shatters on the keel—a sun—new-whelmed！"
+          }
+        ],
+        "aggregated_prompt_block": "- (intermediate) That shatters on the keel of a new sun！ 中的 \"new sun\"太抽象，且\"on the keel\"是明喻式的连接。可以修改成That shatters on the keel—a sun—new-whelmed！"
+      }
+    },
+    "user_prompt_addon": "Revise the previous Shakespearean sonnet using the following human textual-gradient feedback. Keep exactly 14 lines and rhyme scheme ABAB CDCD EFEF GG. Output ONLY the 14 lines.\n\n=== Tension ===\n- (intermediate) 如果是Volta的话少用“but”来进行转折会更好一点吧\n转折应该更加smoothly并且通过内容来表现出来\n- (intermediate) It coils the kelp of moments, set aside 中的 \"coils\"太装饰性，\"set aside\"太被动。可以修改成 It knots the kelp of moments—tangled\n\n=== Symbol (Imagery) ===\n- (intermediate) Where coral builds her patient, cold arcades 中的 \"patient, cold arcades\"是优美的描述，但缺乏异样感。 可以修改成 Where coral builds her calcified arcades\n\n=== Rhythm ===\n- (intermediate) That shatters on the keel of a new sun！ 中的 \"new sun\"太抽象，且\"on the keel\"是明喻式的连接。可以修改成That shatters on the keel—a sun—new-whelmed！\n"
+  }
+}

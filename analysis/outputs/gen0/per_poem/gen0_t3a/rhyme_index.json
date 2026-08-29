@@ -1,0 +1,221 @@
+{
+  "n_lines": 14,
+  "rhyme_coverage": 1.0,
+  "phoneme_agree_pairs": 7,
+  "phoneme_pair_total": 7,
+  "query_token_indices": [
+    6,
+    20,
+    31,
+    42,
+    51,
+    60,
+    70,
+    80,
+    91,
+    102,
+    112,
+    124,
+    135,
+    148
+  ],
+  "partner_of": {
+    "0": 2,
+    "2": 0,
+    "1": 3,
+    "3": 1,
+    "4": 6,
+    "6": 4,
+    "5": 7,
+    "7": 5,
+    "8": 10,
+    "10": 8,
+    "9": 11,
+    "11": 9,
+    "12": 13,
+    "13": 12
+  },
+  "line_ends": [
+    {
+      "line_index": 0,
+      "end_word": "hold",
+      "token_start": 6,
+      "token_end": 7,
+      "oov": false,
+      "phones": [
+        "HH",
+        "OW1",
+        "L",
+        "D"
+      ]
+    },
+    {
+      "line_index": 1,
+      "end_word": "stone",
+      "token_start": 20,
+      "token_end": 21,
+      "oov": false,
+      "phones": [
+        "S",
+        "T",
+        "OW1",
+        "N"
+      ]
+    },
+    {
+      "line_index": 2,
+      "end_word": "fold",
+      "token_start": 31,
+      "token_end": 32,
+      "oov": false,
+      "phones": [
+        "F",
+        "OW1",
+        "L",
+        "D"
+      ]
+    },
+    {
+      "line_index": 3,
+      "end_word": "outgrown",
+      "token_start": 41,
+      "token_end": 43,
+      "oov": false,
+      "phones": [
+        "AW2",
+        "T",
+        "G",
+        "R",
+        "OW1",
+        "N"
+      ]
+    },
+    {
+      "line_index": 4,
+      "end_word": "June",
+      "token_start": 51,
+      "token_end": 52,
+      "oov": false,
+      "phones": [
+        "JH",
+        "UW1",
+        "N"
+      ]
+    },
+    {
+      "line_index": 5,
+      "end_word": "ledge",
+      "token_start": 60,
+      "token_end": 61,
+      "oov": false,
+      "phones": [
+        "L",
+        "EH1",
+        "JH"
+      ]
+    },
+    {
+      "line_index": 6,
+      "end_word": "moon",
+      "token_start": 70,
+      "token_end": 71,
+      "oov": false,
+      "phones": [
+        "M",
+        "UW1",
+        "N"
+      ]
+    },
+    {
+      "line_index": 7,
+      "end_word": "edge",
+      "token_start": 80,
+      "token_end": 81,
+      "oov": false,
+      "phones": [
+        "EH1",
+        "JH"
+      ]
+    },
+    {
+      "line_index": 8,
+      "end_word": "remains",
+      "token_start": 91,
+      "token_end": 92,
+      "oov": false,
+      "phones": [
+        "R",
+        "IH0",
+        "M",
+        "EY1",
+        "N",
+        "Z"
+      ]
+    },
+    {
+      "line_index": 9,
+      "end_word": "glance",
+      "token_start": 102,
+      "token_end": 103,
+      "oov": false,
+      "phones": [
+        "G",
+        "L",
+        "AE1",
+        "N",
+        "S"
+      ]
+    },
+    {
+      "line_index": 10,
+      "end_word": "chains",
+      "token_start": 112,
+      "token_end": 113,
+      "oov": false,
+      "phones": [
+        "CH",
+        "EY1",
+        "N",
+        "Z"
+      ]
+    },
+    {
+      "line_index": 11,
+      "end_word": "chance",
+      "token_start": 124,
+      "token_end": 125,
+      "oov": false,
+      "phones": [
+        "CH",
+        "AE1",
+        "N",
+        "S"
+      ]
+    },
+    {
+      "line_index": 12,
+      "end_word": "thread",
+      "token_start": 135,
+      "token_end": 136,
+      "oov": false,
+      "phones": [
+        "TH",
+        "R",
+        "EH1",
+        "D"
+      ]
+    },
+    {
+      "line_index": 13,
+      "end_word": "bed",
+      "token_start": 148,
+      "token_end": 149,
+      "oov": false,
+      "phones": [
+        "B",
+        "EH1",
+        "D"
+      ]
+    }
+  ]
+}

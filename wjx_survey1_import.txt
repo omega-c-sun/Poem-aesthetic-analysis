@@ -1,0 +1,396 @@
+英文十四行诗阅读与修改建议 Reading English Sonnets and Revision Suggestions
+
+本问卷邀请您阅读三首英文十四行诗(sonnet),并就三个审美维度给出具体修改建议。预计用时15-25分钟。答案无对错。
+This questionnaire asks you to read three English sonnets and give concrete revision suggestions on three aesthetic dimensions. Estimated time: 15-25 minutes.
+段落说明
+
+【研究说明 Study Information】
+您好!诚邀参与诗歌审美判断与修改建议研究。参与自愿,可随时退出。
+Hello! You are invited to a study on poetic aesthetic judgment and revision suggestions. Participation is voluntary; you may stop anytime.
+回答仅用于学术研究;不作个人身份公开披露。Responses are for academic research only; no public disclosure of personal identity.
+部分诗歌可能由模型生成;作答期间不告知生成细节。Some poems may be model-generated; generation details are withheld during the survey.
+段落说明
+
+1. 我已阅读以上说明,并同意参与本研究。
+I have read the information above and agree to participate.
+A. 同意,继续作答 / Agree - continue
+B. 不同意,退出问卷 / Do not agree - exit
+
+2. 您如何描述自己在诗歌(阅读或写作)方面的经验?
+How would you describe your experience with poetry (reading or writing)?
+A. 业余/日常读者 - Amateur / casual reader
+B. 有一定基础 - Intermediate (coursework or regular reading)
+C. 较专业 - Expert (advanced study, publication, teaching, or practice)
+
+3. 您对英文格律诗(音步、押韵等)进行评判的自信程度?
+Rate your confidence evaluating English formal verse (meter/rhyme).
+1=完全不自信 not at all confident; 7=非常自信 highly confident
+A. 1
+B. 2
+C. 3
+D. 4
+E. 5
+F. 6
+G. 7
+
+4. 您进行文学阅读时最常用的主要语言是?(例如:中文、英文)
+What is your primary language for literary reading? (e.g., Chinese, English)________
+填空题
+
+5. 您是否学习或系统阅读过莎士比亚体十四行诗(Shakespearean sonnet: 14行, 韵式 ABAB CDCD EFEF GG)?
+Have you studied Shakespearean sonnets?
+A. 是 / Yes
+B. 否 / No
+C. 不确定 / Unsure
+
+【评判说明 Guidelines】请写具体、可执行的修改指令,避免空泛评价(如"更好一点")。
+Please write specific, actionable revision instructions; avoid vague comments (e.g., "make it better").
+1) Tension 张力: 冲突/对照/未解决张力是否支撑阅读兴趣。 Conflict/contrast/unresolved force sustaining interest.
+2) Symbol(Imagery) 象征意象: 感官意象与象征是否贴切。 Concrete imagery and symbols supporting meaning.
+3) Rhythm 节奏韵律: 行节奏与莎士比亚体韵式 ABAB CDCD EFEF GG。 Cadence and rhyme-scheme discipline.
+诗歌正文为英文;建议可用中文或英文。 Poem texts are in English; suggestions may be Chinese or English.
+段落说明
+
+【如何随机选择分支 How to choose your branch】
+本平台无法自动随机分配。请您用相对客观的随机方式决定分支,例如:
+This platform cannot auto-assign branches. Please use an objective random method, e.g.:
+方式1: 掷一枚六面骰子。1或2=分支A; 3或4=分支B; 5或6=分支C。
+Method 1: Roll one six-sided die. 1-2=Branch A; 3-4=Branch B; 5-6=Branch C.
+方式2: 看手机秒数个位。1-2或7-8=A; 3-4或9/0=B; 5-6=C。
+Method 2: Use the units digit of the current seconds on your phone: 1-2 or 7-8=A; 3-4 or 9/0=B; 5-6=C.
+请先完成随机,再作答下面两题,并按结果选择分支。勿按个人喜好挑选。
+Complete the random draw first, then answer the next two items. Do not choose a branch by preference.
+段落说明
+
+6. 您用于决定分支的随机结果是?(骰子点数或秒数个位)
+What random outcome did you get? (die face or seconds digit)
+A. 1
+B. 2
+C. 3
+D. 4
+E. 5
+F. 6
+G. 7
+H. 8
+I. 9
+J. 0
+
+7. 请根据上一题随机结果选择问卷分支(1-2或7-8=A; 3-4或9/0=B; 5-6=C)。
+Select your branch from the random outcome (1-2 or 7-8=A; 3-4 or 9/0=B; 5-6=C).
+A. 分支A / Branch A
+B. 分支B / Branch B
+C. 分支C / Branch C
+
+【分支A Branch A】诗歌1 / Poem 1
+(内部编号 staff id: gen0_t1a - 被试无需关注)
+请完整阅读下列英文十四行诗,然后回答随后三题。
+Please read the English sonnet below in full, then answer the next three items.
+---- poem begin ----
+The year's last roses lean to touch the pane,
+And swallows stitch the dusk in fading flight;
+The orchard's gold is thinned by coming rain,
+And hills are folded in the failing light.
+A shutter taps where vines have overgrown,
+The garden bench is cold, the paths are bare;
+The asters bow their heads on stalks alone,
+And silence settles in the waiting air.
+No more the urgent hum of summer's trade,
+No more the long, warm hours that used to be;
+The season's promise slowly is unmade,
+And what was green is now a memory.
+So let the leaves fall quiet, one by one-
+The year departs, and so does all begun.
+---- poem end ----
+段落说明
+
+【分支A-诗1】张力 Tension: 为提升本诗张力,请写可执行修改建议。
+Tension: actionable suggestions to improve tension.________
+填空题
+
+【分支A-诗1】象征/意象 Symbol(Imagery): 为提升象征与意象,请写可执行修改建议。
+Symbol(Imagery): actionable suggestions to improve symbolism/imagery.________
+填空题
+
+【分支A-诗1】节奏/韵律 Rhythm: 为提升节奏与押韵规范,请写可执行修改建议。
+Rhythm: actionable suggestions to improve rhythm/rhyme discipline.________
+填空题
+
+【分支A Branch A】诗歌2 / Poem 2
+(内部编号 staff id: gen0_t2a - 被试无需关注)
+请完整阅读下列英文十四行诗,然后回答随后三题。
+Please read the English sonnet below in full, then answer the next three items.
+---- poem begin ----
+The city sheds its clamor, street by street,
+And leaves a hush where engines used to churn.
+The pavement holds the memory of feet,
+While lonely window-lights begin to burn.
+A single figure, cloaked in amber glow,
+Moves past the shuttered shops and silent cars,
+Whose metal bodies, parked in even row,
+Reflect the faded glory of the stars.
+The air is thin, a breath of stone and steel,
+That cools the fevered pulse of hurried days.
+No voice returns the thoughts that turn and wheel,
+Lost in the labyrinth of empty ways.
+So solitude becomes a quiet friend,
+Who walks beside me to the journey's end.
+---- poem end ----
+段落说明
+
+【分支A-诗2】张力 Tension: 为提升本诗张力,请写可执行修改建议。
+Tension: actionable suggestions to improve tension.________
+填空题
+
+【分支A-诗2】象征/意象 Symbol(Imagery): 为提升象征与意象,请写可执行修改建议。
+Symbol(Imagery): actionable suggestions to improve symbolism/imagery.________
+填空题
+
+【分支A-诗2】节奏/韵律 Rhythm: 为提升节奏与押韵规范,请写可执行修改建议。
+Rhythm: actionable suggestions to improve rhythm/rhyme discipline.________
+填空题
+
+【分支A Branch A】诗歌3 / Poem 3
+(内部编号 staff id: gen0_t3a - 被试无需关注)
+请完整阅读下列英文十四行诗,然后回答随后三题。
+Please read the English sonnet below in full, then answer the next three items.
+---- poem begin ----
+The river keeps what daylight cannot hold-
+A glint of oar, a whisper on the stone-
+And in its deep, where quiet currents fold,
+I find the face I thought I had outgrown.
+The rain that fell on some forgotten June
+Still taps its code along the window ledge,
+A pulse that slows beneath a listless moon,
+A name I trace along the water's edge.
+What drifts is not the loss but what remains-
+The cool, wet gravity of that first glance,
+The way a ripple loosens all my chains,
+And lets the drowned light surface, slow, by chance.
+So let the stream unspool its silver thread-
+I drink the past, and it has gone to bed.
+---- poem end ----
+段落说明
+
+【分支A-诗3】张力 Tension: 为提升本诗张力,请写可执行修改建议。
+Tension: actionable suggestions to improve tension.________
+填空题
+
+【分支A-诗3】象征/意象 Symbol(Imagery): 为提升象征与意象,请写可执行修改建议。
+Symbol(Imagery): actionable suggestions to improve symbolism/imagery.________
+填空题
+
+【分支A-诗3】节奏/韵律 Rhythm: 为提升节奏与押韵规范,请写可执行修改建议。
+Rhythm: actionable suggestions to improve rhythm/rhyme discipline.________
+填空题
+
+【分支B Branch B】诗歌1 / Poem 1
+(内部编号 staff id: gen0_t1b - 被试无需关注)
+请完整阅读下列英文十四行诗,然后回答随后三题。
+Please read the English sonnet below in full, then answer the next three items.
+---- poem begin ----
+The amber leaves, reluctant, quit the bough,
+And drift in spirals on the dying air;
+The sun, a ghost, grows paler even now,
+And shadows stretch like fingers of despair.
+The robin's song, once rich with summer's fire,
+Is thinned to whispers in the bramble's gray;
+The fields that blazed with gold and green retire
+To stubble where the lonely ploughshare may.
+But hark! Not all is silence-far above,
+A wedge of wild geese cleaves the ashen sky,
+Their cries a brazen testament of love
+That will not let the fading season die.
+So though the world undresses into night,
+Their southward flight becomes my stubborn light.
+---- poem end ----
+段落说明
+
+【分支B-诗1】张力 Tension: 为提升本诗张力,请写可执行修改建议。
+Tension: actionable suggestions to improve tension.________
+填空题
+
+【分支B-诗1】象征/意象 Symbol(Imagery): 为提升象征与意象,请写可执行修改建议。
+Symbol(Imagery): actionable suggestions to improve symbolism/imagery.________
+填空题
+
+【分支B-诗1】节奏/韵律 Rhythm: 为提升节奏与押韵规范,请写可执行修改建议。
+Rhythm: actionable suggestions to improve rhythm/rhyme discipline.________
+填空题
+
+【分支B Branch B】诗歌2 / Poem 2
+(内部编号 staff id: gen0_t2b - 被试无需关注)
+请完整阅读下列英文十四行诗,然后回答随后三题。
+Please read the English sonnet below in full, then answer the next three items.
+---- poem begin ----
+The city breathes in iron lung at night,
+And windows gleam like eyes that do not sleep;
+The asphalt rivers hold the lonely light,
+Where shadows crawl and tangled sorrows creep.
+I walk a canyon made of stone and steel,
+My footsteps echo where no footstep stays,
+A pulse I feel but never can reveal,
+Lost in the maze of these electric days.
+But then-a sudden flare, a taxi's brake!
+The world lurches and shatters my still trance;
+A drunkard's laugh, a siren's wail awake
+The ghost of motion in this vast expanse.
+Yet no hand reaches, no voice calls my name-
+I am the echo, and the echo's shame.
+---- poem end ----
+段落说明
+
+【分支B-诗2】张力 Tension: 为提升本诗张力,请写可执行修改建议。
+Tension: actionable suggestions to improve tension.________
+填空题
+
+【分支B-诗2】象征/意象 Symbol(Imagery): 为提升象征与意象,请写可执行修改建议。
+Symbol(Imagery): actionable suggestions to improve symbolism/imagery.________
+填空题
+
+【分支B-诗2】节奏/韵律 Rhythm: 为提升节奏与押韵规范,请写可执行修改建议。
+Rhythm: actionable suggestions to improve rhythm/rhyme discipline.________
+填空题
+
+【分支B Branch B】诗歌3 / Poem 3
+(内部编号 staff id: gen0_t3b - 被试无需关注)
+请完整阅读下列英文十四行诗,然后回答随后三题。
+Please read the English sonnet below in full, then answer the next three items.
+---- poem begin ----
+The mind is not a vessel, but a tide
+That turns upon a shore of vanished years;
+It coils the kelp of moments, set aside
+In briny hollows, salt with unshed tears.
+The drowned town's bell still tolls beneath the deep,
+A muffled chime the current bends and braids;
+The faces that we loved in silence sleep
+Where coral builds her patient, cold arcades.
+But wake!-this flood is not a grave, but glass
+That shatters on the keel of a new sun!
+What once was drowned, the living waves surpass-
+The sea that took, the sea returns as one.
+So let the brine recast what time unwove:
+The tide that lost you is the tide I love.
+---- poem end ----
+段落说明
+
+【分支B-诗3】张力 Tension: 为提升本诗张力,请写可执行修改建议。
+Tension: actionable suggestions to improve tension.________
+填空题
+
+【分支B-诗3】象征/意象 Symbol(Imagery): 为提升象征与意象,请写可执行修改建议。
+Symbol(Imagery): actionable suggestions to improve symbolism/imagery.________
+填空题
+
+【分支B-诗3】节奏/韵律 Rhythm: 为提升节奏与押韵规范,请写可执行修改建议。
+Rhythm: actionable suggestions to improve rhythm/rhyme discipline.________
+填空题
+
+【分支C Branch C】诗歌1 / Poem 1
+(内部编号 staff id: gen0_t1a - 被试无需关注)
+请完整阅读下列英文十四行诗,然后回答随后三题。
+Please read the English sonnet below in full, then answer the next three items.
+---- poem begin ----
+The year's last roses lean to touch the pane,
+And swallows stitch the dusk in fading flight;
+The orchard's gold is thinned by coming rain,
+And hills are folded in the failing light.
+A shutter taps where vines have overgrown,
+The garden bench is cold, the paths are bare;
+The asters bow their heads on stalks alone,
+And silence settles in the waiting air.
+No more the urgent hum of summer's trade,
+No more the long, warm hours that used to be;
+The season's promise slowly is unmade,
+And what was green is now a memory.
+So let the leaves fall quiet, one by one-
+The year departs, and so does all begun.
+---- poem end ----
+段落说明
+
+【分支C-诗1】张力 Tension: 为提升本诗张力,请写可执行修改建议。
+Tension: actionable suggestions to improve tension.________
+填空题
+
+【分支C-诗1】象征/意象 Symbol(Imagery): 为提升象征与意象,请写可执行修改建议。
+Symbol(Imagery): actionable suggestions to improve symbolism/imagery.________
+填空题
+
+【分支C-诗1】节奏/韵律 Rhythm: 为提升节奏与押韵规范,请写可执行修改建议。
+Rhythm: actionable suggestions to improve rhythm/rhyme discipline.________
+填空题
+
+【分支C Branch C】诗歌2 / Poem 2
+(内部编号 staff id: gen0_t2b - 被试无需关注)
+请完整阅读下列英文十四行诗,然后回答随后三题。
+Please read the English sonnet below in full, then answer the next three items.
+---- poem begin ----
+The city breathes in iron lung at night,
+And windows gleam like eyes that do not sleep;
+The asphalt rivers hold the lonely light,
+Where shadows crawl and tangled sorrows creep.
+I walk a canyon made of stone and steel,
+My footsteps echo where no footstep stays,
+A pulse I feel but never can reveal,
+Lost in the maze of these electric days.
+But then-a sudden flare, a taxi's brake!
+The world lurches and shatters my still trance;
+A drunkard's laugh, a siren's wail awake
+The ghost of motion in this vast expanse.
+Yet no hand reaches, no voice calls my name-
+I am the echo, and the echo's shame.
+---- poem end ----
+段落说明
+
+【分支C-诗2】张力 Tension: 为提升本诗张力,请写可执行修改建议。
+Tension: actionable suggestions to improve tension.________
+填空题
+
+【分支C-诗2】象征/意象 Symbol(Imagery): 为提升象征与意象,请写可执行修改建议。
+Symbol(Imagery): actionable suggestions to improve symbolism/imagery.________
+填空题
+
+【分支C-诗2】节奏/韵律 Rhythm: 为提升节奏与押韵规范,请写可执行修改建议。
+Rhythm: actionable suggestions to improve rhythm/rhyme discipline.________
+填空题
+
+【分支C Branch C】诗歌3 / Poem 3
+(内部编号 staff id: gen0_t3a - 被试无需关注)
+请完整阅读下列英文十四行诗,然后回答随后三题。
+Please read the English sonnet below in full, then answer the next three items.
+---- poem begin ----
+The river keeps what daylight cannot hold-
+A glint of oar, a whisper on the stone-
+And in its deep, where quiet currents fold,
+I find the face I thought I had outgrown.
+The rain that fell on some forgotten June
+Still taps its code along the window ledge,
+A pulse that slows beneath a listless moon,
+A name I trace along the water's edge.
+What drifts is not the loss but what remains-
+The cool, wet gravity of that first glance,
+The way a ripple loosens all my chains,
+And lets the drowned light surface, slow, by chance.
+So let the stream unspool its silver thread-
+I drink the past, and it has gone to bed.
+---- poem end ----
+段落说明
+
+【分支C-诗3】张力 Tension: 为提升本诗张力,请写可执行修改建议。
+Tension: actionable suggestions to improve tension.________
+填空题
+
+【分支C-诗3】象征/意象 Symbol(Imagery): 为提升象征与意象,请写可执行修改建议。
+Symbol(Imagery): actionable suggestions to improve symbolism/imagery.________
+填空题
+
+【分支C-诗3】节奏/韵律 Rhythm: 为提升节奏与押韵规范,请写可执行修改建议。
+Rhythm: actionable suggestions to improve rhythm/rhyme discipline.________
+填空题
+
+感谢您完成本问卷!您的修改建议将用于后续提示词迭代研究。
+Thank you! Your revision suggestions will be used for later prompt-iteration research.
+段落说明
+
+如有其他意见或对任务的感受,欢迎留言(选填)。
+Any other comments about the task are welcome (optional).________
+填空题

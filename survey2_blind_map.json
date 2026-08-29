@@ -1,0 +1,31 @@
+{
+  "design": "6_branches_x_1_gen1_poem",
+  "randomization": "six_sided_die_face_equals_branch",
+  "generation": "gen1_only",
+  "branches": {
+    "1": {
+      "display": "P01",
+      "internal": "gen1_t1a"
+    },
+    "2": {
+      "display": "P02",
+      "internal": "gen1_t1b"
+    },
+    "3": {
+      "display": "P03",
+      "internal": "gen1_t2a"
+    },
+    "4": {
+      "display": "P04",
+      "internal": "gen1_t2b"
+    },
+    "5": {
+      "display": "P05",
+      "internal": "gen1_t3a"
+    },
+    "6": {
+      "display": "P06",
+      "internal": "gen1_t3b"
+    }
+  }
+}

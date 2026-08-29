@@ -1,0 +1,245 @@
+{
+  "survey2_meta": {
+    "parsed_utc": "2026-08-22T14:45:28.065681+00:00",
+    "source_xlsx": "c:\\Users\\孙行知\\Downloads\\380723239_按序号_英文十四行诗审美评分 Reading English Sonnets — Aesthetic Rating_10_10.xlsx",
+    "n_responses": 10,
+    "instrumentation": {
+      "has_likert_ratings": false,
+      "has_textual_feedback": true,
+      "instrument_type": "textual_feedback"
+    },
+    "branch_counts": {
+      "1": 1,
+      "2": 1,
+      "3": 2,
+      "4": 2,
+      "5": 2,
+      "6": 2
+    },
+    "poem_counts": {
+      "gen1_t1a": 1,
+      "gen1_t1b": 1,
+      "gen1_t2a": 2,
+      "gen1_t2b": 2,
+      "gen1_t3a": 2,
+      "gen1_t3b": 2
+    },
+    "expertise_counts": {
+      "intermediate": 7,
+      "amateur": 1,
+      "expert": 2
+    },
+    "branch_poem_map": {
+      "1": "gen1_t1a",
+      "2": "gen1_t1b",
+      "3": "gen1_t2a",
+      "4": "gen1_t2b",
+      "5": "gen1_t3a",
+      "6": "gen1_t3b"
+    },
+    "note": "Export titled 'Aesthetic Rating' but columns are textual-gradient feedback (not 1-7 Likert). TOPSIS cannot be computed from this file."
+  },
+  "attention_tests": {
+    "d_entropy": {
+      "n": 6,
+      "mean": 0.038738,
+      "median": 0.046496,
+      "wilcoxon_stat": 4.0,
+      "p_value": 0.2188,
+      "ci95": [
+        -0.0009,
+        0.0776
+      ]
+    },
+    "d_rhyme": {
+      "n": 6,
+      "mean": -0.000515,
+      "median": -0.000501,
+      "wilcoxon_stat": 4.0,
+      "p_value": 0.2188,
+      "ci95": [
+        -0.0012,
+        0.0002
+      ]
+    },
+    "d_phoneme_pairs": {
+      "n": 6,
+      "mean": -0.166667,
+      "median": 0.0,
+      "wilcoxon_stat": 1.0,
+      "p_value": 1.0,
+      "ci95": [
+        -1.0,
+        0.5
+      ]
+    }
+  },
+  "paired_attention": [
+    {
+      "lineage": "t1a",
+      "d_entropy": 0.03719011723504373,
+      "d_rhyme": 0.0009665656281468999,
+      "d_phoneme_pairs": 1
+    },
+    {
+      "lineage": "t1b",
+      "d_entropy": 0.05580274019348308,
+      "d_rhyme": -0.00042762016206150015,
+      "d_phoneme_pairs": 0
+    },
+    {
+      "lineage": "t2a",
+      "d_entropy": 0.06172385056821805,
+      "d_rhyme": -0.0017982582580969996,
+      "d_phoneme_pairs": 0
+    },
+    {
+      "lineage": "t2b",
+      "d_entropy": -0.000785437504946529,
+      "d_rhyme": -0.0005744522159948002,
+      "d_phoneme_pairs": 0
+    },
+    {
+      "lineage": "t3a",
+      "d_entropy": -0.039590262616288285,
+      "d_rhyme": -0.0010283814568958,
+      "d_phoneme_pairs": -2
+    },
+    {
+      "lineage": "t3b",
+      "d_entropy": 0.11808816599098448,
+      "d_rhyme": -0.0002262348289646999,
+      "d_phoneme_pairs": 0
+    }
+  ],
+  "feedback_comparison_by_lineage": [
+    {
+      "poem_id_x": "gen0_t1a",
+      "lineage": "t1a",
+      "generation_x": "gen0",
+      "fb_count_gen0": 12,
+      "substantive_gen0": 12,
+      "chars_gen0": 116.26666666666667,
+      "poem_id_y": "gen1_t1a",
+      "generation_y": "gen1",
+      "fb_count_gen1": 3,
+      "substantive_gen1": 3,
+      "chars_gen1": 86.33333333333333,
+      "delta_substantive": -9
+    },
+    {
+      "poem_id_x": "gen0_t1b",
+      "lineage": "t1b",
+      "generation_x": "gen0",
+      "fb_count_gen0": 6,
+      "substantive_gen0": 6,
+      "chars_gen0": 94.66666666666667,
+      "poem_id_y": "gen1_t1b",
+      "generation_y": "gen1",
+      "fb_count_gen1": 3,
+      "substantive_gen1": 3,
+      "chars_gen1": 77.0,
+      "delta_substantive": -3
+    },
+    {
+      "poem_id_x": "gen0_t2a",
+      "lineage": "t2a",
+      "generation_x": "gen0",
+      "fb_count_gen0": 9,
+      "substantive_gen0": 7,
+      "chars_gen0": 107.66666666666667,
+      "poem_id_y": "gen1_t2a",
+      "generation_y": "gen1",
+      "fb_count_gen1": 6,
+      "substantive_gen1": 6,
+      "chars_gen1": 455.6666666666667,
+      "delta_substantive": -1
+    },
+    {
+      "poem_id_x": "gen0_t2b",
+      "lineage": "t2b",
+      "generation_x": "gen0",
+      "fb_count_gen0": 9,
+      "substantive_gen0": 8,
+      "chars_gen0": 99.33333333333333,
+      "poem_id_y": "gen1_t2b",
+      "generation_y": "gen1",
+      "fb_count_gen1": 6,
+      "substantive_gen1": 6,
+      "chars_gen1": 255.0,
+      "delta_substantive": -2
+    },
+    {
+      "poem_id_x": "gen0_t3a",
+      "lineage": "t3a",
+      "generation_x": "gen0",
+      "fb_count_gen0": 12,
+      "substantive_gen0": 10,
+      "chars_gen0": 149.93333333333334,
+      "poem_id_y": "gen1_t3a",
+      "generation_y": "gen1",
+      "fb_count_gen1": 6,
+      "substantive_gen1": 6,
+      "chars_gen1": 389.3333333333333,
+      "delta_substantive": -4
+    },
+    {
+      "poem_id_x": "gen0_t3b",
+      "lineage": "t3b",
+      "generation_x": "gen0",
+      "fb_count_gen0": 6,
+      "substantive_gen0": 4,
+      "chars_gen0": 85.66666666666667,
+      "poem_id_y": "gen1_t3b",
+      "generation_y": "gen1",
+      "fb_count_gen1": 6,
+      "substantive_gen1": 6,
+      "chars_gen1": 453.5,
+      "delta_substantive": 2
+    }
+  ],
+  "feedback_attention_correlation": [
+    {
+      "attention_delta": "d_entropy",
+      "feedback_metric": "total_substantive",
+      "spearman_r": 0.0,
+      "p_value": 1.0,
+      "n": 6
+    },
+    {
+      "attention_delta": "d_entropy",
+      "feedback_metric": "mean_char_length",
+      "spearman_r": 0.3714,
+      "p_value": 0.4685,
+      "n": 6
+    },
+    {
+      "attention_delta": "d_rhyme",
+      "feedback_metric": "total_substantive",
+      "spearman_r": -0.6211,
+      "p_value": 0.1882,
+      "n": 6
+    },
+    {
+      "attention_delta": "d_rhyme",
+      "feedback_metric": "mean_char_length",
+      "spearman_r": -0.5429,
+      "p_value": 0.2657,
+      "n": 6
+    },
+    {
+      "attention_delta": "d_phoneme_pairs",
+      "feedback_metric": "total_substantive",
+      "spearman_r": -0.6124,
+      "p_value": 0.1963,
+      "n": 6
+    },
+    {
+      "attention_delta": "d_phoneme_pairs",
+      "feedback_metric": "mean_char_length",
+      "spearman_r": -0.3381,
+      "p_value": 0.5122,
+      "n": 6
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "version": "prompt_v1",
+  "created_utc": "2026-08-15T16:03:13.248416+00:00",
+  "method": "general_textual_gradient_distillation",
+  "model": "deepseek-v4-flash",
+  "api_id": "77f0d3d0-b83b-451b-92a0-7f75f30295ca",
+  "usage": {
+    "prompt_tokens": 3792,
+    "completion_tokens": 603,
+    "total_tokens": 4395,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 3792
+  },
+  "form_fixed": "Shakespearean sonnet (14 lines, ABAB CDCD EFEF GG, approx iambic pentameter)",
+  "varies_at_generation": [
+    "theme",
+    "variant_tone_note"
+  ],
+  "principles": {
+    "tension": [
+      "Replace passive or gentle verbs with verbs that imply struggle, force, or resistance, especially when describing natural or urban scenes.",
+      "Create tension by pairing opposing forces (e.g., heat and cold, noise and silence) and making the transition between them feel coercive or violent.",
+      "Avoid abstract or conceptual phrasing for emotional states; instead, use physical, sensory actions that embody the emotion.",
+      "When a line feels too tame or polite, intensify the imagery by choosing verbs that suggest desperation, compulsion, or aggression.",
+      "Ensure the volta (turn) is achieved through a shift in content or imagery rather than relying on explicit transitional words like 'but'."
+    ],
+    "symbol": [
+      "Anchor each poem with a single, consistent symbolic thread or object that recurs throughout, ensuring all imagery relates back to it.",
+      "Prefer concrete, tactile symbols over abstract concepts; if using an abstraction, translate it into a physical metaphor (e.g., 'promise' becomes 'covenant cracks').",
+      "Avoid mixing unrelated symbolic domains; if the poem is set in nature, keep all imagery within that natural world unless the shift is deliberate and meaningful.",
+      "Upgrade clichéd or soft imagery by choosing more specific, visceral alternatives that evoke a stronger sensory response.",
+      "Use symbols to imply presence or absence (e.g., a rose, the sun) through indirect description rather than stating them outright."
+    ],
+    "rhythm": [
+      "Vary line lengths and internal punctuation to avoid a monotonous, sing-song iambic pentameter; use caesurae, enjambment, and irregular stresses for effect.",
+      "Avoid near-identical rhymes (e.g., 'bare'/'air') and clichéd rhyme pairs; choose rhymes that are phonetically distinct yet resonant.",
+      "Incorporate internal rhyme, alliteration, consonance, and assonance to enhance musicality and memorability.",
+      "Ensure each line fits the metrical pattern without forcing wordiness; trim excess syllables or words to maintain a natural flow.",
+      "Pay attention to the number of words per line; lines with too many multisyllabic words can feel heavier and disrupt the rhythm."
+    ]
+  },
+  "system_addendum": "When generating sonnets, prioritize a strong, consistent central image or symbol that threads through all quatrains and the couplet. Use verbs that convey physical struggle or transformation rather than passive states. Vary sentence structure and rhythm within the iambic pentameter to avoid monotony, employing enjambment, caesura, and internal sound devices. Ensure rhymes are fresh and avoid near-identical or clichéd pairs. The volta should emerge from a shift in imagery or tone, not from explicit conjunctions. Aim for concrete, sensory language that evokes touch, sound, and movement, and avoid abstract statements unless immediately grounded in a physical metaphor.",
+  "generation_contract": "At generation time, use BASE sonnet system prompt + system_addendum; user message only supplies Theme (+ optional variant note). Do NOT attach previous poem text or poem-specific patch instructions.",
+  "source_gradients": "iteration\\survey1\\gradients_by_poem.json",
+  "n_feedback_chunks": 76
+}

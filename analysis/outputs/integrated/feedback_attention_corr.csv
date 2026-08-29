@@ -1,0 +1,7 @@
+attention_delta,feedback_metric,spearman_r,p_value,n
+d_entropy,total_substantive,0.0,1.0,6
+d_entropy,mean_char_length,0.3714,0.4685,6
+d_rhyme,total_substantive,-0.6211,0.1882,6
+d_rhyme,mean_char_length,-0.5429,0.2657,6
+d_phoneme_pairs,total_substantive,-0.6124,0.1963,6
+d_phoneme_pairs,mean_char_length,-0.3381,0.5122,6

@@ -1,0 +1,272 @@
+[
+  {
+    "row_index": 1,
+    "branch": "1",
+    "poem_id": "gen1_t1a",
+    "display_code": "P01",
+    "expertise": "intermediate",
+    "formal_verse_confidence": 6,
+    "primary_language": "中文",
+    "studied_sonnet": "1",
+    "consent": "1",
+    "feedback": {
+      "tension": "全诗略显僵硬，\n不同的意象之间几乎没有任何可见的联系，无法体现明线，暗线有稍微的铺垫但是情绪转变过于僵硬，由哀转旷达有点过急，至少要先有一段侧面描写转折体现这种意境的变化",
+      "symbol": "使用的客体过度堆砌而没有构造核心意象，虽然有尝试对Autumn进行侧面刻画且全诗都没有直接写,但是都停留在了最表层的描写，没有进行情绪铺垫",
+      "rhythm": "所有句子都按照iambic pentameter和rhyme了，但是部分可能过度牺牲局部来保证固定节奏\n如有时候the更适合留在stress这类的（倒数第三行skin前），这时候就更适合保留the而修改其他词汇"
+    },
+    "comments": "(空)",
+    "char_lengths": {
+      "tension": 85,
+      "symbol": 69,
+      "rhythm": 105
+    },
+    "substantive": {
+      "tension": true,
+      "symbol": true,
+      "rhythm": true
+    }
+  },
+  {
+    "row_index": 2,
+    "branch": "2",
+    "poem_id": "gen1_t1b",
+    "display_code": "P02",
+    "expertise": "intermediate",
+    "formal_verse_confidence": 5,
+    "primary_language": "中文",
+    "studied_sonnet": "1",
+    "consent": "1",
+    "feedback": {
+      "tension": "过度强调narrator的存在,过度使用了I和My\n一般来说只会出现一次在末尾",
+      "symbol": "第三行用 \"lit train\" 这里完全不对，lit无法形容 train，读者会感到confusion\n这里虽然与前面的rail对应但是并不适合，更适合用“往昔街景”这类客体\n\n第四行的归train,但是 glass prevails差一点，换成冰棱或者其他的可能会更有对比感",
+      "rhythm": "第一句，有了muffled一般可以直接作过去分词直接形容去掉is，改善节奏\n\n整体差不多了，有使用短句等，"
+    },
+    "comments": "(空)",
+    "char_lengths": {
+      "tension": 39,
+      "symbol": 139,
+      "rhythm": 53
+    },
+    "substantive": {
+      "tension": true,
+      "symbol": true,
+      "rhythm": true
+    }
+  },
+  {
+    "row_index": 3,
+    "branch": "3",
+    "poem_id": "gen1_t2a",
+    "display_code": "P03",
+    "expertise": "intermediate",
+    "formal_verse_confidence": 6,
+    "primary_language": "中文",
+    "studied_sonnet": "1",
+    "consent": "1",
+    "feedback": {
+      "tension": "加强动词力度\n\n将第2行 wrestles with 改为 grapples 'gainst（音节数相同，但 grapple 更强调缠斗，'gainst 比 with 更有对立感）。\n\n将第4行 scatter 改为 fling 或 hurl（但需注意音节数：fling 为单音节，会少一拍，可改为 scatter 前加 wild，即 wild scatter，但更建议替换为 shower，既保持双音节，又暗示“倾泻”的暴力感）。\n\n增强“生/死”对比\n\n将第6行 patient bed 改为 waiting grave（“耐心的床”变为“等待的坟墓”，凸显果实腐烂的宿命）。\n\n将第8行 have fed 改为 now bleed（黄蜂不仅“喂养”于瘀伤，更让果实“流血”，强化伤害的当下性）。\n\n强化转折与收束\n\n在第9行 But see 前加 Yet，变为 Yet but see（或直接改为 Yet now），增强从衰败到燕子动作的突转。\n\n将第12行 to stem 改为 to brace（stem 意为“阻止”，但 brace 有“撑住、反抗”之意，使冬天降临前的最后支撑更具张力）。",
+      "symbol": "象征/意象（Symbolism/Imagery）——可执行修改建议\n现有意象如“长矛”“金币”“船体”“缝合”“脚手架”已具象征潜力，但可进一步统一为“战争/死亡”和“纺织/拆解”两大隐喻系统。建议如下：\n\n统一战争隐喻\n\n将第3行 gold leaf 改为 golden shields（与第1行“猩红长矛”呼应，落叶如盾牌被风撕碎，强化战场氛围）。\n\n将第4行 coins 改为 tribute（“贡品”比“硬币”更沉重，暗示季节向冬天献祭）。\n\n强化腐烂与死亡意象\n\n将第5行 orchard boughs 改为 orchard arms（拟人化，果树如臂膀卸下负担，更富肢体感）。\n\n将第8行 bruises 改为 wounds（“伤口”比“瘀伤”更残酷，与黄蜂的“刺”形成更直接的伤害链）。\n\n完善纺织/缝纫意象链\n\n将第9行 swallow's keel 改为 swallow's needle（“针”比“龙骨”更直接呼应后文的“stitch”“thread”，同时保持“切割”动态）。\n\n将第12行 naked scaffolding 改为 bare skeleton（“裸露的骨架”比“脚手架”更骇人，象征生命被抽空，与“缝补”后的撕裂形成强烈对比）。\n\n首尾呼应\n\n将第14行 rocks 改为 anvils（“铁砧”与第13行的“锤子”形成锻造隐喻，强化“季节被锤击”的硬感，同时与开头的“长矛”同属金属意象）。",
+      "rhythm": "节奏/韵律（Rhythm/Rhyme）——可执行修改建议\n原诗押韵已严格遵循 ABAB CDCD EFEF GG，且每行大多为十音节抑扬格，但部分行重音模式可优化，使之更接近标准五步抑扬格。建议如下：\n\n调整第一行首音步\n\n现行 The maple thrusts... 中，“maple”重音在第一音节，形成“弱-强”起势，但后续“thrusts”为强音节，产生连续重音。可改为 Maple thrusts high its scarlet lance（将“high”提前，音节仍为10：Map-le thrusts high its scar-let lance? 需计算：Map-le (2) thrusts (1) high (1) its (1) scar-let (2) lance (1) on? 不对。更稳妥：改为 The maple thrusts on high its scarlet lance——将“on high”提前，使重音落在“thrusts”“high”“scarlet”“lance”上，抑扬更规律）。\n\n修正第三行重音堆积\n\nWhose cold breath strips the gold leaf from the sky 中，“cold”“strips”“gold”“sky”均为重读，连续强拍过多。可改为 Whose chilling breath strips golden leaves from sky（chilling 两音节，重音在首，golden 两音节，弱-强，使节奏舒缓）。\n\n优化第七行内部停顿\n\nWhere wasps in drunken circles stab and goad 中，“drunken circles”均为重轻格，但“stab and goad”连续强音。可改为 Where wasps in drunken circles stab and goad——建议加逗号：Where wasps, in drunken circles, stab and goad，通过标点制造呼吸停顿，增强抑扬顿挫。\n\n调整第十一行重音\n\nThen snaps the thread and tears the light away 中，“snaps”“thread”“tears”“light”“away”多重读，可改为 Then snaps the thread, then tears the light away（重复“then”并加逗号，形成两个分句，重音分散，更流畅）。\n\n细化尾韵呼应\n\n押韵已完美，但可在行内增加头韵或辅音韵以强化音乐性，例如将第3行 cold breath 改为 bleak breath（头韵 b），将第13行 hammer knocks 改为 hammer hammers（但意义不佳），建议保留原样，仅建议在朗读时强调尾韵词（如 gray/away，hem/stem，knocks/rocks）以突出闭合感。"
+    },
+    "comments": "(空)",
+    "char_lengths": {
+      "tension": 501,
+      "symbol": 616,
+      "rhythm": 1260
+    },
+    "substantive": {
+      "tension": true,
+      "symbol": true,
+      "rhythm": true
+    }
+  },
+  {
+    "row_index": 4,
+    "branch": "4",
+    "poem_id": "gen1_t2b",
+    "display_code": "P04",
+    "expertise": "intermediate",
+    "formal_verse_confidence": 6,
+    "primary_language": "中文",
+    "studied_sonnet": "1",
+    "consent": "1",
+    "feedback": {
+      "tension": "本诗张力主要来自静谧与危机、绝望与微光之间的角力，但前八句铺陈偏缓，转折力度不足。建议：\n\n提前引入尖锐感官词\n将第9行“silence sharpens to a blade”移至第5行或第6行，让“刀刃”早早割裂铺叙，随后再展开回声、窗扉等意象，使张力持续递增。\n例如：将第5-6行改为\n\nBut here the silence sharpens to a blade—\nThe pavement drinks the echo of my tread.\n\n强化绝望与希望的落差\n在结尾星星出现前，将“choked-up throat”改为更具窒息感的词，如“gasping throat”或“strangled throat”，并在“star”前加“yet”或“still”形成反转：\n\nThen, sudden, from the gutter’s gasping throat,\nYet a star—unbroken—floats upon the moat.\n\n缩短句法，制造停顿\n将第13行“Then, sudden”改为“Then—sudden—”，用破折号延长悬停，强化爆发瞬间的张力。",
+      "symbol": "诗中意象丰富但部分关联松散（如“moat”前文未铺垫水域，“wire”“siren”等城市声景可更统一）。建议：\n\n统一水意象脉络\n开头已有“rain-washed”，结尾有“moat”“gutter”，可强化这条暗线，将“asphalt gray”改为“asphalt slick with rain”，将“pavement drinks”改为“pavement swims”，使全诗形成从雨水到护城河的液态隐喻，象征情感流动与困阻。\n\n深化“光”与“影”的象征\n“lamp-post stitches light from death”中的“death”较抽象，改为“the dark”或“the void”更切合视觉对比；将“shadow’s slow and stolen way”改为“shadow’s dragging chain”，赋予影子受束缚的质感，强化都市囚禁主题。\n\n统一听觉意象\n“murmur of the wire”偏柔和，与“siren”“blade”的锋利感不符，改为“screech of the wire”或“whine of the wire”，使所有声音（寂静、警笛、电线）都带有威胁性，直到星星打破。",
+      "rhythm": "将第4行“slow and stolen”改为“slow-stolen”或“slow, stolen”去掉“and”。\n\n将第11行“every”缩写为“ev'ry”以保持10音节。\n\n将第13行“Then, sudden”改为“Then sudden”去掉逗号，或保留，但节奏无碍。"
+    },
+    "comments": "(空)",
+    "char_lengths": {
+      "tension": 504,
+      "symbol": 521,
+      "rhythm": 142
+    },
+    "substantive": {
+      "tension": true,
+      "symbol": true,
+      "rhythm": true
+    }
+  },
+  {
+    "row_index": 5,
+    "branch": "5",
+    "poem_id": "gen1_t3a",
+    "display_code": "P05",
+    "expertise": "intermediate",
+    "formal_verse_confidence": 6,
+    "primary_language": "中文",
+    "studied_sonnet": "1",
+    "consent": "1",
+    "feedback": {
+      "tension": "建议① 强化结尾的内心冲突\n原第13–14行：\n\nSo let the deep keep what the deep has kept;\nI’ll turn and leave the ripples, unaccept.\n\n修改为（保留押韵，增加犹疑与回响）：\n\nSo let the deep keep what the deep has kept;\nYet can I turn and leave the ripples unaccept?\n\n——将陈述改为反问，使“放弃”变成“无法真正放下”，张力和未完成感更强。\n\n建议② 在中段加入身体与情感的对抗\n原第5行“I plunge my hand to sift the muddy cold”偏平缓。可改为：\n\nI plunge my hand – though cold burns – sift the mud,\n但为保留与第7行“told”的押韵，可将第5–6行调整为：\nI plunge my hand, and though the cold bites bone,\nI bring up shards of a forgotten noon—\n（这样“bone”与“noon”押韵？实际原韵脚是cold/told, noon/moon，调整会破坏韵式，故不推荐。）更稳妥的是在末句加一个分裂的破折号：\nI’ll turn and leave the ripples—unaccept?\n（原句无标点，现加破折号和问号，让决绝动作中插入迟疑，张力立增。）",
+      "symbol": "建议① 将“币”具体化为有历史感的物件\n原第7行：\n\nA sunken coin, a story briefly told,\n修改为：\nA rusted key, a story briefly told,\n——钥匙比硬币更具“未解之谜”的象征性，暗示锁闭的过去，与后文“记忆的压印”更贴合。\n\n建议② 增强“正午”与“月亮”的时间意象对比\n原第6行：\n\nAnd bring up shards of a forgotten noon—\n修改为：\nAnd bring up shards of a sundial’s broken noon—\n——“日晷”直接介入时间主题，破碎的日晷强化“记忆残缺”的视觉意象，同时保留“noon”押韵。\n\n建议③ 用更沉重的自然物代替“灰色卵石”\n原第12行：\n\nA cold, unpolished pebble’s muted grays.\n修改为：\nA cold, unpolished pebble—slate of graves.\n——“slate of graves”既保留灰色调，又增添墓地意象，与“记忆的重量”形成更阴暗的象征呼应（同时“graves”与第10行“days”押韵，韵式不变）。",
+      "rhythm": "建议① 修正第9行与第11行的押韵失误\n原韵式要求第9、11行押韵，第10、12行押韵。目前第10行“days”与第12行“grays”押韵，但第9行“press”与第11行“loneliness”不押。修改如下：\n\n第9行：\n\nThe water’s weight is memory’s own press,\n改为：\nThe water’s weight is memory’s own stress,\n\n第11行：\n\nAnd what I lift is only loneliness,\n改为：\nAnd what I lift is but a dull distress,\n\n这样第9行（stress）与第11行（distress）押 /ɛs/ 韵，第10行（days）与第12行（grays）押 /eɪz/ 韵，完全符合莎士比亚十四行诗韵式。\n\n建议② 调整第14行的生造词，同时保持押韵\n原第14行“unaccept”虽与第13行“kept”押 /ɛpt/，但词形不规范。若追求标准性，可改为：\n\nI’ll turn and leave the ripples—unaccept?\n（保留问号，仍押韵）\n或更稳妥地改为：\nI’ll turn and leave the ripples—unwept?\n（“unwept”与“kept”押韵，意为“未被哀悼”，暗含对记忆的冷漠与刺痛，增强韵律与情感双重效果。）\n\n建议③ 微调第3行的重复词以改善节奏流\n原第3行“The current’s cursive, cursive and alone”中重复“cursive”略显拖沓。可改为：\n\nThe current’s cursive, lone and overblown,\n（仍与第1行“stone”押 /oʊn/ 韵，且“overblown”加强水流漫过一切的意象，节奏更紧凑。）"
+    },
+    "comments": "(空)",
+    "char_lengths": {
+      "tension": 664,
+      "symbol": 523,
+      "rhythm": 799
+    },
+    "substantive": {
+      "tension": true,
+      "symbol": true,
+      "rhythm": true
+    }
+  },
+  {
+    "row_index": 6,
+    "branch": "6",
+    "poem_id": "gen1_t3b",
+    "display_code": "P06",
+    "expertise": "amateur",
+    "formal_verse_confidence": 3,
+    "primary_language": "中文",
+    "studied_sonnet": "2",
+    "consent": "1",
+    "feedback": {
+      "tension": "原句The river keeps what daylight cannot hold 中的 \"keeps\"太温和，像在保管遗物。 建议修改为The river drowns what daylight cannot hold",
+      "symbol": "原句 I wade through half-remembered autumns, deep 中的\"half-remembered autumns\"是时间标签，不是画面。 建议修改为I wade through autumns—half-claimed, half-deep—",
+      "rhythm": "原句But night descends, and all the river swells 有11个音节，且有\"and\"这个填充词拖沓。建议修改为 But night—and all the river swells—"
+    },
+    "comments": "(空)",
+    "char_lengths": {
+      "tension": 113,
+      "symbol": 139,
+      "rhythm": 110
+    },
+    "substantive": {
+      "tension": true,
+      "symbol": true,
+      "rhythm": true
+    }
+  },
+  {
+    "row_index": 7,
+    "branch": "6",
+    "poem_id": "gen1_t3b",
+    "display_code": "P06",
+    "expertise": "expert",
+    "formal_verse_confidence": 5,
+    "primary_language": "中文",
+    "studied_sonnet": "1",
+    "consent": "1",
+    "feedback": {
+      "tension": "核心问题：当前张力主要来自“我”与“河流”的对立，但冲突的烈度较平缓，且结局（第13-14行）偏向妥协与消解，缺乏内在挣扎的锐度。\n\n具体可执行修改：\n\n强化动词的“暴力性”\n将第10行 lunges at the bank with sudden tooth 中的 tooth（单数牙齿，意象较弱）改为 teeth，并增加一个更具破坏性的动词，例如：\n\nit lunges at the bank with jagged teeth\n同时，将第11行 what I thought was mine, the current quells 中的 quells（镇压，偏抽象）改为 harrows（耙犁、撕裂）或 gavels（如锤子般裁决），增加动作的物理性与审判意味。\n\n植入一个“倒置”的背叛瞬间\n在第12行“drowning echo severed from its truth”之后，插入一行（可替换或压缩原第13行），让河流不再是单纯的外部敌人，而是“我”主动邀请的共谋。例如：\n\nBut I have kissed the current that devours\n这种“主动拥抱毁灭”的悖论，会显著提升心理张力。\n\n强化结尾的反讽\n第14行 I'll drink the dark and call the flood my tears 过于平静。可改为更具自我撕裂感的表述：\n\nI'll drink the dark — and name the flood my tears （将“call”改为“name”，强调命名权之争），并在“drink”前加一个迟疑性的破折号，制造气息上的停顿，增强最后一行爆发的冲击力。",
+      "symbol": "核心问题：意象种类丰富（硬币、钥匙、树叶、淤泥、火焰、牙齿），但彼此间缺乏有机递进，且“火焰”意象（第8行）出现一次后未再呼应，象征链断裂。\n\n具体可执行修改：\n\n为“火焰”建立回响\n第8行 a fragment that the water bends to flame 中的“火焰”非常惊艳，但后文消失。建议在第10行或第12行埋下对应物，例如：\n\n将第10行 it lunges at the bank with sudden tooth 改为 it lunges — and where I grasped, a flame goes out\n这样“火焰”从被水弯曲，到被水扑灭，形成意象弧光。\n\n将“钥匙”意象延伸为“锁”\n第2行出现 rusted key，但全诗未提锁或门。建议在第13行中加入对应物：\n\nSo let it take the wreckage of my years —\n改为 So let it take the wreckage — and the lock\n让“钥匙”找到它的“锁”，而锁与“沉没的真相”形成空间隐喻。\n\n增加触觉与嗅觉的感官层\n目前以视觉为主。建议在第5-7行的“涉水”场景中加入一句触觉/嗅觉描写，例如替换或扩充第6行：\n\nwhere silt has softened the edges of a name\n改为 where silt has softened the edges of a name — / and cold climbs up my shins like iron moss\n“铁藓”既承接“锈蚀钥匙”的金属意象，又引入温度与触感。",
+      "rhythm": "押韵基本整齐（ABAB CDCD EFEF GG），但存在视觉押韵而非听觉押韵的问题（如 hold/key 不押、name/flame 押/ei/但弱读不同）。\n\n节奏上，大部分行是标准抑扬五音步，但有若干行出现多出音节或节奏碎裂（如第6行、第10行）。\n\n具体可执行修改：\n\n修正强迫押韵\n第1-2行 hold / key 不押韵。建议将 key 改为 stone（与 hold 押/əʊld/）：\n\na sunken coin, a leaf, a rusted stone\n同时第3行 green and cold 中的 cold 也与 hold / stone 形成三元押韵，增强开头音效凝聚力。\n\n调整第6行的音节数\n第6行 where silt has soffed the edges of a name —— “soffed”疑为拼写错误（应为 softened），且该行有10个音节，但重音分布不均。建议改为：\n\nwhere silt has dulled the edges of a name （dulled 单音节，收紧节奏，且与“钥匙/锈蚀”语义呼应）\n\n修复第10行的节奏断裂\n第10行 it lunges at the bank with sudden tooth —— “sudden tooth”两个重音相连（spondee），破坏抑扬节奏。建议改为：\n\nit lunges at the bank — a sudden bite\n“bite”为单音节，与第9行“swells”形成更紧凑的节奏对抗，且“bite”与第12行“truth”押韵更自然（/aɪt/ vs /uːθ/ 虽不完美，但听觉上比“tooth/truth”更清晰）。\n\n强化结尾对句的韵律重量\n第13-14行对句押 years/tears，但 years 为/ɪəz/，tears 为/ɪəz/，押韵完美。建议在第13行末尾增加一个停顿标记，制造“收束感”：\n\nSo let it take the wreckage of my years —\n保留破折号，并在第14行开头用强重音 I'll 起拍，形成“弱-强-弱-强”的稳定抑扬，使终行成为全诗节奏最工整的一行。"
+    },
+    "comments": "(空)",
+    "char_lengths": {
+      "tension": 718,
+      "symbol": 706,
+      "rhythm": 935
+    },
+    "substantive": {
+      "tension": true,
+      "symbol": true,
+      "rhythm": true
+    }
+  },
+  {
+    "row_index": 8,
+    "branch": "5",
+    "poem_id": "gen1_t3a",
+    "display_code": "P05",
+    "expertise": "intermediate",
+    "formal_verse_confidence": 4,
+    "primary_language": "中文",
+    "studied_sonnet": "2",
+    "consent": "1",
+    "feedback": {
+      "tension": "That ever sank, in silted, patient rows 中的\"silted, patient rows\"是描述性美学，不是账本语言。建议改为That ever sank—in entries, silted, owed—",
+      "symbol": "A sunken coin, a story briefly told 中的\"coin\"是好物证，但\"story briefly told\"是填充。建议改为A sunken coin—a liability—retold",
+      "rhythm": "A slow compaction of the vanished days 中的\"slow compaction\"是抽象描述，缺乏声音上的停顿。建议改为A slow compaction—days, debited, erased**"
+    },
+    "comments": "(空)",
+    "char_lengths": {
+      "tension": 122,
+      "symbol": 110,
+      "rhythm": 118
+    },
+    "substantive": {
+      "tension": true,
+      "symbol": true,
+      "rhythm": true
+    }
+  },
+  {
+    "row_index": 9,
+    "branch": "4",
+    "poem_id": "gen1_t2b",
+    "display_code": "P04",
+    "expertise": "intermediate",
+    "formal_verse_confidence": 5,
+    "primary_language": "英文",
+    "studied_sonnet": "1",
+    "consent": "1",
+    "feedback": {
+      "tension": "Of diesel fumes and rain-washed asphalt gray 这句偏描述性，缺乏解剖学的延续。可改成Of diesel fumes—and asphalt, gray as grave-cloth",
+      "symbol": "A hollow drumbeat on a stage of stone 中的\"drumbeat\"和\"stage\"是戏剧隐喻，与\"ribs\"冲突。可改成A hollow drumbeat—on a table of stone**",
+      "rhythm": "It slices through the murmur of the wire 中的\"slices through\"是好动词，但\"murmur of the wire\"太抽象。可改成It slices through the murmur—wires—unstrung"
+    },
+    "comments": "(空)",
+    "char_lengths": {
+      "tension": 112,
+      "symbol": 116,
+      "rhythm": 135
+    },
+    "substantive": {
+      "tension": true,
+      "symbol": true,
+      "rhythm": true
+    }
+  },
+  {
+    "row_index": 10,
+    "branch": "3",
+    "poem_id": "gen1_t2a",
+    "display_code": "P03",
+    "expertise": "expert",
+    "formal_verse_confidence": 5,
+    "primary_language": "英文",
+    "studied_sonnet": "1",
+    "consent": "1",
+    "feedback": {
+      "tension": "To scatter coins across the river's hull 中的“scatter coins”太轻，像慷慨；“hull”（船壳）与河流不协调。改成To flatten coins across the river's gullet",
+      "symbol": "Their burden to the furrow's patient bed 中的“patient bed”是优雅的农事隐喻，但“patient”太被动了。 改成Their burden to the furrow—a torpid bed",
+      "rhythm": "And leaves the naked scaffolding to stem 中的 “scaffolding”是建筑隐喻，与武器/缝纫不统一。改成 And leaves the naked ribs to stem"
+    },
+    "comments": "(空)",
+    "char_lengths": {
+      "tension": 126,
+      "symbol": 122,
+      "rhythm": 109
+    },
+    "substantive": {
+      "tension": true,
+      "symbol": true,
+      "rhythm": true
+    }
+  }
+]

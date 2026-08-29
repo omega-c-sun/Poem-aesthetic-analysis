@@ -1,0 +1,287 @@
+{
+  "survey2_likert_meta": {
+    "parsed_utc": "2026-08-26T11:19:04.028411+00:00",
+    "source_xlsx": "c:\\Users\\孙行知\\Downloads\\381340228_按序号_英文十四行诗审美评分 Reading English Sonnets — Aesthetic Rating_12_12.xlsx",
+    "n_responses": 12,
+    "instrument_type": "likert_rating",
+    "coding": {
+      "item_7": "gen0 of selected lineage (first matrix)",
+      "item_8": "gen1 of selected lineage (second matrix)",
+      "branch_lineage": {
+        "1": "t1a",
+        "2": "t1b",
+        "3": "t2a",
+        "4": "t2b",
+        "5": "t3a",
+        "6": "t3b"
+      },
+      "note": "WJX titles do not name generation round. Mapping uses item order under the paired gen0-then-gen1 rating design."
+    },
+    "branch_counts": {
+      "1": 2,
+      "2": 2,
+      "3": 2,
+      "4": 2,
+      "5": 2,
+      "6": 2
+    },
+    "expertise_counts": {
+      "intermediate": 7,
+      "amateur": 1,
+      "expert": 4
+    }
+  },
+  "means": {
+    "tension_g0": 5.833333333333333,
+    "tension_g1": 6.5,
+    "symbol_g0": 6.0,
+    "symbol_g1": 6.583333333333333,
+    "rhythm_g0": 6.166666666666667,
+    "rhythm_g1": 6.333333333333333,
+    "C_g0": 0.3048520956960581,
+    "C_g1": 0.6068637896385165,
+    "d_C": 0.30201169394245847,
+    "n_lineages_C_up": 6
+  },
+  "tests": {
+    "poem_d_C": {
+      "n": 6,
+      "mean": 0.30201169394245847,
+      "median": 0.28762196734137224,
+      "wilcoxon_stat": 0.0,
+      "p_value": 0.03125,
+      "ci95": [
+        0.2279,
+        0.3822
+      ]
+    },
+    "poem_d_tension": {
+      "n": 6,
+      "mean": 0.6666666666666666,
+      "median": 0.75,
+      "wilcoxon_stat": 0.0,
+      "p_value": 0.0625,
+      "ci95": [
+        0.3333,
+        0.9167
+      ]
+    },
+    "poem_d_symbol": {
+      "n": 6,
+      "mean": 0.5833333333333334,
+      "median": 0.5,
+      "wilcoxon_stat": 0.0,
+      "p_value": 0.0625,
+      "ci95": [
+        0.3333,
+        0.8333
+      ]
+    },
+    "poem_d_rhythm": {
+      "n": 6,
+      "mean": 0.16666666666666666,
+      "median": 0.0,
+      "wilcoxon_stat": 0.0,
+      "p_value": 0.5,
+      "ci95": [
+        0.0,
+        0.3333
+      ]
+    },
+    "rater_d_composite": {
+      "n": 12,
+      "mean": 0.4722222222222223,
+      "median": 0.666666666666667,
+      "wilcoxon_stat": 0.0,
+      "p_value": 0.00390625,
+      "ci95": [
+        0.3056,
+        0.6111
+      ]
+    }
+  },
+  "spearman": [
+    {
+      "x": "d_entropy",
+      "y": "d_C",
+      "spearman_r": -0.7142857142857143,
+      "p_value": 0.1107871720116617,
+      "n": 6
+    },
+    {
+      "x": "entropy_g1",
+      "y": "C_g1",
+      "spearman_r": 0.4285714285714286,
+      "p_value": 0.3965014577259474,
+      "n": 6
+    },
+    {
+      "x": "d_rhyme",
+      "y": "d_C",
+      "spearman_r": -0.7142857142857143,
+      "p_value": 0.1107871720116617,
+      "n": 6
+    },
+    {
+      "x": "rhyme_g1",
+      "y": "C_g1",
+      "spearman_r": -0.2,
+      "p_value": 0.704,
+      "n": 6
+    }
+  ],
+  "expertise_d_comp": {
+    "amateur": {
+      "n": 1,
+      "mean_d_comp": 0.6666666666666661
+    },
+    "expert": {
+      "n": 4,
+      "mean_d_comp": 0.41666666666666674
+    },
+    "intermediate": {
+      "n": 7,
+      "mean_d_comp": 0.4761904761904764
+    }
+  },
+  "lineages": [
+    {
+      "lineage": "t1a",
+      "theme": "autumn departure",
+      "n": 2,
+      "tension_g0": 5.5,
+      "tension_g1": 6.0,
+      "d_tension": 0.5,
+      "symbol_g0": 6.0,
+      "symbol_g1": 6.5,
+      "d_symbol": 0.5,
+      "rhythm_g0": 6.0,
+      "rhythm_g1": 6.0,
+      "d_rhythm": 0.0,
+      "C_g0": 0.19322339239004394,
+      "C_g1": 0.4249691001551758,
+      "d_C": 0.23174570776513187,
+      "entropy_g0": 1.4274024121196731,
+      "rhyme_g0": 0.0028718133701199,
+      "entropy_g1": 1.4645925293547168,
+      "rhyme_g1": 0.0038383789982668,
+      "d_entropy": 0.03719011723504373,
+      "d_rhyme": 0.0009665656281468999
+    },
+    {
+      "lineage": "t1b",
+      "theme": "autumn departure",
+      "n": 2,
+      "tension_g0": 5.5,
+      "tension_g1": 6.5,
+      "d_tension": 1.0,
+      "symbol_g0": 6.0,
+      "symbol_g1": 6.0,
+      "d_symbol": 0.0,
+      "rhythm_g0": 6.0,
+      "rhythm_g1": 6.0,
+      "d_rhythm": 0.0,
+      "C_g0": 0.19322339239004394,
+      "C_g1": 0.4295435804073772,
+      "d_C": 0.2363201880173333,
+      "entropy_g0": 1.506062120920308,
+      "rhyme_g0": 0.0036013003883319,
+      "entropy_g1": 1.561864861113791,
+      "rhyme_g1": 0.0031736802262704,
+      "d_entropy": 0.05580274019348308,
+      "d_rhyme": -0.00042762016206150015
+    },
+    {
+      "lineage": "t2a",
+      "theme": "urban night solitude",
+      "n": 2,
+      "tension_g0": 6.0,
+      "tension_g1": 6.5,
+      "d_tension": 0.5,
+      "symbol_g0": 5.5,
+      "symbol_g1": 6.5,
+      "d_symbol": 1.0,
+      "rhythm_g0": 6.0,
+      "rhythm_g1": 6.0,
+      "d_rhythm": 0.0,
+      "C_g0": 0.19729477026876482,
+      "C_g1": 0.5362185169341761,
+      "d_C": 0.33892374666541125,
+      "entropy_g0": 1.3840704560057393,
+      "rhyme_g0": 0.004328469214176,
+      "entropy_g1": 1.4457943065739574,
+      "rhyme_g1": 0.002530210956079,
+      "d_entropy": 0.06172385056821805,
+      "d_rhyme": -0.0017982582580969996
+    },
+    {
+      "lineage": "t2b",
+      "theme": "urban night solitude",
+      "n": 2,
+      "tension_g0": 5.5,
+      "tension_g1": 6.5,
+      "d_tension": 1.0,
+      "symbol_g0": 5.5,
+      "symbol_g1": 6.5,
+      "d_symbol": 1.0,
+      "rhythm_g0": 6.5,
+      "rhythm_g1": 6.5,
+      "d_rhythm": 0.0,
+      "C_g0": 0.1863278041845927,
+      "C_g1": 0.6340741147877272,
+      "d_C": 0.4477463106031345,
+      "entropy_g0": 1.438269639092697,
+      "rhyme_g0": 0.0031117310738027,
+      "entropy_g1": 1.4374842015877505,
+      "rhyme_g1": 0.0025372788578079,
+      "d_entropy": -0.000785437504946529,
+      "d_rhyme": -0.0005744522159948002
+    },
+    {
+      "lineage": "t3a",
+      "theme": "memory and water",
+      "n": 2,
+      "tension_g0": 6.0,
+      "tension_g1": 7.0,
+      "d_tension": 1.0,
+      "symbol_g0": 6.5,
+      "symbol_g1": 7.0,
+      "d_symbol": 0.5,
+      "rhythm_g0": 6.0,
+      "rhythm_g1": 6.5,
+      "d_rhythm": 0.5,
+      "C_g0": 0.4249691001551758,
+      "C_g1": 0.8136721958154073,
+      "d_C": 0.3887030956602315,
+      "entropy_g0": 1.62897085499442,
+      "rhyme_g0": 0.004545414351815,
+      "entropy_g1": 1.5893805923781317,
+      "rhyme_g1": 0.0035170328949192,
+      "d_entropy": -0.039590262616288285,
+      "d_rhyme": -0.0010283814568958
+    },
+    {
+      "lineage": "t3b",
+      "theme": "memory and water",
+      "n": 2,
+      "tension_g0": 6.5,
+      "tension_g1": 6.5,
+      "d_tension": 0.0,
+      "symbol_g0": 6.5,
+      "symbol_g1": 7.0,
+      "d_symbol": 0.5,
+      "rhythm_g0": 6.5,
+      "rhythm_g1": 7.0,
+      "d_rhythm": 0.5,
+      "C_g0": 0.6340741147877272,
+      "C_g1": 0.8027052297312355,
+      "d_C": 0.16863111494350824,
+      "entropy_g0": 1.5471032138237135,
+      "rhyme_g0": 0.0033414371390074,
+      "entropy_g1": 1.665191379814698,
+      "rhyme_g1": 0.0031152023100427,
+      "d_entropy": 0.11808816599098448,
+      "d_rhyme": -0.0002262348289646999
+    }
+  ]
+}

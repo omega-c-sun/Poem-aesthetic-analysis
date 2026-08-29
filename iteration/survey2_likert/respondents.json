@@ -1,0 +1,254 @@
+[
+  {
+    "row_index": 1,
+    "branch": "1",
+    "lineage": "t1a",
+    "theme": "autumn departure",
+    "expertise": "intermediate",
+    "formal_verse_confidence": 5,
+    "consent": "1",
+    "scores": {
+      "gen0": {
+        "tension": 5,
+        "symbol": 5,
+        "rhythm": 6
+      },
+      "gen1": {
+        "tension": 6,
+        "symbol": 6,
+        "rhythm": 6
+      }
+    }
+  },
+  {
+    "row_index": 2,
+    "branch": "2",
+    "lineage": "t1b",
+    "theme": "autumn departure",
+    "expertise": "intermediate",
+    "formal_verse_confidence": 6,
+    "consent": "1",
+    "scores": {
+      "gen0": {
+        "tension": 5,
+        "symbol": 5,
+        "rhythm": 5
+      },
+      "gen1": {
+        "tension": 6,
+        "symbol": 5,
+        "rhythm": 6
+      }
+    }
+  },
+  {
+    "row_index": 3,
+    "branch": "3",
+    "lineage": "t2a",
+    "theme": "urban night solitude",
+    "expertise": "amateur",
+    "formal_verse_confidence": 5,
+    "consent": "1",
+    "scores": {
+      "gen0": {
+        "tension": 6,
+        "symbol": 5,
+        "rhythm": 6
+      },
+      "gen1": {
+        "tension": 7,
+        "symbol": 6,
+        "rhythm": 6
+      }
+    }
+  },
+  {
+    "row_index": 4,
+    "branch": "4",
+    "lineage": "t2b",
+    "theme": "urban night solitude",
+    "expertise": "intermediate",
+    "formal_verse_confidence": 5,
+    "consent": "1",
+    "scores": {
+      "gen0": {
+        "tension": 5,
+        "symbol": 5,
+        "rhythm": 6
+      },
+      "gen1": {
+        "tension": 6,
+        "symbol": 6,
+        "rhythm": 6
+      }
+    }
+  },
+  {
+    "row_index": 5,
+    "branch": "2",
+    "lineage": "t1b",
+    "theme": "autumn departure",
+    "expertise": "intermediate",
+    "formal_verse_confidence": 4,
+    "consent": "1",
+    "scores": {
+      "gen0": {
+        "tension": 6,
+        "symbol": 7,
+        "rhythm": 7
+      },
+      "gen1": {
+        "tension": 7,
+        "symbol": 7,
+        "rhythm": 6
+      }
+    }
+  },
+  {
+    "row_index": 6,
+    "branch": "5",
+    "lineage": "t3a",
+    "theme": "memory and water",
+    "expertise": "intermediate",
+    "formal_verse_confidence": 5,
+    "consent": "1",
+    "scores": {
+      "gen0": {
+        "tension": 6,
+        "symbol": 6,
+        "rhythm": 6
+      },
+      "gen1": {
+        "tension": 7,
+        "symbol": 7,
+        "rhythm": 6
+      }
+    }
+  },
+  {
+    "row_index": 7,
+    "branch": "6",
+    "lineage": "t3b",
+    "theme": "memory and water",
+    "expertise": "expert",
+    "formal_verse_confidence": 6,
+    "consent": "1",
+    "scores": {
+      "gen0": {
+        "tension": 6,
+        "symbol": 6,
+        "rhythm": 6
+      },
+      "gen1": {
+        "tension": 6,
+        "symbol": 7,
+        "rhythm": 7
+      }
+    }
+  },
+  {
+    "row_index": 8,
+    "branch": "3",
+    "lineage": "t2a",
+    "theme": "urban night solitude",
+    "expertise": "expert",
+    "formal_verse_confidence": 6,
+    "consent": "1",
+    "scores": {
+      "gen0": {
+        "tension": 6,
+        "symbol": 6,
+        "rhythm": 6
+      },
+      "gen1": {
+        "tension": 6,
+        "symbol": 7,
+        "rhythm": 6
+      }
+    }
+  },
+  {
+    "row_index": 9,
+    "branch": "4",
+    "lineage": "t2b",
+    "theme": "urban night solitude",
+    "expertise": "expert",
+    "formal_verse_confidence": 7,
+    "consent": "1",
+    "scores": {
+      "gen0": {
+        "tension": 6,
+        "symbol": 6,
+        "rhythm": 7
+      },
+      "gen1": {
+        "tension": 7,
+        "symbol": 7,
+        "rhythm": 7
+      }
+    }
+  },
+  {
+    "row_index": 10,
+    "branch": "5",
+    "lineage": "t3a",
+    "theme": "memory and water",
+    "expertise": "intermediate",
+    "formal_verse_confidence": 6,
+    "consent": "1",
+    "scores": {
+      "gen0": {
+        "tension": 6,
+        "symbol": 7,
+        "rhythm": 6
+      },
+      "gen1": {
+        "tension": 7,
+        "symbol": 7,
+        "rhythm": 7
+      }
+    }
+  },
+  {
+    "row_index": 11,
+    "branch": "6",
+    "lineage": "t3b",
+    "theme": "memory and water",
+    "expertise": "intermediate",
+    "formal_verse_confidence": 5,
+    "consent": "1",
+    "scores": {
+      "gen0": {
+        "tension": 7,
+        "symbol": 7,
+        "rhythm": 7
+      },
+      "gen1": {
+        "tension": 7,
+        "symbol": 7,
+        "rhythm": 7
+      }
+    }
+  },
+  {
+    "row_index": 12,
+    "branch": "1",
+    "lineage": "t1a",
+    "theme": "autumn departure",
+    "expertise": "expert",
+    "formal_verse_confidence": 6,
+    "consent": "1",
+    "scores": {
+      "gen0": {
+        "tension": 6,
+        "symbol": 7,
+        "rhythm": 6
+      },
+      "gen1": {
+        "tension": 6,
+        "symbol": 7,
+        "rhythm": 6
+      }
+    }
+  }
+]

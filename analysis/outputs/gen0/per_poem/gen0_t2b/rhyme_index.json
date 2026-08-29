@@ -1,0 +1,222 @@
+{
+  "n_lines": 14,
+  "rhyme_coverage": 1.0,
+  "phoneme_agree_pairs": 7,
+  "phoneme_pair_total": 7,
+  "query_token_indices": [
+    8,
+    19,
+    27,
+    36,
+    46,
+    55,
+    64,
+    73,
+    84,
+    96,
+    110,
+    120,
+    131,
+    143
+  ],
+  "partner_of": {
+    "0": 2,
+    "2": 0,
+    "1": 3,
+    "3": 1,
+    "4": 6,
+    "6": 4,
+    "5": 7,
+    "7": 5,
+    "8": 10,
+    "10": 8,
+    "9": 11,
+    "11": 9,
+    "12": 13,
+    "13": 12
+  },
+  "line_ends": [
+    {
+      "line_index": 0,
+      "end_word": "night",
+      "token_start": 8,
+      "token_end": 9,
+      "oov": false,
+      "phones": [
+        "N",
+        "AY1",
+        "T"
+      ]
+    },
+    {
+      "line_index": 1,
+      "end_word": "sleep",
+      "token_start": 19,
+      "token_end": 20,
+      "oov": false,
+      "phones": [
+        "S",
+        "L",
+        "IY1",
+        "P"
+      ]
+    },
+    {
+      "line_index": 2,
+      "end_word": "light",
+      "token_start": 27,
+      "token_end": 28,
+      "oov": false,
+      "phones": [
+        "L",
+        "AY1",
+        "T"
+      ]
+    },
+    {
+      "line_index": 3,
+      "end_word": "creep",
+      "token_start": 36,
+      "token_end": 37,
+      "oov": false,
+      "phones": [
+        "K",
+        "R",
+        "IY1",
+        "P"
+      ]
+    },
+    {
+      "line_index": 4,
+      "end_word": "steel",
+      "token_start": 46,
+      "token_end": 47,
+      "oov": false,
+      "phones": [
+        "S",
+        "T",
+        "IY1",
+        "L"
+      ]
+    },
+    {
+      "line_index": 5,
+      "end_word": "stays",
+      "token_start": 55,
+      "token_end": 56,
+      "oov": false,
+      "phones": [
+        "S",
+        "T",
+        "EY1",
+        "Z"
+      ]
+    },
+    {
+      "line_index": 6,
+      "end_word": "reveal",
+      "token_start": 64,
+      "token_end": 65,
+      "oov": false,
+      "phones": [
+        "R",
+        "IH0",
+        "V",
+        "IY1",
+        "L"
+      ]
+    },
+    {
+      "line_index": 7,
+      "end_word": "days",
+      "token_start": 73,
+      "token_end": 74,
+      "oov": false,
+      "phones": [
+        "D",
+        "EY1",
+        "Z"
+      ]
+    },
+    {
+      "line_index": 8,
+      "end_word": "brake",
+      "token_start": 84,
+      "token_end": 85,
+      "oov": false,
+      "phones": [
+        "B",
+        "R",
+        "EY1",
+        "K"
+      ]
+    },
+    {
+      "line_index": 9,
+      "end_word": "trance",
+      "token_start": 96,
+      "token_end": 97,
+      "oov": false,
+      "phones": [
+        "T",
+        "R",
+        "AE1",
+        "N",
+        "S"
+      ]
+    },
+    {
+      "line_index": 10,
+      "end_word": "awake",
+      "token_start": 110,
+      "token_end": 111,
+      "oov": false,
+      "phones": [
+        "AH0",
+        "W",
+        "EY1",
+        "K"
+      ]
+    },
+    {
+      "line_index": 11,
+      "end_word": "expanse",
+      "token_start": 119,
+      "token_end": 121,
+      "oov": false,
+      "phones": [
+        "IH0",
+        "K",
+        "S",
+        "P",
+        "AE1",
+        "N",
+        "S"
+      ]
+    },
+    {
+      "line_index": 12,
+      "end_word": "name",
+      "token_start": 131,
+      "token_end": 132,
+      "oov": false,
+      "phones": [
+        "N",
+        "EY1",
+        "M"
+      ]
+    },
+    {
+      "line_index": 13,
+      "end_word": "shame",
+      "token_start": 143,
+      "token_end": 144,
+      "oov": false,
+      "phones": [
+        "SH",
+        "EY1",
+        "M"
+      ]
+    }
+  ]
+}

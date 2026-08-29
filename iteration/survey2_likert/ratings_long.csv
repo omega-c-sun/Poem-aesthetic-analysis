@@ -1,0 +1,25 @@
+respondent,branch,lineage,theme,round,poem_id,expertise,tension,symbol,rhythm
+1,1,t1a,autumn departure,gen0,gen0_t1a,intermediate,5,5,6
+1,1,t1a,autumn departure,gen1,gen1_t1a,intermediate,6,6,6
+2,2,t1b,autumn departure,gen0,gen0_t1b,intermediate,5,5,5
+2,2,t1b,autumn departure,gen1,gen1_t1b,intermediate,6,5,6
+3,3,t2a,urban night solitude,gen0,gen0_t2a,amateur,6,5,6
+3,3,t2a,urban night solitude,gen1,gen1_t2a,amateur,7,6,6
+4,4,t2b,urban night solitude,gen0,gen0_t2b,intermediate,5,5,6
+4,4,t2b,urban night solitude,gen1,gen1_t2b,intermediate,6,6,6
+5,2,t1b,autumn departure,gen0,gen0_t1b,intermediate,6,7,7
+5,2,t1b,autumn departure,gen1,gen1_t1b,intermediate,7,7,6
+6,5,t3a,memory and water,gen0,gen0_t3a,intermediate,6,6,6
+6,5,t3a,memory and water,gen1,gen1_t3a,intermediate,7,7,6
+7,6,t3b,memory and water,gen0,gen0_t3b,expert,6,6,6
+7,6,t3b,memory and water,gen1,gen1_t3b,expert,6,7,7
+8,3,t2a,urban night solitude,gen0,gen0_t2a,expert,6,6,6
+8,3,t2a,urban night solitude,gen1,gen1_t2a,expert,6,7,6
+9,4,t2b,urban night solitude,gen0,gen0_t2b,expert,6,6,7
+9,4,t2b,urban night solitude,gen1,gen1_t2b,expert,7,7,7
+10,5,t3a,memory and water,gen0,gen0_t3a,intermediate,6,7,6
+10,5,t3a,memory and water,gen1,gen1_t3a,intermediate,7,7,7
+11,6,t3b,memory and water,gen0,gen0_t3b,intermediate,7,7,7
+11,6,t3b,memory and water,gen1,gen1_t3b,intermediate,7,7,7
+12,1,t1a,autumn departure,gen0,gen0_t1a,expert,6,7,6
+12,1,t1a,autumn departure,gen1,gen1_t1a,expert,6,7,6

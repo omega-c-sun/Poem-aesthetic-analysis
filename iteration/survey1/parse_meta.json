@@ -1,0 +1,32 @@
+{
+  "parsed_utc": "2026-08-15T15:54:38.483071+00:00",
+  "source_xlsx": "c:\\Users\\孙行知\\Downloads\\379305445_按序号_英文十四行诗阅读与修改建议 Reading English Sonnets  Revision Suggestions_6_6.xlsx",
+  "n_responses": 6,
+  "branch_counts": {
+    "B": 2,
+    "A": 3,
+    "C": 1
+  },
+  "expertise_counts": {
+    "intermediate": 4,
+    "amateur": 2
+  },
+  "branch_poem_map": {
+    "A": [
+      "gen0_t1a",
+      "gen0_t2a",
+      "gen0_t3a"
+    ],
+    "B": [
+      "gen0_t1b",
+      "gen0_t2b",
+      "gen0_t3b"
+    ],
+    "C": [
+      "gen0_t1a",
+      "gen0_t2b",
+      "gen0_t3a"
+    ]
+  },
+  "note": "Export had 3 poem slots after branch select; poem IDs inferred from survey_branch via BRANCH_POEMS."
+}

@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+*.pyc
+__pycache__/
+*.xlsx
+figures/*.png
+.DS_Store

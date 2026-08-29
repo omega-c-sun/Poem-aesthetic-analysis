@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "shape": [
+      10,
+      18
+    ],
+    "columns": [
+      "序号",
+      "用户ID",
+      "提交答卷时间",
+      "所用时间",
+      "来源",
+      "来源详情",
+      "来自IP",
+      "总分",
+      "1、我已阅读以上说明,并同意参与本研究。I have read the information above and agree to participate.",
+      "2、您如何描述自己在诗歌(阅读或写作)方面的经验?How would you describe your experience with poetry (reading or writing)?",
+      "3、您对英文格律诗(音步、押韵等)进行评判的自信程度?Rate your confidence evaluating English formal verse (meter/rhyme).",
+      "4、您进行文学阅读时最常用的主要语言是?(例如:中文、英文)What is your primary language for literary reading? (e.g., Chinese, English)",
+      "5、您是否学习或系统阅读过莎士比亚体十四行诗(Shakespearean sonnet: 14行, 韵式 ABAB CDCD EFEF GG)?Have you studied Shakespearean sonnets?",
+      "6、请根据上一题随机结果选择问卷分支Select your branch from the random outcome",
+      "7、张力 Tension: 为提升本诗张力,请写可执行修改建议。Tension: actionable suggestions to improve tension.",
+      "8、象征/意象 Symbol(Imagery): 为提升象征与意象,请写可执行修改建议。Symbol(Imagery): actionable suggestions to improve symbolism/imagery.",
+      "9、节奏/韵律 Rhythm: 为提升节奏与押韵规范,请写可执行修改建议。Rhythm: actionable suggestions to improve rhythm/rhyme discipline.",
+      "10、如有其他意见或对任务的感受,欢迎留言(选填)。Any other comments about the task are welcome (optional)."
+    ]
+  },
+  "rows": [
+    {
+      "序号": "1",
+      "用户ID": "guest",
+      "提交答卷时间": "2026/8/22 9:42:37",
+      "所用时间": "943秒",
+      "来源": "链接",
+      "来源详情": "直接访问",
+      "来自IP": "114.86.56.149(上海-上海)",
+      "总分": "0",
+      "1、我已阅读以上说明,并同意参与本研究。I have read the information above and agree to participate.": "1",
+      "2、您如何描述自己在诗歌(阅读或写作)方面的经验?How would you describe your experience with poetry (reading or writing)?": "2",
+      "3、您对英文格律诗(音步、押韵等)进行评判的自信程度?Rate your confidence evaluating English formal verse (meter/rhyme).": "6",
+      "4、您进行文学阅读时最常用的主要语言是?(例如:中文、英文)What is your primary language for literary reading? (e.g., Chinese, English)": "中文",
+      "5、您是否学习或系统阅读过莎士比亚体十四行诗(Shakespearean sonnet: 14行, 韵式 ABAB CDCD EFEF GG)?Have you studied Shakespearean sonnets?": "1",
+      "6、请根据上一题随机结果选择问卷分支Select your branch from the random outcome": "1",
+      "7、张力 Tension: 为提升本诗张力,请写可执行修改建议。Tension: actionable suggestions to improve tension.": "全诗略显僵硬，\n不同的意象之间几乎没有任何可见的联系，无法体现明线，暗线有稍微的铺垫但是情绪转变过于僵硬，由哀转旷达有点过急，至少要先有一段侧面描写转折体现这种意境的变化",
+      "8、象征/意象 Symbol(Imagery): 为提升象征与意象,请写可执行修改建议。Symbol(Imagery): actionable suggestions to improve symbolism/imagery.": "使用的客体过度堆砌而没有构造核心意象，虽然有尝试对Autumn进行侧面刻画且全诗都没有直接写,但是都停留在了最表层的描写，没有进行情绪铺垫",
+      "9、节奏/韵律 Rhythm: 为提升节奏与押韵规范,请写可执行修改建议。Rhythm: actionable suggestions to improve rhythm/rhyme discipline.": "所有句子都按照iambic pentameter和rhyme了，但是部分可能过度牺牲局部来保证固定节奏\n如有时候the更适合留在stress这类的（倒数第三行skin前），这时候就更适合保留the而修改其他词汇",
+      "10、如有其他意见或对任务的感受,欢迎留言(选填)。Any other comments about the task are welcome (optional).": "(空)"
+    },
+    {
+      "序号": "2",
+      "用户ID": "guest",
+      "提交答卷时间": "2026/8/22 11:47:02",
+      "所用时间": "7451秒",
+      "来源": "链接",
+      "来源详情": "直接访问",
+      "来自IP": "39.144.106.243(上海-上海)",
+      "总分": "0",
+      "1、我已阅读以上说明,并同意参与本研究。I have read the information above and agree to participate.": "1",
+      "2、您如何描述自己在诗歌(阅读或写作)方面的经验?How would you describe your experience with poetry (reading or writing)?": "2",
+      "3、您对英文格律诗(音步、押韵等)进行评判的自信程度?Rate your confidence evaluating English formal verse (meter/rhyme).": "5",
+      "4、您进行文学阅读时最常用的主要语言是?(例如:中文、英文)What is your primary language for literary reading? (e.g., Chinese, English)": "中文",
+      "5、您是否学习或系统阅读过莎士比亚体十四行诗(Shakespearean sonnet: 14行, 韵式 ABAB CDCD EFEF GG)?Have you studied Shakespearean sonnets?": "1",
+      "6、请根据上一题随机结果选择问卷分支Select your branch from the random outcome": "2",
+      "7、张力 Tension: 为提升本诗张力,请写可执行修改建议。Tension: actionable suggestions to improve tension.": "过度强调narrator的存在,过度使用了I和My\n一般来说只会出现一次在末尾",
+      "8、象征/意象 Symbol(Imagery): 为提升象征与意象,请写可执行修改建议。Symbol(Imagery): actionable suggestions to improve symbolism/imagery.": "第三行用 \"lit train\" 这里完全不对，lit无法形容 train，读者会感到confusion\n这里虽然与前面的rail对应但是并不适合，更适合用“往昔街景”这类客体\n\n第四行的归train,但是 glass prevails差一点，换成冰棱或者其他的可能会更有对比感",
+      "9、节奏/韵律 Rhythm: 为提升节奏与押韵规范,请写可执行修改建议。Rhythm: actionable suggestions to improve rhythm/rhyme discipline.": "第一句，有了muffled一般可以直接作过去分词直接形容去掉is，改善节奏\n\n整体差不多了，有使用短句等，",
+      "10、如有其他意见或对任务的感受,欢迎留言(选填)。Any other comments about the task are welcome (optional).": "(空)"
+    },
+    {
+      "序号": "3",
+      "用户ID": "guest",
+      "提交答卷时间": "2026/8/22 12:15:59",
+      "所用时间": "1249秒",
+      "来源": "链接",
+      "来源详情": "直接访问",
+      "来自IP": "39.144.106.243(上海-上海)",
+      "总分": "0",
+      "1、我已阅读以上说明,并同意参与本研究。I have read the information above and agree to participate.": "1",
+      "2、您如何描述自己在诗歌(阅读或写作)方面的经验?How would you describe your experience with poetry (reading or writing)?": "2",
+      "3、您对英文格律诗(音步、押韵等)进行评判的自信程度?Rate your confidence evaluating English formal verse (meter/rhyme).": "6",
+      "4、您进行文学阅读时最常用的主要语言是?(例如:中文、英文)What is your primary language for literary reading? (e.g., Chinese, English)": "中文",
+      "5、您是否学习或系统阅读过莎士比亚体十四行诗(Shakespearean sonnet: 14行, 韵式 ABAB CDCD EFEF GG)?Have you studied Shakespearean sonnets?": "1",
+      "6、请根据上一题随机结果选择问卷分支Select your branch from the random outcome": "3",
+      "7、张力 Tension: 为提升本诗张力,请写可执行修改建议。Tension: actionable suggestions to improve tension.": "加强动词力度\n\n将第2行 wrestles with 改为 grapples 'gainst（音节数相同，但 grapple 更强调缠斗，'gainst 比 with 更有对立感）。\n\n将第4行 scatter 改为 fling 或 hurl（但需注意音节数：fling 为单音节，会少一拍，可改为 scatter 前加 wild，即 wild scatter，但更建议替换为 shower，既保持双音节，又暗示“倾泻”的暴力感）。\n\n增强“生/死”对比\n\n将第6行 patient bed 改为 waiting grave（“耐心的床”变为“等待的坟墓”，凸显果实腐烂的宿命）。\n\n将第8行 have fed 改为 now bleed（黄蜂不仅“喂养”于瘀伤，更让果实“流血”，强化伤害的当下性）。\n\n强化转折与收束\n\n在第9行 But see 前加 Yet，变为 Yet but see（或直接改为 Yet now），增强从衰败到燕子动作的突转。\n\n将第12行 to stem 改为 to brace（stem 意为“阻止”，但 brace 有“撑住、反抗”之意，使冬天降临前的最后支撑更具张力）。",
+      "8、象征/意象 Symbol(Imagery): 为提升象征与意象,请写可执行修改建议。Symbol(Imagery): actionable suggestions to improve symbolism/imagery.": "象征/意象（Symbolism/Imagery）——可执行修改建议\n现有意象如“长矛”“金币”“船体”“缝合”“脚手架”已具象征潜力，但可进一步统一为“战争/死亡”和“纺织/拆解”两大隐喻系统。建议如下：\n\n统一战争隐喻\n\n将第3行 gold leaf 改为 golden shields（与第1行“猩红长矛”呼应，落叶如盾牌被风撕碎，强化战场氛围）。\n\n将第4行 coins 改为 tribute（“贡品”比“硬币”更沉重，暗示季节向冬天献祭）。\n\n强化腐烂与死亡意象\n\n将第5行 orchard boughs 改为 orchard arms（拟人化，果树如臂膀卸下负担，更富肢体感）。\n\n将第8行 bruises 改为 wounds（“伤口”比“瘀伤”更残酷，与黄蜂的“刺”形成更直接的伤害链）。\n\n完善纺织/缝纫意象链\n\n将第9行 swallow's keel 改为 swallow's needle（“针”比“龙骨”更直接呼应后文的“stitch”“thread”，同时保持“切割”动态）。\n\n将第12行 naked scaffolding 改为 bare skeleton（“裸露的骨架”比“脚手架”更骇人，象征生命被抽空，与“缝补”后的撕裂形成强烈对比）。\n\n首尾呼应\n\n将第14行 rocks 改为 anvils（“铁砧”与第13行的“锤子”形成锻造隐喻，强化“季节被锤击”的硬感，同时与开头的“长矛”同属金属意象）。",
+      "9、节奏/韵律 Rhythm: 为提升节奏与押韵规范,请写可执行修改建议。Rhythm: actionable suggestions to improve rhythm/rhyme discipline.": "节奏/韵律（Rhythm/Rhyme）——可执行修改建议\n原诗押韵已严格遵循 ABAB CDCD EFEF GG，且每行大多为十音节抑扬格，但部分行重音模式可优化，使之更接近标准五步抑扬格。建议如下：\n\n调整第一行首音步\n\n现行 The maple thrusts... 中，“maple”重音在第一音节，形成“弱-强”起势，但后续“thrusts”为强音节，产生连续重音。可改为 Maple thrusts high its scarlet lance（将“high”提前，音节仍为10：Map-le thrusts high its scar-let lance? 需计算：Map-le (2) thrusts (1) high (1) its (1) scar-let (2) lance (1) on? 不对。更稳妥：改为 The maple thrusts on high its scarlet lance——将“on high”提前，使重音落在“thrusts”“high”“scarlet”“lance”上，抑扬更规律）。\n\n修正第三行重音堆积\n\nWhose cold breath strips the gold leaf from the sky 中，“cold”“strips”“gold”“sky”均为重读，连续强拍过多。可改为 Whose chilling breath strips golden leaves from sky（chilling 两音节，重音在首，golden 两音节，弱-强，使节奏舒缓）。\n\n优化第七行内部停顿\n\nWhere wasps in drunken circles stab and goad 中，“drunken circles”均为重轻格，但“stab and goad”连续强音。可改为 Where wasps in drunken circles stab and goad——建议加逗号：Where wasps, in drunken circles, stab and goad，通过标点制造呼吸停顿，增强抑扬顿挫。\n\n调整第十一行重音\n\nThen snaps the thread and tears the light away 中，“snaps”“thread”“tears”“light”“away”多重读，可改为 Then snaps the thread, then tears the light away（重复“then”并加逗号，形成两个分句，重音分散，更流畅）。\n\n细化尾韵呼应\n\n押韵已完美，但可在行内增加头韵或辅音韵以强化音乐性，例如将第3行 cold breath 改为 bleak breath（头韵 b），将第13行 hammer knocks 改为 hammer hammers（但意义不佳），建议保留原样，仅建议在朗读时强调尾韵词（如 gray/away，hem/stem，knocks/rocks）以突出闭合感。",
+      "10、如有其他意见或对任务的感受,欢迎留言(选填)。Any other comments about the task are welcome (optional).": "(空)"
+    }
+  ]
+}

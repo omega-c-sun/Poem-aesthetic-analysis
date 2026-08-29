@@ -1,0 +1,128 @@
+{
+  "design": "6_branches_x_2_poems_gen0_gen1_likert",
+  "randomization": "six_sided_die_face_equals_branch",
+  "stimuli_source": "poems/rating_stimuli/ (fresh API generation, not poems/gen0|gen1)",
+  "instrument": "likert_1_7_tension_symbol_rhythm",
+  "branches": {
+    "1": {
+      "lineage": "t1a",
+      "theme": "autumn departure",
+      "poems": [
+        {
+          "display": "P01",
+          "internal": "rate_gen0_t1a",
+          "round": "gen0",
+          "prompt_version": "base_gen0",
+          "stimuli_file": "rate_gen0_t1a.txt"
+        },
+        {
+          "display": "P02",
+          "internal": "rate_gen1_t1a",
+          "round": "gen1",
+          "prompt_version": "prompt_v1",
+          "stimuli_file": "rate_gen1_t1a.txt"
+        }
+      ]
+    },
+    "2": {
+      "lineage": "t1b",
+      "theme": "autumn departure",
+      "poems": [
+        {
+          "display": "P03",
+          "internal": "rate_gen0_t1b",
+          "round": "gen0",
+          "prompt_version": "base_gen0",
+          "stimuli_file": "rate_gen0_t1b.txt"
+        },
+        {
+          "display": "P04",
+          "internal": "rate_gen1_t1b",
+          "round": "gen1",
+          "prompt_version": "prompt_v1",
+          "stimuli_file": "rate_gen1_t1b.txt"
+        }
+      ]
+    },
+    "3": {
+      "lineage": "t2a",
+      "theme": "urban night solitude",
+      "poems": [
+        {
+          "display": "P05",
+          "internal": "rate_gen0_t2a",
+          "round": "gen0",
+          "prompt_version": "base_gen0",
+          "stimuli_file": "rate_gen0_t2a.txt"
+        },
+        {
+          "display": "P06",
+          "internal": "rate_gen1_t2a",
+          "round": "gen1",
+          "prompt_version": "prompt_v1",
+          "stimuli_file": "rate_gen1_t2a.txt"
+        }
+      ]
+    },
+    "4": {
+      "lineage": "t2b",
+      "theme": "urban night solitude",
+      "poems": [
+        {
+          "display": "P07",
+          "internal": "rate_gen0_t2b",
+          "round": "gen0",
+          "prompt_version": "base_gen0",
+          "stimuli_file": "rate_gen0_t2b.txt"
+        },
+        {
+          "display": "P08",
+          "internal": "rate_gen1_t2b",
+          "round": "gen1",
+          "prompt_version": "prompt_v1",
+          "stimuli_file": "rate_gen1_t2b.txt"
+        }
+      ]
+    },
+    "5": {
+      "lineage": "t3a",
+      "theme": "memory and water",
+      "poems": [
+        {
+          "display": "P09",
+          "internal": "rate_gen0_t3a",
+          "round": "gen0",
+          "prompt_version": "base_gen0",
+          "stimuli_file": "rate_gen0_t3a.txt"
+        },
+        {
+          "display": "P10",
+          "internal": "rate_gen1_t3a",
+          "round": "gen1",
+          "prompt_version": "prompt_v1",
+          "stimuli_file": "rate_gen1_t3a.txt"
+        }
+      ]
+    },
+    "6": {
+      "lineage": "t3b",
+      "theme": "memory and water",
+      "poems": [
+        {
+          "display": "P11",
+          "internal": "rate_gen0_t3b",
+          "round": "gen0",
+          "prompt_version": "base_gen0",
+          "stimuli_file": "rate_gen0_t3b.txt"
+        },
+        {
+          "display": "P12",
+          "internal": "rate_gen1_t3b",
+          "round": "gen1",
+          "prompt_version": "prompt_v1",
+          "stimuli_file": "rate_gen1_t3b.txt"
+        }
+      ]
+    }
+  }
+}

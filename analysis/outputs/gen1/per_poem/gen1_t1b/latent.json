@@ -1,0 +1,14 @@
+{
+  "layer_indices": {
+    "embed": 0,
+    "mid": 14,
+    "last": 28
+  },
+  "embed_line_final_var_mean": 0.0007341520147158479,
+  "embed_line_final_mean_norm": 0.3031576043258351,
+  "mid_line_final_var_mean": 1.1551290324362595,
+  "mid_line_final_mean_norm": 40.214767696601236,
+  "last_line_final_var_mean": 3.262014704656923,
+  "last_line_final_mean_norm": 97.05699837177468,
+  "n_line_finals": 14
+}

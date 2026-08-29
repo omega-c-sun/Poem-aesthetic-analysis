@@ -1,0 +1,230 @@
+[
+  {
+    "row_index": 1,
+    "branch": "B",
+    "expertise": "intermediate",
+    "formal_verse_confidence": 4,
+    "primary_language": "中文 英文",
+    "studied_sonnet": "1",
+    "consent": "1",
+    "poems": [
+      {
+        "poem_id": "gen0_t1b",
+        "slot": 1,
+        "feedback": {
+          "tension": "张力这块没得说。薯片p文学灵感发力中。。。",
+          "symbol": "symbol好多啊\nsonnet 的第一个quatrain是不是要introduce the theme来着 我的分析水平还不支持我在第一个quatrain品出theme来所以第一个quatrain的imagery和symbol是不是可以稍微再明显一点（。。？）",
+          "rhythm": "整体读下来还是顺的 我感觉是有在follow sonnet的rhyme scheme什么的\n🍟👍"
+        }
+      },
+      {
+        "poem_id": "gen0_t2b",
+        "slot": 2,
+        "feedback": {
+          "tension": "/",
+          "symbol": "有种现实和幻想相结合的感觉 imagery很丰富但是是不是可以适当减少一点（？）太多symbol和imagery相结合的话感觉脑内画面会有点乱乱的",
+          "rhythm": "有些句子的词语感觉有点多（？\n就是大家都遵循了10 syllables但是有些句子的words多 有些少一点 words多的一些句子读起来可能会比其他的要更加突兀一点点"
+        }
+      },
+      {
+        "poem_id": "gen0_t3b",
+        "slot": 3,
+        "feedback": {
+          "tension": "如果是Volta的话少用“but”来进行转折会更好一点吧\n转折应该更加smoothly并且通过内容来表现出来",
+          "symbol": "同第二首诗的建议",
+          "rhythm": "同第二，然后多注意一下iambic pantameter吧\n如果写的是subversion那就当我没说这些（不过subversion也要稍微注意一下这些东西吧？）"
+        }
+      }
+    ]
+  },
+  {
+    "row_index": 2,
+    "branch": "A",
+    "expertise": "amateur",
+    "formal_verse_confidence": 2,
+    "primary_language": "中文",
+    "studied_sonnet": "2",
+    "consent": "1",
+    "poems": [
+      {
+        "poem_id": "gen0_t1a",
+        "slot": 1,
+        "feedback": {
+          "tension": "原句：The year's last roses lean to touch the pane,\n\n建议：写出玫瑰“拼命抓紧最后一口气”或“贴着玻璃求温”的挣扎感。\n\n修改参考：The last rose clings against the frosty pane,（用 clings 替代 lean，体现挣扎与执念）",
+          "symbol": "原句：The garden bench is cold, the paths are bare;\n\n意象升级：把“冷”转化为具体的材质或质感（如铁、石、骨、霜）。\n\n修改尝试：The iron bench drinks up the creeping frost;（把长椅写成“汲取寒霜”的冷酷主体，增强触觉）。",
+          "rhythm": "第二节：bare 与 air 的韵脚重复（Rhyme Identity）\n现状：overgrown (A) / bare (B) / alone (A) / air (B)\n\n问题：bare /bɛər/ 和 air /ɛər/ 在发音上几乎是同一个音，且 air 太过常见，缺乏诗意张力和新鲜感。\n\n修改建议：替换 B 韵脚，使用发音更响亮、意象更浓烈的词，如 cold / gold 或 stark / dark。\n\n例如：The garden bench is cold, the paths are stark; ... And silence settles in the waiting dark."
+        }
+      },
+      {
+        "poem_id": "gen0_t2a",
+        "slot": 2,
+        "feedback": {
+          "tension": "制造“热与冷”、“噪音与死寂”的强烈对抗\n原句：The city sheds its clamor, street by street, / And leaves a hush where engines used to churn.\n\n建议：把城市的“降温”写成一种逼迫或凝固，让“喧嚣的退场”带有张力。\n\n修改参考：The city strangles out its fevered beat, / And chokes the lanes where engines used to churn.（用 strangles/chokes 赋予死寂一种压迫感）。",
+          "symbol": "将机械都市具体化为“钢铁巨兽的遗骸”\n原句：Whose metal bodies, parked in even row, / Reflect the faded glory of the stars.\n\n意象升级：停放的车辆不只是“金属躯壳”，可象征文明停滞的沉睡棺椁或骨骼；星光不只是“褪色”，而是被都市的冷铁切碎/吸收。\n\n修改参考：Whose iron tombs, locked fast in frozen row, / Drink down the dying luster of the stars.",
+          "rhythm": "第二节：glow / cars / row / stars 的弱押韵\n问题：cars /kɑːrz/ 和 stars /stɑːrz/ 是最基础的常见押韵，缺乏惊喜感。\n\n修改建议：替换为更有质感的声韵，如 bars / scars 或 glass / pass。"
+        }
+      },
+      {
+        "poem_id": "gen0_t3a",
+        "slot": 3,
+        "feedback": {
+          "tension": "强化“试图遗忘”与“记忆强行复苏”的抵抗拉扯\n原句：I find the face I thought I had outgrown.\n\n建议：“outgrown（已脱离/已长大到不在意）”本身是个很好的冲突点，但语气太轻。可以通过强化“被淹没的记忆重新刺破现实”来拉满张力。\n\n修改参考：I see the haunting face I thought outgrown. 或 Down in the depths, a face breaks through my own.（在水底看见那张脸与自己的脸重叠，带来强烈的心理悬疑与震慑感）。",
+          "symbol": "解决第二节“空间跳跃”的意象脱节原句：第二节突然出现了 the window ledge（窗台）。问题：第一节在写“河流（river/oar/currents）”，第三节也在写“水波（ripple/drowned light）”，第二节突然跳到屋内的“窗台（window ledge）”，破坏了贯穿全诗的户外水域流淌感。意象升级：把雨滴叩击窗台，改为雨滴或水流叩击河岸的石头、水面或舟楫，保持空间意象的完整性。修改参考：The rain that fell on some forgotten JuneStill strikes its iron code along the ledge— ξ\\rightarrowξ改为Still taps its silver code along the sedge（sedge: 芦苇/水草），让意象严丝合缝地留在河畔。",
+          "rhythm": "修复弱韵（Slant Rhymes）\n第二节：June (C) / ledge (D) / moon (C) / edge (D)\n\n问题：ledge 和 edge 属于近音重复，且在全诗里出现了两次 edge（第一节水边、第二节边缘），韵脚略显重复贫乏。\n\n修改建议：将 D 韵替换为音色更沉郁的词组，如 stream / dream 或 deep / sleep。\n\n第四节尾联（致命硬伤）：thread (G) / bed (G)\n\n问题：虽然押韵了（/ɛd/），但 gone to bed 语意和诗意极为匮乏，是经典的“为了凑韵脚（bed）而凑句子”的败笔。"
+        }
+      }
+    ]
+  },
+  {
+    "row_index": 3,
+    "branch": "C",
+    "expertise": "intermediate",
+    "formal_verse_confidence": 4,
+    "primary_language": "中文",
+    "studied_sonnet": "3",
+    "consent": "1",
+    "poems": [
+      {
+        "poem_id": "gen0_t1a",
+        "slot": 1,
+        "feedback": {
+          "tension": "原句 The year's last roses lean to touch the pane 中的 \"lean to touch\" 过于温顺，像在祈求。建议修改成The year's last roses scrape the frosted pane",
+          "symbol": "原句The season's promise slowly is unmade 中的 \"promise\" 和 \"unmade\" 是抽象概念。建议修改成The season's covenant cracks along the bough",
+          "rhythm": "原句And silence settles in the waiting air 中的10个音节规整，像催眠曲。建议修改成And silence settles—waiting air grows taut****"
+        }
+      },
+      {
+        "poem_id": "gen0_t2b",
+        "slot": 2,
+        "feedback": {
+          "tension": "原句The city breathes in iron lung at night 中的 \"breathes\"太温和，铁肺是强制通气的。建议修改成 The city wheezes in its iron lung at night",
+          "symbol": "原句Lost in the maze of these electric days 中的 \"electric days\"是概念，不是画面。\"Lost\"是告诉读者情绪。建议修改成 Walled by the flicker of these electric nights",
+          "rhythm": "原句But then—a sudden flare, a taxi's brake！ 中的前半句6个音节，后半句5个，但\"brake\"不够刺耳。建议修改成But then—flare！—a taxi's screech！"
+        }
+      },
+      {
+        "poem_id": "gen0_t3a",
+        "slot": 3,
+        "feedback": {
+          "tension": "原句The river keeps what daylight cannot hold 中的\"keeps\"太温和，像在保管物品。建议修改成 The river drowns what daylight cannot hold",
+          "symbol": "原句A glint of oar, a whisper on the stone 中的\"whisper on the stone\"太软，水碰石头应该有声音。建议修改成A glint of oar, a hiss on the wet stone",
+          "rhythm": "原句I find the face I thought I had outgrown 中的9个词里有5个是\"我\"的变体（I, I, I），自我沉溺。建议修改成I find the face I thought outgrown—but no"
+        }
+      }
+    ]
+  },
+  {
+    "row_index": 4,
+    "branch": "B",
+    "expertise": "intermediate",
+    "formal_verse_confidence": 5,
+    "primary_language": "中文",
+    "studied_sonnet": "3",
+    "consent": "1",
+    "poems": [
+      {
+        "poem_id": "gen0_t1b",
+        "slot": 1,
+        "feedback": {
+          "tension": "And drift in spirals on the dying air 中的\"dying air\"太常见，且\"air\"不会\"dying\"。可以修改成And stutter down in spirals on the stale air",
+          "symbol": "Is thinned to whispers in the bramble's gray 中的 \"whispers\"太软，\"bramble's gray\"太抽象。可以修改成Is thinned to scratches in the bramble's thorns—",
+          "rhythm": "Their cries a brazen testament of love 中的 \"testament of love\"太庄重、太抽象。可以修改成 Their cries—a brazen gospel—not of love"
+        }
+      },
+      {
+        "poem_id": "gen0_t2b",
+        "slot": 2,
+        "feedback": {
+          "tension": "My footsteps echo where no footstep stays 中的 \"stays\"太抽象，不如用物理动词。可以修改成 My footsteps echo where no footstep treads",
+          "symbol": "Where shadows crawl and tangled sorrows creep 中的 \"tangled sorrows\"是陈旧的文学措辞，此处该删除。可以修改成 Where shadows crawl and hissing tires creep",
+          "rhythm": "The world lurches and shatters my still trance 的11个音节，略微拖沓；\"shatters my still trance\"太文雅。可以修改成The world lurches—shatters—trance snaps"
+        }
+      },
+      {
+        "poem_id": "gen0_t3b",
+        "slot": 3,
+        "feedback": {
+          "tension": "It coils the kelp of moments, set aside 中的 \"coils\"太装饰性，\"set aside\"太被动。可以修改成 It knots the kelp of moments—tangled",
+          "symbol": "Where coral builds her patient, cold arcades 中的 \"patient, cold arcades\"是优美的描述，但缺乏异样感。 可以修改成 Where coral builds her calcified arcades",
+          "rhythm": "That shatters on the keel of a new sun！ 中的 \"new sun\"太抽象，且\"on the keel\"是明喻式的连接。可以修改成That shatters on the keel—a sun—new-whelmed！"
+        }
+      }
+    ]
+  },
+  {
+    "row_index": 5,
+    "branch": "A",
+    "expertise": "amateur",
+    "formal_verse_confidence": 2,
+    "primary_language": "英文",
+    "studied_sonnet": "1",
+    "consent": "1",
+    "poems": [
+      {
+        "poem_id": "gen0_t1a",
+        "slot": 1,
+        "feedback": {
+          "tension": "我这个菜鸟感觉张力已经远超我的极限了",
+          "symbol": "没什么要改的吧这是描写秋天的诗这边全是description也差不多吧",
+          "rhythm": "sonnet rhythm没法改吧"
+        }
+      },
+      {
+        "poem_id": "gen0_t2a",
+        "slot": 2,
+        "feedback": {
+          "tension": "没什么要改的",
+          "symbol": "The city sheds its clamor感觉有点奇怪",
+          "rhythm": "同上"
+        }
+      },
+      {
+        "poem_id": "gen0_t3a",
+        "slot": 3,
+        "feedback": {
+          "tension": "没什么要改的",
+          "symbol": "感觉挺好的不用改啥",
+          "rhythm": "同上"
+        }
+      }
+    ]
+  },
+  {
+    "row_index": 6,
+    "branch": "A",
+    "expertise": "intermediate",
+    "formal_verse_confidence": 6,
+    "primary_language": "中文",
+    "studied_sonnet": "1",
+    "consent": "1",
+    "poems": [
+      {
+        "poem_id": "gen0_t1a",
+        "slot": 1,
+        "feedback": {
+          "tension": "第一句的 touch 不够有画面感，可以用personified 的 kissed 如此\n然后无需强调year，以及后面的pane也不够有张力，换个客体，如wind/light\n\n第三句的thinned和coming也不够有画面感\nthinned可以写perished\ncoming可以写impending\n\n然后第六行的garden bench描写太长，可以直接一个bench\n\n以可以一定程度忽略trasitive和untransitive verb的区别",
+          "symbol": "整首诗没有任何贯穿的线索，需要有一个特定的主体/主题贯穿，如那朵rose,或是暗示sun的存在（需要更多的侧面描述,表示存在的夕阳渐渐落下）",
+          "rhythm": "需要更多句内韵，以及alliteration,consonance,assonance，以更加朗朗上口"
+        }
+      },
+      {
+        "poem_id": "gen0_t2a",
+        "slot": 2,
+        "feedback": {
+          "tension": "sheds和clamor换掉，用更加拟人的方法描述，如“陷入沉睡”，或者其他具有隐喻色彩的用词\n第二句的engines和churn用的不太好，这里过于直白且不够浪漫，可以用dream这类人们的反应，物体的状态侧面反映\n\n然后后面的描写大多还行，但是过多客体而没有进行更加细致的多方面勾勒\n需要有对客体形象的堆砌的详略得当和多样化",
+          "symbol": "意象，这里有一定的孤独在，而用了一些偏机械类，现代类的客体体现\n但是实际上这并不够，需要有更加自然和哲学性的存在辅助",
+          "rhythm": "节奏，可以考虑让不同句中出现类似的节拍韵律，以及加强assonance"
+        }
+      },
+      {
+        "poem_id": "gen0_t3a",
+        "slot": 3,
+        "feedback": {
+          "tension": "这里keeps不太好，可以也用hold或者embrace这类的\n然后第三句，deep和quiet currents只留一个，要么换deep成另一个更加浪漫，隐晦的表述，要么把currents换成一些更加具有隐喻性的，如dreams，这类的\n然后第六行taps its code不太好，可以改动词成dance以及改后面的code或者改后面为melody,前面的taps可以保留，意思是说这里的描述的转变过于突兀\n\n然后第9行，这个可以改句式顺序，改成shakespearian的那种，比如 It drifts not but all that lingered (不一定按照这个)\n\n然后下面的gravity不太好，可以用一些代表\"心意\"\"心灵\"“思想”“情绪”这类的隐喻替换\n\n然后最后的has gone to bed用的不太好，可以写drift back to ... 这类的",
+          "symbol": "这里意象很明确核心就是河流，然而部分客体未能写好，要更改的可以看13题内容",
+          "rhythm": "Rhyme，句尾没有strictly rhyme scheme\n然后整体的rhythm差不多了\n可以少量增加alliteration"
+        }
+      }
+    ]
+  }
+]

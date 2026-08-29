@@ -1,0 +1,269 @@
+{
+  "generated_utc": "2026-08-15T16:03:37.798351+00:00",
+  "model": "deepseek-chat",
+  "temperature": 0.85,
+  "api_url": "https://api.deepseek.com/chat/completions",
+  "prompt_version": "prompt_v1",
+  "method": "general_textual_gradient; user message = theme(+variant) only; no prior poem patching",
+  "source_prompt": "iteration\\survey1\\prompt_v1.json",
+  "poems": [
+    {
+      "id": "gen1_t1a",
+      "corresponds_to_gen0_id": "gen0_t1a",
+      "theme": "autumn departure",
+      "variant": "a",
+      "prompt_version": "prompt_v1",
+      "method": "general_prompt_plus_theme_only",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.85,
+      "created_utc": "2026-08-15T16:03:17.910088+00:00",
+      "system_prompt": "You are a careful formal poet. Write exactly one Shakespearean sonnet in English.\nHard requirements:\n- Exactly 14 lines of verse (no title; prefer no blank lines between stanzas).\n- Rhyme scheme ABAB CDCD EFEF GG.\n- Approximate iambic pentameter when possible.\n- Output ONLY the 14 lines of the poem. No preamble, no commentary, no quotes, no markdown.\n\nAesthetic principles from human textual-gradient feedback (general; theme-agnostic):\nWhen generating sonnets, prioritize a strong, consistent central image or symbol that threads through all quatrains and the couplet. Use verbs that convey physical struggle or transformation rather than passive states. Vary sentence structure and rhythm within the iambic pentameter to avoid monotony, employing enjambment, caesura, and internal sound devices. Ensure rhymes are fresh and avoid near-identical or clichéd pairs. The volta should emerge from a shift in imagery or tone, not from explicit conjunctions. Aim for concrete, sensory language that evokes touch, sound, and movement, and avoid abstract statements unless immediately grounded in a physical metaphor.",
+      "user_prompt": "Theme: autumn departure.\nVariant note: Favor a reflective, restrained tone.\nWrite one original Shakespearean sonnet on this theme.",
+      "api_id": "0a0364f2-c742-4414-b176-b3d7a65a24bc",
+      "usage": {
+        "prompt_tokens": 266,
+        "completion_tokens": 148,
+        "total_tokens": 414,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 266
+      },
+      "attempts": 1,
+      "path": "poems\\gen1\\gen1_t1a.txt",
+      "text": "The orchard yields its last and blunted gold,\nAnd branches, stripped, hold nothing to the sky.\nThe gathered wind grows sharp, and over-bold,\nTo teach the lingering leaves the art to fly.\nI watch the laden wagon creak and strain\nThrough ruts of mud, toward the granary door,\nWhile in my hand a single grain of grain\nRemembers all the summer’s heavy store.\nThe light withdraws, a curtain drawn on glass,\nAnd every shadow stretches long and thin,\nAs if the day, too, knew it could not pass\nUnnoticed, and would leave its marks on skin.\nSo let the season’s turning have its way;\nI keep the quiet ache of this last day.\n",
+      "lines": [
+        "The orchard yields its last and blunted gold,",
+        "And branches, stripped, hold nothing to the sky.",
+        "The gathered wind grows sharp, and over-bold,",
+        "To teach the lingering leaves the art to fly.",
+        "I watch the laden wagon creak and strain",
+        "Through ruts of mud, toward the granary door,",
+        "While in my hand a single grain of grain",
+        "Remembers all the summer’s heavy store.",
+        "The light withdraws, a curtain drawn on glass,",
+        "And every shadow stretches long and thin,",
+        "As if the day, too, knew it could not pass",
+        "Unnoticed, and would leave its marks on skin.",
+        "So let the season’s turning have its way;",
+        "I keep the quiet ache of this last day."
+      ]
+    },
+    {
+      "id": "gen1_t1b",
+      "corresponds_to_gen0_id": "gen0_t1b",
+      "theme": "autumn departure",
+      "variant": "b",
+      "prompt_version": "prompt_v1",
+      "method": "general_prompt_plus_theme_only",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.85,
+      "created_utc": "2026-08-15T16:03:21.641438+00:00",
+      "system_prompt": "You are a careful formal poet. Write exactly one Shakespearean sonnet in English.\nHard requirements:\n- Exactly 14 lines of verse (no title; prefer no blank lines between stanzas).\n- Rhyme scheme ABAB CDCD EFEF GG.\n- Approximate iambic pentameter when possible.\n- Output ONLY the 14 lines of the poem. No preamble, no commentary, no quotes, no markdown.\n\nAesthetic principles from human textual-gradient feedback (general; theme-agnostic):\nWhen generating sonnets, prioritize a strong, consistent central image or symbol that threads through all quatrains and the couplet. Use verbs that convey physical struggle or transformation rather than passive states. Vary sentence structure and rhythm within the iambic pentameter to avoid monotony, employing enjambment, caesura, and internal sound devices. Ensure rhymes are fresh and avoid near-identical or clichéd pairs. The volta should emerge from a shift in imagery or tone, not from explicit conjunctions. Aim for concrete, sensory language that evokes touch, sound, and movement, and avoid abstract statements unless immediately grounded in a physical metaphor.",
+      "user_prompt": "Theme: autumn departure.\nVariant note: Favor a slightly more dramatic volta in the sestet.\nWrite one original Shakespearean sonnet on this theme.",
+      "api_id": "c3944c26-c115-464f-adf5-31e445c50afe",
+      "usage": {
+        "prompt_tokens": 271,
+        "completion_tokens": 160,
+        "total_tokens": 431,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 271
+      },
+      "attempts": 1,
+      "path": "poems\\gen1\\gen1_t1b.txt",
+      "text": "The maple thrusts its scarlet lance on high,\nAnd wrestles with the wind’s insistent pull,\nWhose cold breath strips the gold leaf from the sky\nTo scatter coins across the river’s hull.\nThe orchard boughs, once heavy, now unload\nTheir burden to the furrow’s patient bed,\nWhere wasps in drunken circles stab and goad\nThe bruises of the fruit that they have fed.\nBut see—the swallow’s keel cuts through the gray,\nA final stitch that binds the fading hem,\nThen snaps the thread and tears the light away,\nAnd leaves the naked scaffolding to stem\nThe long descent—till winter’s hammer knocks\nThe last bright season flat against the rocks.\n",
+      "lines": [
+        "The maple thrusts its scarlet lance on high,",
+        "And wrestles with the wind’s insistent pull,",
+        "Whose cold breath strips the gold leaf from the sky",
+        "To scatter coins across the river’s hull.",
+        "The orchard boughs, once heavy, now unload",
+        "Their burden to the furrow’s patient bed,",
+        "Where wasps in drunken circles stab and goad",
+        "The bruises of the fruit that they have fed.",
+        "But see—the swallow’s keel cuts through the gray,",
+        "A final stitch that binds the fading hem,",
+        "Then snaps the thread and tears the light away,",
+        "And leaves the naked scaffolding to stem",
+        "The long descent—till winter’s hammer knocks",
+        "The last bright season flat against the rocks."
+      ]
+    },
+    {
+      "id": "gen1_t2a",
+      "corresponds_to_gen0_id": "gen0_t2a",
+      "theme": "urban night solitude",
+      "variant": "a",
+      "prompt_version": "prompt_v1",
+      "method": "general_prompt_plus_theme_only",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.85,
+      "created_utc": "2026-08-15T16:03:25.601335+00:00",
+      "system_prompt": "You are a careful formal poet. Write exactly one Shakespearean sonnet in English.\nHard requirements:\n- Exactly 14 lines of verse (no title; prefer no blank lines between stanzas).\n- Rhyme scheme ABAB CDCD EFEF GG.\n- Approximate iambic pentameter when possible.\n- Output ONLY the 14 lines of the poem. No preamble, no commentary, no quotes, no markdown.\n\nAesthetic principles from human textual-gradient feedback (general; theme-agnostic):\nWhen generating sonnets, prioritize a strong, consistent central image or symbol that threads through all quatrains and the couplet. Use verbs that convey physical struggle or transformation rather than passive states. Vary sentence structure and rhythm within the iambic pentameter to avoid monotony, employing enjambment, caesura, and internal sound devices. Ensure rhymes are fresh and avoid near-identical or clichéd pairs. The volta should emerge from a shift in imagery or tone, not from explicit conjunctions. Aim for concrete, sensory language that evokes touch, sound, and movement, and avoid abstract statements unless immediately grounded in a physical metaphor.",
+      "user_prompt": "Theme: urban night solitude.\nVariant note: Favor a reflective, restrained tone.\nWrite one original Shakespearean sonnet on this theme.",
+      "api_id": "3af696c6-46e2-47cf-9403-bff62ca3d309",
+      "usage": {
+        "prompt_tokens": 267,
+        "completion_tokens": 154,
+        "total_tokens": 421,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 267
+      },
+      "attempts": 1,
+      "path": "poems\\gen1\\gen1_t2a.txt",
+      "text": "The city’s pulse is muffled by the rain,\nA silver hush that slicks the iron rails.\nMy window holds the ghost of a lit train,\nWhose fading roar through dripping glass prevails.\nThe asphalt breathes a spectrum of dull gold,\nAnd gutters choke with the confetti of the hours.\nI trace a cold mouth on the pane—a fold\nOf fog, a whispered script the lamplight scours.\nThe clock across the square is stopped at one,\nA blind man’s face that cannot see the chill.\nThe cables overhead, a slackened gun,\nSag with the weight of voices gone to still.\nSo let the dark unspool its thread of gray;\nI wear this solitude like a frayed coat today.\n",
+      "lines": [
+        "The city’s pulse is muffled by the rain,",
+        "A silver hush that slicks the iron rails.",
+        "My window holds the ghost of a lit train,",
+        "Whose fading roar through dripping glass prevails.",
+        "The asphalt breathes a spectrum of dull gold,",
+        "And gutters choke with the confetti of the hours.",
+        "I trace a cold mouth on the pane—a fold",
+        "Of fog, a whispered script the lamplight scours.",
+        "The clock across the square is stopped at one,",
+        "A blind man’s face that cannot see the chill.",
+        "The cables overhead, a slackened gun,",
+        "Sag with the weight of voices gone to still.",
+        "So let the dark unspool its thread of gray;",
+        "I wear this solitude like a frayed coat today."
+      ]
+    },
+    {
+      "id": "gen1_t2b",
+      "corresponds_to_gen0_id": "gen0_t2b",
+      "theme": "urban night solitude",
+      "variant": "b",
+      "prompt_version": "prompt_v1",
+      "method": "general_prompt_plus_theme_only",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.85,
+      "created_utc": "2026-08-15T16:03:29.318440+00:00",
+      "system_prompt": "You are a careful formal poet. Write exactly one Shakespearean sonnet in English.\nHard requirements:\n- Exactly 14 lines of verse (no title; prefer no blank lines between stanzas).\n- Rhyme scheme ABAB CDCD EFEF GG.\n- Approximate iambic pentameter when possible.\n- Output ONLY the 14 lines of the poem. No preamble, no commentary, no quotes, no markdown.\n\nAesthetic principles from human textual-gradient feedback (general; theme-agnostic):\nWhen generating sonnets, prioritize a strong, consistent central image or symbol that threads through all quatrains and the couplet. Use verbs that convey physical struggle or transformation rather than passive states. Vary sentence structure and rhythm within the iambic pentameter to avoid monotony, employing enjambment, caesura, and internal sound devices. Ensure rhymes are fresh and avoid near-identical or clichéd pairs. The volta should emerge from a shift in imagery or tone, not from explicit conjunctions. Aim for concrete, sensory language that evokes touch, sound, and movement, and avoid abstract statements unless immediately grounded in a physical metaphor.",
+      "user_prompt": "Theme: urban night solitude.\nVariant note: Favor a slightly more dramatic volta in the sestet.\nWrite one original Shakespearean sonnet on this theme.",
+      "api_id": "6a865bda-7ee9-4bc8-8941-d9c5bac37a57",
+      "usage": {
+        "prompt_tokens": 272,
+        "completion_tokens": 159,
+        "total_tokens": 431,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 272
+      },
+      "attempts": 1,
+      "path": "poems\\gen1\\gen1_t2b.txt",
+      "text": "The city’s iron ribs exhale a breath\nOf diesel fumes and rain-washed asphalt gray.\nA single lamp-post stitches light from death,\nAnd tracks my shadow’s slow and stolen way.\nThe pavement drinks the echo of my tread,\nA hollow drumbeat on a stage of stone.\nThe windows, shutters drawn like lids of lead,\nKeep vigil for the sleep they must atone.\nBut here the silence sharpens to a blade—\nIt slices through the murmur of the wire,\nAnd every distant siren, unafraid,\nBecomes a ghost that walks through my desire.\nThen, sudden, from the gutter’s choked-up throat,\nA star—unbroken—floats upon the moat.\n",
+      "lines": [
+        "The city’s iron ribs exhale a breath",
+        "Of diesel fumes and rain-washed asphalt gray.",
+        "A single lamp-post stitches light from death,",
+        "And tracks my shadow’s slow and stolen way.",
+        "The pavement drinks the echo of my tread,",
+        "A hollow drumbeat on a stage of stone.",
+        "The windows, shutters drawn like lids of lead,",
+        "Keep vigil for the sleep they must atone.",
+        "But here the silence sharpens to a blade—",
+        "It slices through the murmur of the wire,",
+        "And every distant siren, unafraid,",
+        "Becomes a ghost that walks through my desire.",
+        "Then, sudden, from the gutter’s choked-up throat,",
+        "A star—unbroken—floats upon the moat."
+      ]
+    },
+    {
+      "id": "gen1_t3a",
+      "corresponds_to_gen0_id": "gen0_t3a",
+      "theme": "memory and water",
+      "variant": "a",
+      "prompt_version": "prompt_v1",
+      "method": "general_prompt_plus_theme_only",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.85,
+      "created_utc": "2026-08-15T16:03:33.034337+00:00",
+      "system_prompt": "You are a careful formal poet. Write exactly one Shakespearean sonnet in English.\nHard requirements:\n- Exactly 14 lines of verse (no title; prefer no blank lines between stanzas).\n- Rhyme scheme ABAB CDCD EFEF GG.\n- Approximate iambic pentameter when possible.\n- Output ONLY the 14 lines of the poem. No preamble, no commentary, no quotes, no markdown.\n\nAesthetic principles from human textual-gradient feedback (general; theme-agnostic):\nWhen generating sonnets, prioritize a strong, consistent central image or symbol that threads through all quatrains and the couplet. Use verbs that convey physical struggle or transformation rather than passive states. Vary sentence structure and rhythm within the iambic pentameter to avoid monotony, employing enjambment, caesura, and internal sound devices. Ensure rhymes are fresh and avoid near-identical or clichéd pairs. The volta should emerge from a shift in imagery or tone, not from explicit conjunctions. Aim for concrete, sensory language that evokes touch, sound, and movement, and avoid abstract statements unless immediately grounded in a physical metaphor.",
+      "user_prompt": "Theme: memory and water.\nVariant note: Favor a reflective, restrained tone.\nWrite one original Shakespearean sonnet on this theme.",
+      "api_id": "60fdfbc2-36bc-465b-afd2-f3948913bc1b",
+      "usage": {
+        "prompt_tokens": 267,
+        "completion_tokens": 148,
+        "total_tokens": 415,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 267
+      },
+      "attempts": 1,
+      "path": "poems\\gen1\\gen1_t3a.txt",
+      "text": "The ledger of the lake keeps every stone\nThat ever sank, in silted, patient rows;\nThe current’s cursive, cursive and alone,\nErases what the surface can’t disclose.\nI plunge my hand to sift the muddy cold,\nAnd bring up shards of a forgotten noon—\nA sunken coin, a story briefly told,\nThat darkens as it dries beneath the moon.\nThe water’s weight is memory’s own press,\nA slow compaction of the vanished days,\nAnd what I lift is only loneliness,\nA cold, unpolished pebble’s muted grays.\nSo let the deep keep what the deep has kept;\nI’ll turn and leave the ripples, unaccept.\n",
+      "lines": [
+        "The ledger of the lake keeps every stone",
+        "That ever sank, in silted, patient rows;",
+        "The current’s cursive, cursive and alone,",
+        "Erases what the surface can’t disclose.",
+        "I plunge my hand to sift the muddy cold,",
+        "And bring up shards of a forgotten noon—",
+        "A sunken coin, a story briefly told,",
+        "That darkens as it dries beneath the moon.",
+        "The water’s weight is memory’s own press,",
+        "A slow compaction of the vanished days,",
+        "And what I lift is only loneliness,",
+        "A cold, unpolished pebble’s muted grays.",
+        "So let the deep keep what the deep has kept;",
+        "I’ll turn and leave the ripples, unaccept."
+      ]
+    },
+    {
+      "id": "gen1_t3b",
+      "corresponds_to_gen0_id": "gen0_t3b",
+      "theme": "memory and water",
+      "variant": "b",
+      "prompt_version": "prompt_v1",
+      "method": "general_prompt_plus_theme_only",
+      "model": "deepseek-v4-flash",
+      "temperature": 0.85,
+      "created_utc": "2026-08-15T16:03:37.377910+00:00",
+      "system_prompt": "You are a careful formal poet. Write exactly one Shakespearean sonnet in English.\nHard requirements:\n- Exactly 14 lines of verse (no title; prefer no blank lines between stanzas).\n- Rhyme scheme ABAB CDCD EFEF GG.\n- Approximate iambic pentameter when possible.\n- Output ONLY the 14 lines of the poem. No preamble, no commentary, no quotes, no markdown.\n\nAesthetic principles from human textual-gradient feedback (general; theme-agnostic):\nWhen generating sonnets, prioritize a strong, consistent central image or symbol that threads through all quatrains and the couplet. Use verbs that convey physical struggle or transformation rather than passive states. Vary sentence structure and rhythm within the iambic pentameter to avoid monotony, employing enjambment, caesura, and internal sound devices. Ensure rhymes are fresh and avoid near-identical or clichéd pairs. The volta should emerge from a shift in imagery or tone, not from explicit conjunctions. Aim for concrete, sensory language that evokes touch, sound, and movement, and avoid abstract statements unless immediately grounded in a physical metaphor.",
+      "user_prompt": "Theme: memory and water.\nVariant note: Favor a slightly more dramatic volta in the sestet.\nWrite one original Shakespearean sonnet on this theme.",
+      "api_id": "a079e6e1-63b3-41d3-a9d9-8210ef887628",
+      "usage": {
+        "prompt_tokens": 272,
+        "completion_tokens": 150,
+        "total_tokens": 422,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 272
+      },
+      "attempts": 1,
+      "path": "poems\\gen1\\gen1_t3b.txt",
+      "text": "The river keeps what daylight cannot hold,\na sunken coin, a leaf, a rusted key;\nits current turns the story green and cold,\nand every ripple drags a thought from me.\nI wade through half-remembered autumns, deep\nwhere silt has softed the edges of a name;\nmy fingers sift the shallows, try to keep\na fragment that the water bends to flame.\nBut night descends, and all the river swells—\nit lunges at the bank with sudden tooth,\nand what I thought was mine, the current quells,\na drowning echo severed from its truth.\nSo let it take the wreckage of my years;\nI'll drink the dark and call the flood my tears.\n",
+      "lines": [
+        "The river keeps what daylight cannot hold,",
+        "a sunken coin, a leaf, a rusted key;",
+        "its current turns the story green and cold,",
+        "and every ripple drags a thought from me.",
+        "I wade through half-remembered autumns, deep",
+        "where silt has softed the edges of a name;",
+        "my fingers sift the shallows, try to keep",
+        "a fragment that the water bends to flame.",
+        "But night descends, and all the river swells—",
+        "it lunges at the bank with sudden tooth,",
+        "and what I thought was mine, the current quells,",
+        "a drowning echo severed from its truth.",
+        "So let it take the wreckage of my years;",
+        "I'll drink the dark and call the flood my tears."
+      ]
+    }
+  ]
+}

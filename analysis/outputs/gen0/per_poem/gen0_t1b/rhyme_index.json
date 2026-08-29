@@ -1,0 +1,209 @@
+{
+  "n_lines": 14,
+  "rhyme_coverage": 1.0,
+  "phoneme_agree_pairs": 6,
+  "phoneme_pair_total": 7,
+  "query_token_indices": [
+    9,
+    19,
+    31,
+    39,
+    51,
+    63,
+    74,
+    85,
+    97,
+    110,
+    119,
+    128,
+    137,
+    146
+  ],
+  "partner_of": {
+    "0": 2,
+    "2": 0,
+    "1": 3,
+    "3": 1,
+    "4": 6,
+    "6": 4,
+    "5": 7,
+    "7": 5,
+    "8": 10,
+    "10": 8,
+    "9": 11,
+    "11": 9,
+    "12": 13,
+    "13": 12
+  },
+  "line_ends": [
+    {
+      "line_index": 0,
+      "end_word": "bough",
+      "token_start": 8,
+      "token_end": 10,
+      "oov": false,
+      "phones": [
+        "B",
+        "AW1"
+      ]
+    },
+    {
+      "line_index": 1,
+      "end_word": "air",
+      "token_start": 19,
+      "token_end": 20,
+      "oov": false,
+      "phones": [
+        "EH1",
+        "R"
+      ]
+    },
+    {
+      "line_index": 2,
+      "end_word": "now",
+      "token_start": 31,
+      "token_end": 32,
+      "oov": false,
+      "phones": [
+        "N",
+        "AW1"
+      ]
+    },
+    {
+      "line_index": 3,
+      "end_word": "despair",
+      "token_start": 39,
+      "token_end": 40,
+      "oov": false,
+      "phones": [
+        "D",
+        "IH0",
+        "S",
+        "P",
+        "EH1",
+        "R"
+      ]
+    },
+    {
+      "line_index": 4,
+      "end_word": "fire",
+      "token_start": 51,
+      "token_end": 52,
+      "oov": false,
+      "phones": [
+        "F",
+        "AY1",
+        "ER0"
+      ]
+    },
+    {
+      "line_index": 5,
+      "end_word": "gray",
+      "token_start": 63,
+      "token_end": 64,
+      "oov": false,
+      "phones": [
+        "G",
+        "R",
+        "EY1"
+      ]
+    },
+    {
+      "line_index": 6,
+      "end_word": "retire",
+      "token_start": 74,
+      "token_end": 75,
+      "oov": false,
+      "phones": [
+        "R",
+        "IH0",
+        "T",
+        "AY1",
+        "R"
+      ]
+    },
+    {
+      "line_index": 7,
+      "end_word": "may",
+      "token_start": 85,
+      "token_end": 86,
+      "oov": false,
+      "phones": [
+        "M",
+        "EY1"
+      ]
+    },
+    {
+      "line_index": 8,
+      "end_word": "above",
+      "token_start": 97,
+      "token_end": 98,
+      "oov": false,
+      "phones": [
+        "AH0",
+        "B",
+        "AH1",
+        "V"
+      ]
+    },
+    {
+      "line_index": 9,
+      "end_word": "sky",
+      "token_start": 110,
+      "token_end": 111,
+      "oov": false,
+      "phones": [
+        "S",
+        "K",
+        "AY1"
+      ]
+    },
+    {
+      "line_index": 10,
+      "end_word": "love",
+      "token_start": 119,
+      "token_end": 120,
+      "oov": false,
+      "phones": [
+        "L",
+        "AH1",
+        "V"
+      ]
+    },
+    {
+      "line_index": 11,
+      "end_word": "die",
+      "token_start": 128,
+      "token_end": 129,
+      "oov": false,
+      "phones": [
+        "D",
+        "AY1"
+      ]
+    },
+    {
+      "line_index": 12,
+      "end_word": "night",
+      "token_start": 137,
+      "token_end": 138,
+      "oov": false,
+      "phones": [
+        "N",
+        "AY1",
+        "T"
+      ]
+    },
+    {
+      "line_index": 13,
+      "end_word": "light",
+      "token_start": 146,
+      "token_end": 147,
+      "oov": false,
+      "phones": [
+        "L",
+        "AY1",
+        "T"
+      ]
+    }
+  ]
+}
