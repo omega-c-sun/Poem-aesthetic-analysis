@@ -12,10 +12,13 @@ if ($extraMd) {
 
 git init
 git branch -M main
-try {
-    git remote get-url origin | Out-Null
-} catch {
-    git remote add origin https://github.com/omega-c-sun/Poem-aesthetic-analysis.git
+
+$remoteUrl = "https://github.com/omega-c-sun/Poem-aesthetic-analysis.git"
+$existing = git remote get-url origin 2>$null
+if (-not $existing) {
+    git remote add origin $remoteUrl
+} elseif ($existing -ne $remoteUrl) {
+    git remote set-url origin $remoteUrl
 }
 
 git add .
